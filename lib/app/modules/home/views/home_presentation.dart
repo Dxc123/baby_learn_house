@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import '../../../core/category_art.dart';
+import 'home_category_cover.dart';
 import '../../../core/learning_widgets.dart';
 import '../../../core/learning_theme.dart';
 import '../../../data/learning_content.dart';
@@ -91,10 +91,10 @@ class HomeCategoryCard extends StatelessWidget {
               children: [
                 Stack(
                   children: [
-                    CategoryArt(
+                    HomeCategoryCover(
+                      categoryId: category.id,
                       symbol: category.symbol,
                       variant: variant,
-                      aspectRatio: 2.5,
                     ),
                     Positioned(
                       top: 8,

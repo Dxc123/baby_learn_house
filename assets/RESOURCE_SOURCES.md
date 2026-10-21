@@ -1,5 +1,9 @@
 # 2A 内容与图形来源
 
+## 首页文学封面补充（2026-10-21）
+
+assets/images/home/idioms-cover.webp、poetry-cover.webp、classics-cover.webp由本项目使用内置imagegen生成，分别表现儿童围读故事、山水月色小诗人、书院儿童共读。统一国风童趣插画、无嵌入文字；标题与注音仍由Flutter绘制。生成原图保留在本机Codex generated_images，本项目使用WebP压缩副本，非原站插画下载或截图。仅用于首页三个指定分类，不改变课程/音频/学习进度。
+
 ## 3D 画板补充
 
 画板为项目自行实现的Canvas笔迹，不引入第三方图画、图标包或新运行时依赖。用户画面只保存在本机drawing_draft_v1；导出使用同一绘制函数生成1024×1024白底PNG，通过系统面板由用户选择保存或分享。原课程资源、190段demo与131项缺录音保持不变。示例PNG见docs/artifacts/phase-3d/sample.png。

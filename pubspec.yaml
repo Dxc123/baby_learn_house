@@ -74,6 +74,7 @@ flutter:
     - assets/strokes/
     - assets/fonts/
     - assets/licenses/
+    - assets/images/home/
 
   # To add assets to your application, add an assets section, like this:
   # assets:

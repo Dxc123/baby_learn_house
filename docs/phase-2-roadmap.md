@@ -4,6 +4,8 @@
 
 4A首页视觉收敛已完成，含原站桌面/手机对照与四栏模拟器截图，见 [4A交付记录](/Users/liyaping/Desktop/baby_learn_house/docs/phase-4a-status.md)。后续仍需分批核对详情页视觉、内容/发音和设备缺口。
 
+4B已定位并解决原8项探测失败：测试首帧/真实异步等待、跨测试资源缓存隔离和懒列表就绪标记修正；完整145项测试通过、静态分析无问题，横屏与系统大字模拟器截图见 [4B交付记录](/Users/liyaping/Desktop/baby_learn_house/docs/phase-4b-status.md)。未改生产加载逻辑，原设备缺口仍保留。
+
 ## 当前起点
 
 当前提供261个条目、28个开放入口：原252项加3本绘本与6场对话。数字页9个入口全部开放；工具不计分母，图文按整本/整场计数。旧ID保留，课程状态继续使用learning_state_v1；画板独立使用drawing_draft_v1，不因清缓存删除。
