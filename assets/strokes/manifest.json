@@ -1,0 +1,368 @@
+{
+  "revision": "68d10a4b21150cae5e1ebbd223eed289cf32d90c",
+  "license": "assets/licenses/ARPHICPL.TXT",
+  "licenseSha256": "5590533436c70f10f2f524ee61456238c290175c6662fbe1c700b5f038a6d328",
+  "reviewStatus": "automated structural validation; teaching review pending",
+  "entries": [
+    {
+      "character": "一",
+      "asset": "assets/strokes/4e00.json",
+      "sha256": "ed728673d86fb9aa559c5b150e59ffbee666b085d4a55597c524079a91ebc8ce",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B8%80.json"
+    },
+    {
+      "character": "二",
+      "asset": "assets/strokes/4e8c.json",
+      "sha256": "24d4225b8514e5b169f44230ba38169f63e9d9875f31b478457841114dbe1faa",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%BA%8C.json"
+    },
+    {
+      "character": "三",
+      "asset": "assets/strokes/4e09.json",
+      "sha256": "917763e15ac14a5ece5067913da4156f3060f33ae0e172d3533275a494cec99c",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B8%89.json"
+    },
+    {
+      "character": "人",
+      "asset": "assets/strokes/4eba.json",
+      "sha256": "18ffb9fb727576b0c3e7dc44914be7ffd43164de9ba121710824b83f27bd3bb1",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%BA%BA.json"
+    },
+    {
+      "character": "口",
+      "asset": "assets/strokes/53e3.json",
+      "sha256": "ac208865e3166fc35214cec326f00a4b6788a8cac9b4c5a6a37745077e32ddab",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%8F%A3.json"
+    },
+    {
+      "character": "山",
+      "asset": "assets/strokes/5c71.json",
+      "sha256": "c1e58c4b20cba28ae9778dfb280a93dc18fdccd3ecbec00bece20ce739c9f459",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%B1%B1.json"
+    },
+    {
+      "character": "四",
+      "asset": "assets/strokes/56db.json",
+      "sha256": "8aa7b3e16a0c3f67fc4ed3b08c7f24e80b2e90d8f6ade512d20109a625bea3b9",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%9B%9B.json"
+    },
+    {
+      "character": "五",
+      "asset": "assets/strokes/4e94.json",
+      "sha256": "c2d064e88c2acde1faecc4ff45f0d4ec7cd5889a3e4b7e8145019150ad6db7bd",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%BA%94.json"
+    },
+    {
+      "character": "六",
+      "asset": "assets/strokes/516d.json",
+      "sha256": "54216db5e4bcd45583584fbff169a25d10c3a34e0fa64f3c7a2267bc94398f86",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%85%AD.json"
+    },
+    {
+      "character": "七",
+      "asset": "assets/strokes/4e03.json",
+      "sha256": "03b69a950dffb72be4dafb6226641d9182858d439af9c945f2b0d52b5bc55510",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B8%83.json"
+    },
+    {
+      "character": "八",
+      "asset": "assets/strokes/516b.json",
+      "sha256": "650e961eefa88d95cc119146ff6606275ecad54c3f8ad1442c08889f928ec5af",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%85%AB.json"
+    },
+    {
+      "character": "九",
+      "asset": "assets/strokes/4e5d.json",
+      "sha256": "ec8fa16237207544c76a014c552c5f7c227813e300875a287f07a0b8b86dbe54",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B9%9D.json"
+    },
+    {
+      "character": "日",
+      "asset": "assets/strokes/65e5.json",
+      "sha256": "5c6bad210149abac8bd645cb12b1394edea5681f224154c27f422134299520fb",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%97%A5.json"
+    },
+    {
+      "character": "月",
+      "asset": "assets/strokes/6708.json",
+      "sha256": "441949321eb706def6e8d0c1eeca6b461141703dcc07619939a32d681e08fc46",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%9C%88.json"
+    },
+    {
+      "character": "水",
+      "asset": "assets/strokes/6c34.json",
+      "sha256": "46e262a80f2b7da72ea04788d1c19c40339e18beaba16987cc84d55fc257c9e3",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%B0%B4.json"
+    },
+    {
+      "character": "火",
+      "asset": "assets/strokes/706b.json",
+      "sha256": "09fc0a54adb11753319f5750dcdc127698dfb8a453f1a57b5f11b6a1ee3c64e0",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%81%AB.json"
+    },
+    {
+      "character": "土",
+      "asset": "assets/strokes/571f.json",
+      "sha256": "f1f7bfa95a5821fa27573560d3c88552a9e70a3fd3816724cbd441b5c07d17ee",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%9C%9F.json"
+    },
+    {
+      "character": "木",
+      "asset": "assets/strokes/6728.json",
+      "sha256": "2b5bb221b4403a303a567756304545a104d915117cc0f1b3fdea71e7928dfc50",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%9C%A8.json"
+    },
+    {
+      "character": "上",
+      "asset": "assets/strokes/4e0a.json",
+      "sha256": "9eed5643ff92171f9bf1ae5d4b70d717f2a3fd6961f72e81c0245ce13523d865",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B8%8A.json"
+    },
+    {
+      "character": "下",
+      "asset": "assets/strokes/4e0b.json",
+      "sha256": "34984a2541baae9132f32e3dfe758ca29df64829558dc5a1c553c3d3011da880",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B8%8B.json"
+    },
+    {
+      "character": "左",
+      "asset": "assets/strokes/5de6.json",
+      "sha256": "a5741d50aea9247117aee3a150b7707ddaf9193b94032e3616cff9415f9dc1ed",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%B7%A6.json"
+    },
+    {
+      "character": "右",
+      "asset": "assets/strokes/53f3.json",
+      "sha256": "d2483a266cd756c8deb1e4523e54fee29270ad4eb87a3b2bf1d40f9eb68de0cf",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%8F%B3.json"
+    },
+    {
+      "character": "中",
+      "asset": "assets/strokes/4e2d.json",
+      "sha256": "6982c8c16e7e7f769011edef0608289443711dbb34046dd9ca763e79ec29192f",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E4%B8%AD.json"
+    },
+    {
+      "character": "大",
+      "asset": "assets/strokes/5927.json",
+      "sha256": "83c82950e903c915aa50d0d62b084a2d31c85fe68dce21e0acf39e2f9607e611",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%A4%A7.json"
+    },
+    {
+      "character": "小",
+      "asset": "assets/strokes/5c0f.json",
+      "sha256": "72bf769c8c3426bffa578502eb8b1532fb1e622ddb6f40ded04e484290c0fe8c",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%B0%8F.json"
+    },
+    {
+      "character": "多",
+      "asset": "assets/strokes/591a.json",
+      "sha256": "d7bc212fe60eaa766209b36e5e9642940892cf43b472accedaf55f517d8313dc",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%A4%9A.json"
+    },
+    {
+      "character": "少",
+      "asset": "assets/strokes/5c11.json",
+      "sha256": "de5cd9d5b1bbd468411f82f7d57881b11b3a9b9c7bb812ff891ac66c06b31ef7",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%B0%91.json"
+    },
+    {
+      "character": "长",
+      "asset": "assets/strokes/957f.json",
+      "sha256": "c99fe3d6a862b82befc528e49164b6bf80d461aa6a4b9c9258f4d3debbc49b81",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E9%95%BF.json"
+    },
+    {
+      "character": "短",
+      "asset": "assets/strokes/77ed.json",
+      "sha256": "72dba1c53031556c2b06624c3df2f75ffd92190245a75727ad7d82de9bea8542",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%9F%AD.json"
+    },
+    {
+      "character": "高",
+      "asset": "assets/strokes/9ad8.json",
+      "sha256": "99d078f0a742511e3225a994169678c2b35ed42d4a39e4f5c41946c1e4c04567",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E9%AB%98.json"
+    },
+    {
+      "character": "目",
+      "asset": "assets/strokes/76ee.json",
+      "sha256": "f5392f6be0cba05d57c6b9cdb111ad402415e57e886e491a18fbeda6d0206a6b",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%9B%AE.json"
+    },
+    {
+      "character": "耳",
+      "asset": "assets/strokes/8033.json",
+      "sha256": "87d23fce6860c1b5600982e241b3ed486e7bededf8d78a674c55ccd8479e4c10",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E8%80%B3.json"
+    },
+    {
+      "character": "手",
+      "asset": "assets/strokes/624b.json",
+      "sha256": "7964eac3bced473343f5741f98fea3eb2dd842eecd57ec20b4369912570964a7",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%89%8B.json"
+    },
+    {
+      "character": "足",
+      "asset": "assets/strokes/8db3.json",
+      "sha256": "5261cef041c9bcca1db60469259e7f033ae7fc5a86b6a929ba5ddb15010e0742",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E8%B6%B3.json"
+    },
+    {
+      "character": "心",
+      "asset": "assets/strokes/5fc3.json",
+      "sha256": "24b00ca173bbf7403181af1a4f9414f3b9175ed04b17108055c7d9e3fe6d6215",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%BF%83.json"
+    },
+    {
+      "character": "头",
+      "asset": "assets/strokes/5934.json",
+      "sha256": "3be11ae6a2e035f7a949c948279ad3f4d456a87e2ee0469d583e22648759901d",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%A4%B4.json"
+    },
+    {
+      "character": "父",
+      "asset": "assets/strokes/7236.json",
+      "sha256": "7a5ff74de6fcb7dcbd8c8673bebe17b239eab65534abc235e68944b1500f7fd5",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%88%B6.json"
+    },
+    {
+      "character": "母",
+      "asset": "assets/strokes/6bcd.json",
+      "sha256": "6933626e85e8a84335dbd2e3de8381d472499b9addf6804e8f49714a134aa4e5",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%AF%8D.json"
+    },
+    {
+      "character": "子",
+      "asset": "assets/strokes/5b50.json",
+      "sha256": "f5b7ff9aa3de64ec676e3f06e7c22795aa834eb11eec43b9423f355db5f46474",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%AD%90.json"
+    },
+    {
+      "character": "女",
+      "asset": "assets/strokes/5973.json",
+      "sha256": "8a17d3644493617f0090476873c0e01c25d83271e586c097e40ef0256ced5ac8",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%A5%B3.json"
+    },
+    {
+      "character": "兄",
+      "asset": "assets/strokes/5144.json",
+      "sha256": "f370276eb6c44b3615854bc5245eeaaadca0e8a0e83b25fabdeb90033cfc8060",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%85%84.json"
+    },
+    {
+      "character": "弟",
+      "asset": "assets/strokes/5f1f.json",
+      "sha256": "9a89eaf0eef53c73f69bd3cd9f53fd0e628c4c663b13f6c0a4c3773b3071a735",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%BC%9F.json"
+    },
+    {
+      "character": "门",
+      "asset": "assets/strokes/95e8.json",
+      "sha256": "d37eeb35aa87a9862da22248e0818b203af85258f05c67f9023dfc0d7498ca3c",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E9%97%A8.json"
+    },
+    {
+      "character": "车",
+      "asset": "assets/strokes/8f66.json",
+      "sha256": "7f863fb9a5d558ea337928cdd50c65be932c4a35fbde2cf28bfda48f8a438ac8",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E8%BD%A6.json"
+    },
+    {
+      "character": "马",
+      "asset": "assets/strokes/9a6c.json",
+      "sha256": "451304b0187c080bcf62115dbd75f19f6306f44e955df59236484e13e031bfc5",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E9%A9%AC.json"
+    },
+    {
+      "character": "牛",
+      "asset": "assets/strokes/725b.json",
+      "sha256": "cb0c578ebb919ca2ad759cc8a79159f1eff623ae7f57dacca26a1bbbc523ab98",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%89%9B.json"
+    },
+    {
+      "character": "羊",
+      "asset": "assets/strokes/7f8a.json",
+      "sha256": "9f9f43158c9af7617b092a0f9946e3191fb206dced2aa5a3b19c180244362422",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%BE%8A.json"
+    },
+    {
+      "character": "鸟",
+      "asset": "assets/strokes/9e1f.json",
+      "sha256": "2d62bee9f3dce68cead54e04298b7ca9be109f8ebe9c59d356d2f89c38184a33",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E9%B8%9F.json"
+    },
+    {
+      "character": "花",
+      "asset": "assets/strokes/82b1.json",
+      "sha256": "62f0b92426131b634b393c90e1de91d8f5b321fcd6fc1d7e77a0bf8be5b90e18",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E8%8A%B1.json"
+    },
+    {
+      "character": "草",
+      "asset": "assets/strokes/8349.json",
+      "sha256": "f9e8c120c5db52608a3a4c03b564c577f54230659c0dae5de4e8d7ad7de82f57",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E8%8D%89.json"
+    },
+    {
+      "character": "竹",
+      "asset": "assets/strokes/7af9.json",
+      "sha256": "038ede060ba5a500666f4c34051cdd760a3f7f122f04c4f4b040046a0a02e39d",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%AB%B9.json"
+    },
+    {
+      "character": "禾",
+      "asset": "assets/strokes/79be.json",
+      "sha256": "74d7e9274a9b3d02fbb353f424a40988a3f8760bb9f465d834d048eceb7451ae",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%A6%BE.json"
+    },
+    {
+      "character": "米",
+      "asset": "assets/strokes/7c73.json",
+      "sha256": "105847e8be1741677145b1e7b7168ba883e9ca3ae1abb7b60a476d430117e88e",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E7%B1%B3.json"
+    },
+    {
+      "character": "果",
+      "asset": "assets/strokes/679c.json",
+      "sha256": "9862414e1eab8e4ff3849cf29145d83bad8c74754c0faff35de284875ece9559",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%9E%9C.json"
+    },
+    {
+      "character": "来",
+      "asset": "assets/strokes/6765.json",
+      "sha256": "ebf3a9165522693077a8f14d25e003565409d8751ff0a4724423315d57d9a57d",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E6%9D%A5.json"
+    },
+    {
+      "character": "去",
+      "asset": "assets/strokes/53bb.json",
+      "sha256": "96e01168e8c76add5a05de734f18ef282451ca9107757977e5d83d8eea2bc281",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%8E%BB.json"
+    },
+    {
+      "character": "走",
+      "asset": "assets/strokes/8d70.json",
+      "sha256": "2d73ebc4b90cdf561408b3deb5948509048f2c7a49fb005c80c6bdc001ff24a7",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E8%B5%B0.json"
+    },
+    {
+      "character": "出",
+      "asset": "assets/strokes/51fa.json",
+      "sha256": "1b7e7176d1c5ca47f340e9ce28937f33929b6768ee20ea79f9129118b87f00a2",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%87%BA.json"
+    },
+    {
+      "character": "入",
+      "asset": "assets/strokes/5165.json",
+      "sha256": "28e84eb75ecc641c2819d0377f2111a90d0cb998534bb295b75fb6f3003f6909",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%85%A5.json"
+    },
+    {
+      "character": "开",
+      "asset": "assets/strokes/5f00.json",
+      "sha256": "0b4efab7fc994927f4244f1c6d79a7012668a9c7cbdbc40a45d0bcf9b4cbbd49",
+      "source": "https://raw.githubusercontent.com/chanind/hanzi-writer-data/68d10a4b21150cae5e1ebbd223eed289cf32d90c/data/%E5%BC%80.json"
+    }
+  ]
+}

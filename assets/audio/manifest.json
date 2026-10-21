@@ -1,0 +1,590 @@
+[
+  {
+    "asset": "audio/pinyin-a.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/pinyin-o.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/pinyin-e.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/pinyin-i.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/pinyin-u.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/pinyin-v.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/hanzi-yi.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/hanzi-er.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/hanzi-san.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/hanzi-ren.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/hanzi-kou.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/hanzi-shan.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-a.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-b.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-c.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-d.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-e.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-f.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-g.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-h.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-i.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-j.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-k.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-l.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-m.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-n.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-o.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-p.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-q.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-r.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-s.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-t.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-u.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-v.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-w.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-x.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-y.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/en-z.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/family-dad.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/family-mom.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/family-grandpa.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/family-grandma.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/family-brother.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/family-sister.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/body-eyes.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/body-ears.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/body-nose.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/body-mouth.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/body-hand.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/body-foot.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/sports-run.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/sports-swim.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/sports-rope.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/sports-soccer.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/sports-basketball.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/sports-pingpong.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/jobs-doctor.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/jobs-teacher.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/jobs-police.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/jobs-firefighter.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/jobs-cook.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/jobs-farmer.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/colors-red.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/colors-yellow.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/colors-blue.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/colors-green.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/colors-black.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/colors-white.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/shapes-circle.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/shapes-square.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/shapes-triangle.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/shapes-rectangle.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/shapes-oval.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/shapes-star.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/animal-cat.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/animal-dog.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/animal-rabbit.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/animal-bird.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/animal-fish.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/animal-cow.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/plants-tree.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/plants-grass.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/plants-lotus.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/plants-sunflower.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/plants-pine.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/plants-bamboo.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/foods-apple.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/foods-banana.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/foods-rice.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/foods-bread.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/foods-egg.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/foods-milk.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/vehicles-bike.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/vehicles-car.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/vehicles-bus.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/vehicles-train.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/vehicles-ship.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  },
+  {
+    "asset": "audio/vehicles-plane.wav",
+    "source": "macOS system speech; development demo",
+    "quality": "demo",
+    "reviewedBy": null
+  }
+]

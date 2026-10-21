@@ -1,0 +1,2451 @@
+{
+  "version": 1,
+  "passages": [
+    {
+      "id": "poetry-yong-e",
+      "categoryId": "poetry",
+      "title": "咏鹅",
+      "titlePinyin": [
+        "yǒng",
+        "é"
+      ],
+      "author": "骆宾王",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-yong-e-line-01",
+          "text": "鹅，鹅，鹅，",
+          "pinyin": [
+            "é",
+            "",
+            "é",
+            "",
+            "é",
+            ""
+          ],
+          "explanation": "诗人呼唤着白鹅。",
+          "audio": "audio/reading/poetry-yong-e-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "鹅，鹅，鹅，"
+        },
+        {
+          "id": "poetry-yong-e-line-02",
+          "text": "曲项向天歌。",
+          "pinyin": [
+            "qū",
+            "xiàng",
+            "xiàng",
+            "tiān",
+            "gē",
+            ""
+          ],
+          "explanation": "白鹅弯着脖子，朝天空鸣叫。",
+          "audio": "audio/reading/poetry-yong-e-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "曲项向天歌。"
+        },
+        {
+          "id": "poetry-yong-e-line-03",
+          "text": "白毛浮绿水，",
+          "pinyin": [
+            "bái",
+            "máo",
+            "fú",
+            "lǜ",
+            "shuǐ",
+            ""
+          ],
+          "explanation": "白色羽毛浮在绿水上。",
+          "audio": "audio/reading/poetry-yong-e-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "白毛浮绿水，"
+        },
+        {
+          "id": "poetry-yong-e-line-04",
+          "text": "红掌拨清波。",
+          "pinyin": [
+            "hóng",
+            "zhǎng",
+            "bō",
+            "qīng",
+            "bō",
+            ""
+          ],
+          "explanation": "红色脚掌拨动清清的水波。",
+          "audio": "audio/reading/poetry-yong-e-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "红掌拨清波。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/詠鵝",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-jingyesi",
+      "categoryId": "poetry",
+      "title": "静夜思",
+      "titlePinyin": [
+        "jìng",
+        "yè",
+        "sī"
+      ],
+      "author": "李白",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-jingyesi-line-01",
+          "text": "床前明月光，",
+          "pinyin": [
+            "chuáng",
+            "qián",
+            "míng",
+            "yuè",
+            "guāng",
+            ""
+          ],
+          "explanation": "床前洒着明亮的月光。",
+          "audio": "audio/reading/poetry-jingyesi-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "床前明月光，"
+        },
+        {
+          "id": "poetry-jingyesi-line-02",
+          "text": "疑是地上霜。",
+          "pinyin": [
+            "yí",
+            "shì",
+            "dì",
+            "shàng",
+            "shuāng",
+            ""
+          ],
+          "explanation": "诗人一时以为地上落了霜。",
+          "audio": "audio/reading/poetry-jingyesi-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "疑是地上霜。"
+        },
+        {
+          "id": "poetry-jingyesi-line-03",
+          "text": "举头望明月，",
+          "pinyin": [
+            "jǔ",
+            "tóu",
+            "wàng",
+            "míng",
+            "yuè",
+            ""
+          ],
+          "explanation": "抬起头望着天上的月亮。",
+          "audio": "audio/reading/poetry-jingyesi-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "举头望明月，"
+        },
+        {
+          "id": "poetry-jingyesi-line-04",
+          "text": "低头思故乡。",
+          "pinyin": [
+            "dī",
+            "tóu",
+            "sī",
+            "gù",
+            "xiāng",
+            ""
+          ],
+          "explanation": "低下头想念远方的故乡。",
+          "audio": "audio/reading/poetry-jingyesi-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "低头思故乡。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/靜夜思",
+        "edition": "唐诗三百首所收通行版本",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-chunxiao",
+      "categoryId": "poetry",
+      "title": "春晓",
+      "titlePinyin": [
+        "chūn",
+        "xiǎo"
+      ],
+      "author": "孟浩然",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-chunxiao-line-01",
+          "text": "春眠不觉晓，",
+          "pinyin": [
+            "chūn",
+            "mián",
+            "bù",
+            "jué",
+            "xiǎo",
+            ""
+          ],
+          "explanation": "春天睡得香，不知天已亮。",
+          "audio": "audio/reading/poetry-chunxiao-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "春眠不觉晓，"
+        },
+        {
+          "id": "poetry-chunxiao-line-02",
+          "text": "处处闻啼鸟。",
+          "pinyin": [
+            "chù",
+            "chù",
+            "wén",
+            "tí",
+            "niǎo",
+            ""
+          ],
+          "explanation": "到处都能听见鸟叫。",
+          "audio": "audio/reading/poetry-chunxiao-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "处处闻啼鸟。"
+        },
+        {
+          "id": "poetry-chunxiao-line-03",
+          "text": "夜来风雨声，",
+          "pinyin": [
+            "yè",
+            "lái",
+            "fēng",
+            "yǔ",
+            "shēng",
+            ""
+          ],
+          "explanation": "想起夜里的风雨声音。",
+          "audio": "audio/reading/poetry-chunxiao-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "夜来风雨声，"
+        },
+        {
+          "id": "poetry-chunxiao-line-04",
+          "text": "花落知多少。",
+          "pinyin": [
+            "huā",
+            "luò",
+            "zhī",
+            "duō",
+            "shǎo",
+            ""
+          ],
+          "explanation": "不知道有多少花被风雨吹落。",
+          "audio": "audio/reading/poetry-chunxiao-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "花落知多少。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/春曉_(孟浩然)",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-minnong-2",
+      "categoryId": "poetry",
+      "title": "悯农（其二）",
+      "titlePinyin": [
+        "mǐn",
+        "nóng",
+        "",
+        "qí",
+        "èr",
+        ""
+      ],
+      "author": "李绅",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-minnong-2-line-01",
+          "text": "锄禾日当午，",
+          "pinyin": [
+            "chú",
+            "hé",
+            "rì",
+            "dāng",
+            "wǔ",
+            ""
+          ],
+          "explanation": "正午时，农人在田间锄草。",
+          "audio": "audio/reading/poetry-minnong-2-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "锄禾日当午，"
+        },
+        {
+          "id": "poetry-minnong-2-line-02",
+          "text": "汗滴禾下土。",
+          "pinyin": [
+            "hàn",
+            "dī",
+            "hé",
+            "xià",
+            "tǔ",
+            ""
+          ],
+          "explanation": "汗水滴在禾苗下面的土里。",
+          "audio": "audio/reading/poetry-minnong-2-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "汗滴禾下土。"
+        },
+        {
+          "id": "poetry-minnong-2-line-03",
+          "text": "谁知盘中餐，",
+          "pinyin": [
+            "shuí",
+            "zhī",
+            "pán",
+            "zhōng",
+            "cān",
+            ""
+          ],
+          "explanation": "谁能想到碗里的饭菜，",
+          "audio": "audio/reading/poetry-minnong-2-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "谁知盘中餐，"
+        },
+        {
+          "id": "poetry-minnong-2-line-04",
+          "text": "粒粒皆辛苦。",
+          "pinyin": [
+            "lì",
+            "lì",
+            "jiē",
+            "xīn",
+            "kǔ",
+            ""
+          ],
+          "explanation": "每一粒粮食都来自辛勤劳动。",
+          "audio": "audio/reading/poetry-minnong-2-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "粒粒皆辛苦。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/憫農_(李紳)",
+        "edition": "其二；项目采用通行用字餐（cān），所链接古籍页面作飧；非逐字影印",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-dengguanquelou",
+      "categoryId": "poetry",
+      "title": "登鹳雀楼",
+      "titlePinyin": [
+        "dēng",
+        "guàn",
+        "què",
+        "lóu"
+      ],
+      "author": "王之涣",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-dengguanquelou-line-01",
+          "text": "白日依山尽，",
+          "pinyin": [
+            "bái",
+            "rì",
+            "yī",
+            "shān",
+            "jìn",
+            ""
+          ],
+          "explanation": "太阳靠着远山慢慢落下。",
+          "audio": "audio/reading/poetry-dengguanquelou-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "白日依山尽，"
+        },
+        {
+          "id": "poetry-dengguanquelou-line-02",
+          "text": "黄河入海流。",
+          "pinyin": [
+            "huáng",
+            "hé",
+            "rù",
+            "hǎi",
+            "liú",
+            ""
+          ],
+          "explanation": "黄河奔流，流向大海。",
+          "audio": "audio/reading/poetry-dengguanquelou-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "黄河入海流。"
+        },
+        {
+          "id": "poetry-dengguanquelou-line-03",
+          "text": "欲穷千里目，",
+          "pinyin": [
+            "yù",
+            "qióng",
+            "qiān",
+            "lǐ",
+            "mù",
+            ""
+          ],
+          "explanation": "如果想把更远的景色看清，",
+          "audio": "audio/reading/poetry-dengguanquelou-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "欲穷千里目，"
+        },
+        {
+          "id": "poetry-dengguanquelou-line-04",
+          "text": "更上一层楼。",
+          "pinyin": [
+            "gèng",
+            "shàng",
+            "yì",
+            "céng",
+            "lóu",
+            ""
+          ],
+          "explanation": "就再登上一层楼。",
+          "audio": "audio/reading/poetry-dengguanquelou-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "更上一层楼。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/登鸛雀樓_(王之渙)",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-xunyinzhebuyu",
+      "categoryId": "poetry",
+      "title": "寻隐者不遇",
+      "titlePinyin": [
+        "xún",
+        "yǐn",
+        "zhě",
+        "bù",
+        "yù"
+      ],
+      "author": "贾岛",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-xunyinzhebuyu-line-01",
+          "text": "松下问童子，",
+          "pinyin": [
+            "sōng",
+            "xià",
+            "wèn",
+            "tóng",
+            "zǐ",
+            ""
+          ],
+          "explanation": "在松树下向小孩子问路。",
+          "audio": "audio/reading/poetry-xunyinzhebuyu-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "松下问童子，"
+        },
+        {
+          "id": "poetry-xunyinzhebuyu-line-02",
+          "text": "言师采药去。",
+          "pinyin": [
+            "yán",
+            "shī",
+            "cǎi",
+            "yào",
+            "qù",
+            ""
+          ],
+          "explanation": "孩子说老师采药去了。",
+          "audio": "audio/reading/poetry-xunyinzhebuyu-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "言师采药去。"
+        },
+        {
+          "id": "poetry-xunyinzhebuyu-line-03",
+          "text": "只在此山中，",
+          "pinyin": [
+            "zhǐ",
+            "zài",
+            "cǐ",
+            "shān",
+            "zhōng",
+            ""
+          ],
+          "explanation": "就在这座山里面，",
+          "audio": "audio/reading/poetry-xunyinzhebuyu-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "只在此山中，"
+        },
+        {
+          "id": "poetry-xunyinzhebuyu-line-04",
+          "text": "云深不知处。",
+          "pinyin": [
+            "yún",
+            "shēn",
+            "bù",
+            "zhī",
+            "chù",
+            ""
+          ],
+          "explanation": "云雾很浓，不知他具体在哪里。",
+          "audio": "audio/reading/poetry-xunyinzhebuyu-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "云深不知处。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/尋隱者不遇",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-jiangxue",
+      "categoryId": "poetry",
+      "title": "江雪",
+      "titlePinyin": [
+        "jiāng",
+        "xuě"
+      ],
+      "author": "柳宗元",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-jiangxue-line-01",
+          "text": "千山鸟飞绝，",
+          "pinyin": [
+            "qiān",
+            "shān",
+            "niǎo",
+            "fēi",
+            "jué",
+            ""
+          ],
+          "explanation": "许多山间都看不到飞鸟。",
+          "audio": "audio/reading/poetry-jiangxue-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "千山鸟飞绝，"
+        },
+        {
+          "id": "poetry-jiangxue-line-02",
+          "text": "万径人踪灭。",
+          "pinyin": [
+            "wàn",
+            "jìng",
+            "rén",
+            "zōng",
+            "miè",
+            ""
+          ],
+          "explanation": "许多小路上都没有人的足迹。",
+          "audio": "audio/reading/poetry-jiangxue-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "万径人踪灭。"
+        },
+        {
+          "id": "poetry-jiangxue-line-03",
+          "text": "孤舟蓑笠翁，",
+          "pinyin": [
+            "gū",
+            "zhōu",
+            "suō",
+            "lì",
+            "wēng",
+            ""
+          ],
+          "explanation": "孤单的小船上，老人穿蓑衣戴斗笠。",
+          "audio": "audio/reading/poetry-jiangxue-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "孤舟蓑笠翁，"
+        },
+        {
+          "id": "poetry-jiangxue-line-04",
+          "text": "独钓寒江雪。",
+          "pinyin": [
+            "dú",
+            "diào",
+            "hán",
+            "jiāng",
+            "xuě",
+            ""
+          ],
+          "explanation": "他独自在下雪的寒江上钓鱼。",
+          "audio": "audio/reading/poetry-jiangxue-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "独钓寒江雪。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/江雪",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-gulangyuexing-excerpt",
+      "categoryId": "poetry",
+      "title": "古朗月行（节选）",
+      "titlePinyin": [
+        "gǔ",
+        "lǎng",
+        "yuè",
+        "xíng",
+        "",
+        "jié",
+        "xuǎn",
+        ""
+      ],
+      "author": "李白",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-gulangyuexing-excerpt-line-01",
+          "text": "小时不识月，",
+          "pinyin": [
+            "xiǎo",
+            "shí",
+            "bù",
+            "shí",
+            "yuè",
+            ""
+          ],
+          "explanation": "小时候还不认识月亮，",
+          "audio": "audio/reading/poetry-gulangyuexing-excerpt-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "小时不识月，"
+        },
+        {
+          "id": "poetry-gulangyuexing-excerpt-line-02",
+          "text": "呼作白玉盘。",
+          "pinyin": [
+            "hū",
+            "zuò",
+            "bái",
+            "yù",
+            "pán",
+            ""
+          ],
+          "explanation": "把它叫作白色的玉盘。",
+          "audio": "audio/reading/poetry-gulangyuexing-excerpt-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "呼作白玉盘。"
+        },
+        {
+          "id": "poetry-gulangyuexing-excerpt-line-03",
+          "text": "又疑瑶台镜，",
+          "pinyin": [
+            "yòu",
+            "yí",
+            "yáo",
+            "tái",
+            "jìng",
+            ""
+          ],
+          "explanation": "又觉得它像瑶台上的镜子，",
+          "audio": "audio/reading/poetry-gulangyuexing-excerpt-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "又疑瑶台镜，"
+        },
+        {
+          "id": "poetry-gulangyuexing-excerpt-line-04",
+          "text": "飞在青云端。",
+          "pinyin": [
+            "fēi",
+            "zài",
+            "qīng",
+            "yún",
+            "duān",
+            ""
+          ],
+          "explanation": "飞在高高的青云上面。",
+          "audio": "audio/reading/poetry-gulangyuexing-excerpt-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "飞在青云端。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/古朗月行",
+        "edition": "前四个五言句节选",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-xiaochi",
+      "categoryId": "poetry",
+      "title": "小池",
+      "titlePinyin": [
+        "xiǎo",
+        "chí"
+      ],
+      "author": "杨万里",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-xiaochi-line-01",
+          "text": "泉眼无声惜细流，",
+          "pinyin": [
+            "quán",
+            "yǎn",
+            "wú",
+            "shēng",
+            "xī",
+            "xì",
+            "liú",
+            ""
+          ],
+          "explanation": "小泉眼静静地流着细水。",
+          "audio": "audio/reading/poetry-xiaochi-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "泉眼无声惜细流，"
+        },
+        {
+          "id": "poetry-xiaochi-line-02",
+          "text": "树阴照水爱晴柔。",
+          "pinyin": [
+            "shù",
+            "yīn",
+            "zhào",
+            "shuǐ",
+            "ài",
+            "qíng",
+            "róu",
+            ""
+          ],
+          "explanation": "树影映在水中，晴天温柔美好。",
+          "audio": "audio/reading/poetry-xiaochi-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "树阴照水爱晴柔。"
+        },
+        {
+          "id": "poetry-xiaochi-line-03",
+          "text": "小荷才露尖尖角，",
+          "pinyin": [
+            "xiǎo",
+            "hé",
+            "cái",
+            "lù",
+            "jiān",
+            "jiān",
+            "jiǎo",
+            ""
+          ],
+          "explanation": "小荷叶刚露出尖尖的角，",
+          "audio": "audio/reading/poetry-xiaochi-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "小荷才露尖尖角，"
+        },
+        {
+          "id": "poetry-xiaochi-line-04",
+          "text": "早有蜻蜓立上头。",
+          "pinyin": [
+            "zǎo",
+            "yǒu",
+            "qīng",
+            "tíng",
+            "lì",
+            "shàng",
+            "tóu",
+            ""
+          ],
+          "explanation": "已经有蜻蜓站在上面了。",
+          "audio": "audio/reading/poetry-xiaochi-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "早有蜻蜓立上头。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/小池",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "poetry-shanxing",
+      "categoryId": "poetry",
+      "title": "山行",
+      "titlePinyin": [
+        "shān",
+        "xíng"
+      ],
+      "author": "杜牧",
+      "sourceLabel": "古诗 · 自编解释",
+      "intro": "读一读诗句，想一想诗人看到的景象。",
+      "lines": [
+        {
+          "id": "poetry-shanxing-line-01",
+          "text": "远上寒山石径斜，",
+          "pinyin": [
+            "yuǎn",
+            "shàng",
+            "hán",
+            "shān",
+            "shí",
+            "jìng",
+            "xié",
+            ""
+          ],
+          "explanation": "顺着弯曲的石头小路走上秋山。",
+          "audio": "audio/reading/poetry-shanxing-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "远上寒山石径斜，"
+        },
+        {
+          "id": "poetry-shanxing-line-02",
+          "text": "白云生处有人家。",
+          "pinyin": [
+            "bái",
+            "yún",
+            "shēng",
+            "chù",
+            "yǒu",
+            "rén",
+            "jiā",
+            ""
+          ],
+          "explanation": "白云升起的地方，有几户人家。",
+          "audio": "audio/reading/poetry-shanxing-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "白云生处有人家。"
+        },
+        {
+          "id": "poetry-shanxing-line-03",
+          "text": "停车坐爱枫林晚，",
+          "pinyin": [
+            "tíng",
+            "chē",
+            "zuò",
+            "ài",
+            "fēng",
+            "lín",
+            "wǎn",
+            ""
+          ],
+          "explanation": "停下车，是因为喜爱傍晚的枫林。",
+          "audio": "audio/reading/poetry-shanxing-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "停车坐爱枫林晚，"
+        },
+        {
+          "id": "poetry-shanxing-line-04",
+          "text": "霜叶红于二月花。",
+          "pinyin": [
+            "shuāng",
+            "yè",
+            "hóng",
+            "yú",
+            "èr",
+            "yuè",
+            "huā",
+            ""
+          ],
+          "explanation": "经霜的红叶，比二月的春花还红。",
+          "audio": "audio/reading/poetry-shanxing-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "霜叶红于二月花。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/山行_(杜牧)",
+        "edition": "简体通行本；山行采用白云生处、斜读xié，小池采用树阴",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-shouzhudaitu",
+      "categoryId": "idioms",
+      "title": "守株待兔",
+      "titlePinyin": [
+        "shǒu",
+        "zhū",
+        "dài",
+        "tù"
+      ],
+      "author": "韩非子·五蠹",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "不能把偶然的好运当作每天都会发生的事情。",
+      "lines": [
+        {
+          "id": "idiom-shouzhudaitu-line-01",
+          "text": "一个农夫在田里干活，看见兔子撞上树桩。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "nóng",
+            "fū",
+            "zài",
+            "tián",
+            "lǐ",
+            "gàn",
+            "huó",
+            "",
+            "kàn",
+            "jiàn",
+            "tù",
+            "zi",
+            "zhuàng",
+            "shàng",
+            "shù",
+            "zhuāng",
+            ""
+          ],
+          "explanation": "树桩是树被砍后留下的部分。",
+          "audio": "audio/reading/idiom-shouzhudaitu-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一个农夫在田里干活，看见兔子撞上树桩。"
+        },
+        {
+          "id": "idiom-shouzhudaitu-line-02",
+          "text": "农夫捡到了兔子，心里觉得非常高兴。",
+          "pinyin": [
+            "nóng",
+            "fū",
+            "jiǎn",
+            "dào",
+            "le",
+            "tù",
+            "zi",
+            "",
+            "xīn",
+            "lǐ",
+            "jué",
+            "de",
+            "fēi",
+            "cháng",
+            "gāo",
+            "xìng",
+            ""
+          ],
+          "explanation": "捡到兔子是一次偶然的事情。",
+          "audio": "audio/reading/idiom-shouzhudaitu-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "农夫捡到了兔子，心里觉得非常高兴。"
+        },
+        {
+          "id": "idiom-shouzhudaitu-line-03",
+          "text": "从此他不再种田，天天坐在树桩旁等待。",
+          "pinyin": [
+            "cóng",
+            "cǐ",
+            "tā",
+            "bù",
+            "zài",
+            "zhòng",
+            "tián",
+            "",
+            "tiān",
+            "tiān",
+            "zuò",
+            "zài",
+            "shù",
+            "zhuāng",
+            "páng",
+            "děng",
+            "dài",
+            ""
+          ],
+          "explanation": "等待取代了本来应该做的劳动。",
+          "audio": "audio/reading/idiom-shouzhudaitu-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "从此他不再种田，天天坐在树桩旁等待。"
+        },
+        {
+          "id": "idiom-shouzhudaitu-line-04",
+          "text": "后来兔子没有再来，田里的庄稼却荒废了。",
+          "pinyin": [
+            "hòu",
+            "lái",
+            "tù",
+            "zi",
+            "méi",
+            "yǒu",
+            "zài",
+            "lái",
+            "",
+            "tián",
+            "lǐ",
+            "de",
+            "zhuāng",
+            "jia",
+            "què",
+            "huāng",
+            "fèi",
+            "le",
+            ""
+          ],
+          "explanation": "田地没有照料，庄稼就长不好。",
+          "audio": "audio/reading/idiom-shouzhudaitu-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "后来兔子没有再来，田里的庄稼却荒废了。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/韓非子/五蠹",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-wangyangbulao",
+      "categoryId": "idioms",
+      "title": "亡羊补牢",
+      "titlePinyin": [
+        "wáng",
+        "yáng",
+        "bǔ",
+        "láo"
+      ],
+      "author": "战国策·楚策四",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "发现问题后及时改进，仍然可以减少损失。",
+      "lines": [
+        {
+          "id": "idiom-wangyangbulao-line-01",
+          "text": "一个人养了几只羊，羊圈破了一个大洞。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "rén",
+            "yǎng",
+            "le",
+            "jǐ",
+            "zhī",
+            "yáng",
+            "",
+            "yáng",
+            "juàn",
+            "pò",
+            "le",
+            "yí",
+            "gè",
+            "dà",
+            "dòng",
+            ""
+          ],
+          "explanation": "羊圈是围起来养羊的地方。",
+          "audio": "audio/reading/idiom-wangyangbulao-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一个人养了几只羊，羊圈破了一个大洞。"
+        },
+        {
+          "id": "idiom-wangyangbulao-line-02",
+          "text": "夜里狼从洞里钻进去，叼走了一只小羊。",
+          "pinyin": [
+            "yè",
+            "lǐ",
+            "láng",
+            "cóng",
+            "dòng",
+            "lǐ",
+            "zuān",
+            "jìn",
+            "qù",
+            "",
+            "diāo",
+            "zǒu",
+            "le",
+            "yì",
+            "zhī",
+            "xiǎo",
+            "yáng",
+            ""
+          ],
+          "explanation": "破洞让羊失去了保护。",
+          "audio": "audio/reading/idiom-wangyangbulao-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "夜里狼从洞里钻进去，叼走了一只小羊。"
+        },
+        {
+          "id": "idiom-wangyangbulao-line-03",
+          "text": "邻居劝他修好羊圈，他这才认真补上洞。",
+          "pinyin": [
+            "lín",
+            "jū",
+            "quàn",
+            "tā",
+            "xiū",
+            "hǎo",
+            "yáng",
+            "juàn",
+            "",
+            "tā",
+            "zhè",
+            "cái",
+            "rèn",
+            "zhēn",
+            "bǔ",
+            "shàng",
+            "dòng",
+            ""
+          ],
+          "explanation": "邻居的提醒帮助他发现问题。",
+          "audio": "audio/reading/idiom-wangyangbulao-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "邻居劝他修好羊圈，他这才认真补上洞。"
+        },
+        {
+          "id": "idiom-wangyangbulao-line-04",
+          "text": "羊圈修好了，剩下的羊也得到了保护。",
+          "pinyin": [
+            "yáng",
+            "juàn",
+            "xiū",
+            "hǎo",
+            "le",
+            "",
+            "shèng",
+            "xià",
+            "de",
+            "yáng",
+            "yě",
+            "dé",
+            "dào",
+            "le",
+            "bǎo",
+            "hù",
+            ""
+          ],
+          "explanation": "修补虽然晚了一点，仍然有作用。",
+          "audio": "audio/reading/idiom-wangyangbulao-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "羊圈修好了，剩下的羊也得到了保护。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/戰國策_(士禮居叢書本)/楚/四",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-huashetianzu",
+      "categoryId": "idioms",
+      "title": "画蛇添足",
+      "titlePinyin": [
+        "huà",
+        "shé",
+        "tiān",
+        "zú"
+      ],
+      "author": "战国策·齐策二",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "做事要想清需要什么，并非添加得越多越好。",
+      "lines": [
+        {
+          "id": "idiom-huashetianzu-line-01",
+          "text": "几个人商量比赛画蛇，先画完的人得到酒。",
+          "pinyin": [
+            "jǐ",
+            "gè",
+            "rén",
+            "shāng",
+            "liang",
+            "bǐ",
+            "sài",
+            "huà",
+            "shé",
+            "",
+            "xiān",
+            "huà",
+            "wán",
+            "de",
+            "rén",
+            "dé",
+            "dào",
+            "jiǔ",
+            ""
+          ],
+          "explanation": "先说好比赛的规则。",
+          "audio": "audio/reading/idiom-huashetianzu-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "几个人商量比赛画蛇，先画完的人得到酒。"
+        },
+        {
+          "id": "idiom-huashetianzu-line-02",
+          "text": "一个人很快画好了，见别人还在慢慢画。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "rén",
+            "hěn",
+            "kuài",
+            "huà",
+            "hǎo",
+            "le",
+            "",
+            "jiàn",
+            "bié",
+            "rén",
+            "hái",
+            "zài",
+            "màn",
+            "màn",
+            "huà",
+            ""
+          ],
+          "explanation": "他已经完成了原本的任务。",
+          "audio": "audio/reading/idiom-huashetianzu-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "一个人很快画好了，见别人还在慢慢画。"
+        },
+        {
+          "id": "idiom-huashetianzu-line-03",
+          "text": "他得意地给蛇添上脚，想显示自己画得快。",
+          "pinyin": [
+            "tā",
+            "dé",
+            "yì",
+            "de",
+            "gěi",
+            "shé",
+            "tiān",
+            "shàng",
+            "jiǎo",
+            "",
+            "xiǎng",
+            "xiǎn",
+            "shì",
+            "zì",
+            "jǐ",
+            "huà",
+            "de",
+            "kuài",
+            ""
+          ],
+          "explanation": "添脚是多做了不需要做的事情。",
+          "audio": "audio/reading/idiom-huashetianzu-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "他得意地给蛇添上脚，想显示自己画得快。"
+        },
+        {
+          "id": "idiom-huashetianzu-line-04",
+          "text": "别人说蛇本来没有脚，他反而失去了酒。",
+          "pinyin": [
+            "bié",
+            "rén",
+            "shuō",
+            "shé",
+            "běn",
+            "lái",
+            "méi",
+            "yǒu",
+            "jiǎo",
+            "",
+            "tā",
+            "fǎn",
+            "ér",
+            "shī",
+            "qù",
+            "le",
+            "jiǔ",
+            ""
+          ],
+          "explanation": "不符合规则的添加，反而破坏了结果。",
+          "audio": "audio/reading/idiom-huashetianzu-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "别人说蛇本来没有脚，他反而失去了酒。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/戰國策_(士禮居叢書本)/齊/二",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-yanerdaoling",
+      "categoryId": "idioms",
+      "title": "掩耳盗铃",
+      "titlePinyin": [
+        "yǎn",
+        "ěr",
+        "dào",
+        "líng"
+      ],
+      "author": "吕氏春秋·自知",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "不去听问题，并不表示问题就不存在。",
+      "lines": [
+        {
+          "id": "idiom-yanerdaoling-line-01",
+          "text": "一个人想偷偷拿走铃铛，却怕铃声被听见。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "rén",
+            "xiǎng",
+            "tōu",
+            "tōu",
+            "ná",
+            "zǒu",
+            "líng",
+            "dang",
+            "",
+            "què",
+            "pà",
+            "líng",
+            "shēng",
+            "bèi",
+            "tīng",
+            "jiàn",
+            ""
+          ],
+          "explanation": "这个故事把原典的大钟改写为铃铛。",
+          "audio": "audio/reading/idiom-yanerdaoling-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一个人想偷偷拿走铃铛，却怕铃声被听见。"
+        },
+        {
+          "id": "idiom-yanerdaoling-line-02",
+          "text": "他用双手捂住耳朵，以为别人也听不到。",
+          "pinyin": [
+            "tā",
+            "yòng",
+            "shuāng",
+            "shǒu",
+            "wǔ",
+            "zhù",
+            "ěr",
+            "duo",
+            "",
+            "yǐ",
+            "wéi",
+            "bié",
+            "rén",
+            "yě",
+            "tīng",
+            "bú",
+            "dào",
+            ""
+          ],
+          "explanation": "捂住自己的耳朵，不能捂住别人的耳朵。",
+          "audio": "audio/reading/idiom-yanerdaoling-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "他用双手捂住耳朵，以为别人也听不到。"
+        },
+        {
+          "id": "idiom-yanerdaoling-line-03",
+          "text": "等他伸手去碰铃铛，清脆的铃声马上响起。",
+          "pinyin": [
+            "děng",
+            "tā",
+            "shēn",
+            "shǒu",
+            "qù",
+            "pèng",
+            "líng",
+            "dang",
+            "",
+            "qīng",
+            "cuì",
+            "de",
+            "líng",
+            "shēng",
+            "mǎ",
+            "shàng",
+            "xiǎng",
+            "qǐ",
+            ""
+          ],
+          "explanation": "铃铛被碰到，仍然会发出声音。",
+          "audio": "audio/reading/idiom-yanerdaoling-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "等他伸手去碰铃铛，清脆的铃声马上响起。"
+        },
+        {
+          "id": "idiom-yanerdaoling-line-04",
+          "text": "别人听到声音走过来，他的想法并不管用。",
+          "pinyin": [
+            "bié",
+            "rén",
+            "tīng",
+            "dào",
+            "shēng",
+            "yīn",
+            "zǒu",
+            "guò",
+            "lái",
+            "",
+            "tā",
+            "de",
+            "xiǎng",
+            "fǎ",
+            "bìng",
+            "bù",
+            "guǎn",
+            "yòng",
+            ""
+          ],
+          "explanation": "想象中的办法，没有改变真实情况。",
+          "audio": "audio/reading/idiom-yanerdaoling-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "别人听到声音走过来，他的想法并不管用。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷二十四#自知",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-jingdizhiwa",
+      "categoryId": "idioms",
+      "title": "井底之蛙",
+      "titlePinyin": [
+        "jǐng",
+        "dǐ",
+        "zhī",
+        "wā"
+      ],
+      "author": "庄子·秋水",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "多听不同的见闻，可以帮助我们开阔眼界。",
+      "lines": [
+        {
+          "id": "idiom-jingdizhiwa-line-01",
+          "text": "一只青蛙住在井底，觉得自己的天地很大。",
+          "pinyin": [
+            "yì",
+            "zhī",
+            "qīng",
+            "wā",
+            "zhù",
+            "zài",
+            "jǐng",
+            "dǐ",
+            "",
+            "jué",
+            "de",
+            "zì",
+            "jǐ",
+            "de",
+            "tiān",
+            "dì",
+            "hěn",
+            "dà",
+            ""
+          ],
+          "explanation": "井底能看到的范围很有限。",
+          "audio": "audio/reading/idiom-jingdizhiwa-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一只青蛙住在井底，觉得自己的天地很大。"
+        },
+        {
+          "id": "idiom-jingdizhiwa-line-02",
+          "text": "一天海龟来到井边，说起辽阔的大海。",
+          "pinyin": [
+            "yì",
+            "tiān",
+            "hǎi",
+            "guī",
+            "lái",
+            "dào",
+            "jǐng",
+            "biān",
+            "",
+            "shuō",
+            "qǐ",
+            "liáo",
+            "kuò",
+            "de",
+            "dà",
+            "hǎi",
+            ""
+          ],
+          "explanation": "海龟带来了青蛙没听过的见闻。",
+          "audio": "audio/reading/idiom-jingdizhiwa-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "一天海龟来到井边，说起辽阔的大海。"
+        },
+        {
+          "id": "idiom-jingdizhiwa-line-03",
+          "text": "青蛙听了很吃惊，原来井外还有那么多景色。",
+          "pinyin": [
+            "qīng",
+            "wā",
+            "tīng",
+            "le",
+            "hěn",
+            "chī",
+            "jīng",
+            "",
+            "yuán",
+            "lái",
+            "jǐng",
+            "wài",
+            "hái",
+            "yǒu",
+            "nà",
+            "me",
+            "duō",
+            "jǐng",
+            "sè",
+            ""
+          ],
+          "explanation": "新的见闻让青蛙感到惊讶。",
+          "audio": "audio/reading/idiom-jingdizhiwa-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "青蛙听了很吃惊，原来井外还有那么多景色。"
+        },
+        {
+          "id": "idiom-jingdizhiwa-line-04",
+          "text": "它开始明白，自己看到的只是世界的一小部分。",
+          "pinyin": [
+            "tā",
+            "kāi",
+            "shǐ",
+            "míng",
+            "bái",
+            "",
+            "zì",
+            "jǐ",
+            "kàn",
+            "dào",
+            "de",
+            "zhǐ",
+            "shì",
+            "shì",
+            "jiè",
+            "de",
+            "yì",
+            "xiǎo",
+            "bù",
+            "fèn",
+            ""
+          ],
+          "explanation": "承认自己不知道，也是一种学习。",
+          "audio": "audio/reading/idiom-jingdizhiwa-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "它开始明白，自己看到的只是世界的一小部分。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-kezhouqiujian",
+      "categoryId": "idioms",
+      "title": "刻舟求剑",
+      "titlePinyin": [
+        "kè",
+        "zhōu",
+        "qiú",
+        "jiàn"
+      ],
+      "author": "吕氏春秋·察今",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "情况改变后，解决问题的方法也需要调整。",
+      "lines": [
+        {
+          "id": "idiom-kezhouqiujian-line-01",
+          "text": "一个人乘船过河，不小心把剑掉进了水里。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "rén",
+            "chéng",
+            "chuán",
+            "guò",
+            "hé",
+            "",
+            "bù",
+            "xiǎo",
+            "xīn",
+            "bǎ",
+            "jiàn",
+            "diào",
+            "jìn",
+            "le",
+            "shuǐ",
+            "lǐ",
+            ""
+          ],
+          "explanation": "剑落在河水中的某个地方。",
+          "audio": "audio/reading/idiom-kezhouqiujian-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一个人乘船过河，不小心把剑掉进了水里。"
+        },
+        {
+          "id": "idiom-kezhouqiujian-line-02",
+          "text": "他急忙在船边刻记号，记住剑掉下的位置。",
+          "pinyin": [
+            "tā",
+            "jí",
+            "máng",
+            "zài",
+            "chuán",
+            "biān",
+            "kè",
+            "jì",
+            "hào",
+            "",
+            "jì",
+            "zhù",
+            "jiàn",
+            "diào",
+            "xià",
+            "de",
+            "wèi",
+            "zhi",
+            ""
+          ],
+          "explanation": "记号只能记住船上的位置。",
+          "audio": "audio/reading/idiom-kezhouqiujian-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "他急忙在船边刻记号，记住剑掉下的位置。"
+        },
+        {
+          "id": "idiom-kezhouqiujian-line-03",
+          "text": "船继续向前走，他却等船停下才准备找剑。",
+          "pinyin": [
+            "chuán",
+            "jì",
+            "xù",
+            "xiàng",
+            "qián",
+            "zǒu",
+            "",
+            "tā",
+            "què",
+            "děng",
+            "chuán",
+            "tíng",
+            "xià",
+            "cái",
+            "zhǔn",
+            "bèi",
+            "zhǎo",
+            "jiàn",
+            ""
+          ],
+          "explanation": "船在移动，剑没有跟着船走。",
+          "audio": "audio/reading/idiom-kezhouqiujian-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "船继续向前走，他却等船停下才准备找剑。"
+        },
+        {
+          "id": "idiom-kezhouqiujian-line-04",
+          "text": "船的位置已经改变，照着记号找不到原来的剑。",
+          "pinyin": [
+            "chuán",
+            "de",
+            "wèi",
+            "zhi",
+            "yǐ",
+            "jīng",
+            "gǎi",
+            "biàn",
+            "",
+            "zhào",
+            "zhe",
+            "jì",
+            "hào",
+            "zhǎo",
+            "bú",
+            "dào",
+            "yuán",
+            "lái",
+            "de",
+            "jiàn",
+            ""
+          ],
+          "explanation": "寻找的方法要考虑位置的变化。",
+          "audio": "audio/reading/idiom-kezhouqiujian-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "船的位置已经改变，照着记号找不到原来的剑。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/呂氏春秋/卷十五#察今",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-bamiaozhuzhang",
+      "categoryId": "idioms",
+      "title": "拔苗助长",
+      "titlePinyin": [
+        "bá",
+        "miáo",
+        "zhù",
+        "zhǎng"
+      ],
+      "author": "孟子·公孙丑上",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "成长需要时间，合适的帮助要尊重生长规律。",
+      "lines": [
+        {
+          "id": "idiom-bamiaozhuzhang-line-01",
+          "text": "一个人每天看禾苗，总觉得禾苗长得太慢。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "rén",
+            "měi",
+            "tiān",
+            "kàn",
+            "hé",
+            "miáo",
+            "",
+            "zǒng",
+            "jué",
+            "de",
+            "hé",
+            "miáo",
+            "zhǎng",
+            "de",
+            "tài",
+            "màn",
+            ""
+          ],
+          "explanation": "禾苗有自己的生长速度。",
+          "audio": "audio/reading/idiom-bamiaozhuzhang-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一个人每天看禾苗，总觉得禾苗长得太慢。"
+        },
+        {
+          "id": "idiom-bamiaozhuzhang-line-02",
+          "text": "他想帮助禾苗长高，就把每棵苗往上拔。",
+          "pinyin": [
+            "tā",
+            "xiǎng",
+            "bāng",
+            "zhù",
+            "hé",
+            "miáo",
+            "zhǎng",
+            "gāo",
+            "",
+            "jiù",
+            "bǎ",
+            "měi",
+            "kē",
+            "miáo",
+            "wǎng",
+            "shàng",
+            "bá",
+            ""
+          ],
+          "explanation": "拔高禾苗会伤害它的根。",
+          "audio": "audio/reading/idiom-bamiaozhuzhang-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "他想帮助禾苗长高，就把每棵苗往上拔。"
+        },
+        {
+          "id": "idiom-bamiaozhuzhang-line-03",
+          "text": "忙了一整天以后，他高兴地回家告诉家人。",
+          "pinyin": [
+            "máng",
+            "le",
+            "yì",
+            "zhěng",
+            "tiān",
+            "yǐ",
+            "hòu",
+            "",
+            "tā",
+            "gāo",
+            "xìng",
+            "de",
+            "huí",
+            "jiā",
+            "gào",
+            "sù",
+            "jiā",
+            "rén",
+            ""
+          ],
+          "explanation": "他以为自己的办法有效。",
+          "audio": "audio/reading/idiom-bamiaozhuzhang-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "忙了一整天以后，他高兴地回家告诉家人。"
+        },
+        {
+          "id": "idiom-bamiaozhuzhang-line-04",
+          "text": "家人去田里查看，发现禾苗已经开始枯萎。",
+          "pinyin": [
+            "jiā",
+            "rén",
+            "qù",
+            "tián",
+            "lǐ",
+            "chá",
+            "kàn",
+            "",
+            "fā",
+            "xiàn",
+            "hé",
+            "miáo",
+            "yǐ",
+            "jīng",
+            "kāi",
+            "shǐ",
+            "kū",
+            "wěi",
+            ""
+          ],
+          "explanation": "没有照顾生长规律，帮助变成了伤害。",
+          "audio": "audio/reading/idiom-bamiaozhuzhang-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "家人去田里查看，发现禾苗已经开始枯萎。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/孟子/公孫丑上",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-hujiahuawei",
+      "categoryId": "idioms",
+      "title": "狐假虎威",
+      "titlePinyin": [
+        "hú",
+        "jiǎ",
+        "hǔ",
+        "wēi"
+      ],
+      "author": "战国策·楚策一",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "判断事情时，要分清看到的现象和真正的原因。",
+      "lines": [
+        {
+          "id": "idiom-hujiahuawei-line-01",
+          "text": "老虎抓住一只狐狸，狐狸想了一个脱身办法。",
+          "pinyin": [
+            "lǎo",
+            "hǔ",
+            "zhuā",
+            "zhù",
+            "yì",
+            "zhī",
+            "hú",
+            "li",
+            "",
+            "hú",
+            "li",
+            "xiǎng",
+            "le",
+            "yí",
+            "gè",
+            "tuō",
+            "shēn",
+            "bàn",
+            "fǎ",
+            ""
+          ],
+          "explanation": "狐狸想借老虎的威势脱身。",
+          "audio": "audio/reading/idiom-hujiahuawei-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "老虎抓住一只狐狸，狐狸想了一个脱身办法。"
+        },
+        {
+          "id": "idiom-hujiahuawei-line-02",
+          "text": "狐狸说大家都怕自己，请老虎跟着走一走。",
+          "pinyin": [
+            "hú",
+            "li",
+            "shuō",
+            "dà",
+            "jiā",
+            "dōu",
+            "pà",
+            "zì",
+            "jǐ",
+            "",
+            "qǐng",
+            "lǎo",
+            "hǔ",
+            "gēn",
+            "zhe",
+            "zǒu",
+            "yi",
+            "zǒu",
+            ""
+          ],
+          "explanation": "跟在狐狸身后的老虎才是关键。",
+          "audio": "audio/reading/idiom-hujiahuawei-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "狐狸说大家都怕自己，请老虎跟着走一走。"
+        },
+        {
+          "id": "idiom-hujiahuawei-line-03",
+          "text": "森林里的动物看见老虎，纷纷跑开躲起来。",
+          "pinyin": [
+            "sēn",
+            "lín",
+            "lǐ",
+            "de",
+            "dòng",
+            "wù",
+            "kàn",
+            "jiàn",
+            "lǎo",
+            "hǔ",
+            "",
+            "fēn",
+            "fēn",
+            "pǎo",
+            "kāi",
+            "duǒ",
+            "qǐ",
+            "lái",
+            ""
+          ],
+          "explanation": "动物们真正看到的是凶猛的老虎。",
+          "audio": "audio/reading/idiom-hujiahuawei-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "森林里的动物看见老虎，纷纷跑开躲起来。"
+        },
+        {
+          "id": "idiom-hujiahuawei-line-04",
+          "text": "老虎以为动物怕狐狸，其实大家怕的是老虎。",
+          "pinyin": [
+            "lǎo",
+            "hǔ",
+            "yǐ",
+            "wéi",
+            "dòng",
+            "wù",
+            "pà",
+            "hú",
+            "li",
+            "",
+            "qí",
+            "shí",
+            "dà",
+            "jiā",
+            "pà",
+            "de",
+            "shì",
+            "lǎo",
+            "hǔ",
+            ""
+          ],
+          "explanation": "老虎把动物逃跑的原因弄错了。",
+          "audio": "audio/reading/idiom-hujiahuawei-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "老虎以为动物怕狐狸，其实大家怕的是老虎。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/戰國策_(士禮居叢書本)/楚/一",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-zixiangmaodun",
+      "categoryId": "idioms",
+      "title": "自相矛盾",
+      "titlePinyin": [
+        "zì",
+        "xiāng",
+        "máo",
+        "dùn"
+      ],
+      "author": "韩非子·难一",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "说话要前后一致，夸大事实容易出现矛盾。",
+      "lines": [
+        {
+          "id": "idiom-zixiangmaodun-line-01",
+          "text": "一个人卖矛又卖盾，先夸自己的盾特别坚固。",
+          "pinyin": [
+            "yí",
+            "gè",
+            "rén",
+            "mài",
+            "máo",
+            "yòu",
+            "mài",
+            "dùn",
+            "",
+            "xiān",
+            "kuā",
+            "zì",
+            "jǐ",
+            "de",
+            "dùn",
+            "tè",
+            "bié",
+            "jiān",
+            "gù",
+            ""
+          ],
+          "explanation": "矛用于刺击，盾用于防护。",
+          "audio": "audio/reading/idiom-zixiangmaodun-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "一个人卖矛又卖盾，先夸自己的盾特别坚固。"
+        },
+        {
+          "id": "idiom-zixiangmaodun-line-02",
+          "text": "接着他又夸自己的矛，说什么盾都能刺穿。",
+          "pinyin": [
+            "jiē",
+            "zhe",
+            "tā",
+            "yòu",
+            "kuā",
+            "zì",
+            "jǐ",
+            "de",
+            "máo",
+            "",
+            "shuō",
+            "shén",
+            "me",
+            "dùn",
+            "dōu",
+            "néng",
+            "cì",
+            "chuān",
+            ""
+          ],
+          "explanation": "两个夸张的说法不能同时成立。",
+          "audio": "audio/reading/idiom-zixiangmaodun-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "接着他又夸自己的矛，说什么盾都能刺穿。"
+        },
+        {
+          "id": "idiom-zixiangmaodun-line-03",
+          "text": "有人问用这根矛刺这面盾，会发生什么事情。",
+          "pinyin": [
+            "yǒu",
+            "rén",
+            "wèn",
+            "yòng",
+            "zhè",
+            "gēn",
+            "máo",
+            "cì",
+            "zhè",
+            "miàn",
+            "dùn",
+            "",
+            "huì",
+            "fā",
+            "shēng",
+            "shén",
+            "me",
+            "shì",
+            "qíng",
+            ""
+          ],
+          "explanation": "这个问题把两种说法放在一起比较。",
+          "audio": "audio/reading/idiom-zixiangmaodun-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "有人问用这根矛刺这面盾，会发生什么事情。"
+        },
+        {
+          "id": "idiom-zixiangmaodun-line-04",
+          "text": "他发现两种说法互相冲突，一时回答不出来。",
+          "pinyin": [
+            "tā",
+            "fā",
+            "xiàn",
+            "liǎng",
+            "zhǒng",
+            "shuō",
+            "fǎ",
+            "hù",
+            "xiāng",
+            "chōng",
+            "tū",
+            "",
+            "yì",
+            "shí",
+            "huí",
+            "dá",
+            "bù",
+            "chū",
+            "lái",
+            ""
+          ],
+          "explanation": "发现说法冲突，就要重新想一想。",
+          "audio": "audio/reading/idiom-zixiangmaodun-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "他发现两种说法互相冲突，一时回答不出来。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/韓非子/難一",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "idiom-yugongyishan",
+      "categoryId": "idioms",
+      "title": "愚公移山",
+      "titlePinyin": [
+        "yú",
+        "gōng",
+        "yí",
+        "shān"
+      ],
+      "author": "列子·汤问",
+      "sourceLabel": "根据传统故事改写",
+      "intro": "故事赞扬坚持和合作，实际做事也要考虑可行办法。",
+      "lines": [
+        {
+          "id": "idiom-yugongyishan-line-01",
+          "text": "愚公家门前有两座大山，每次出门都要绕路。",
+          "pinyin": [
+            "yú",
+            "gōng",
+            "jiā",
+            "mén",
+            "qián",
+            "yǒu",
+            "liǎng",
+            "zuò",
+            "dà",
+            "shān",
+            "",
+            "měi",
+            "cì",
+            "chū",
+            "mén",
+            "dōu",
+            "yào",
+            "rào",
+            "lù",
+            ""
+          ],
+          "explanation": "大山让出行变得不方便。",
+          "audio": "audio/reading/idiom-yugongyishan-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "愚公家门前有两座大山，每次出门都要绕路。"
+        },
+        {
+          "id": "idiom-yugongyishan-line-02",
+          "text": "他和家人商量以后，决定一起设法搬走大山。",
+          "pinyin": [
+            "tā",
+            "hé",
+            "jiā",
+            "rén",
+            "shāng",
+            "liang",
+            "yǐ",
+            "hòu",
+            "",
+            "jué",
+            "dìng",
+            "yì",
+            "qǐ",
+            "shè",
+            "fǎ",
+            "bān",
+            "zǒu",
+            "dà",
+            "shān",
+            ""
+          ],
+          "explanation": "愚公与家人商量，大家一起合作。",
+          "audio": "audio/reading/idiom-yugongyishan-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "他和家人商量以后，决定一起设法搬走大山。"
+        },
+        {
+          "id": "idiom-yugongyishan-line-03",
+          "text": "有人笑他做不到，他仍然带着大家坚持劳动。",
+          "pinyin": [
+            "yǒu",
+            "rén",
+            "xiào",
+            "tā",
+            "zuò",
+            "bú",
+            "dào",
+            "",
+            "tā",
+            "réng",
+            "rán",
+            "dài",
+            "zhe",
+            "dà",
+            "jiā",
+            "jiān",
+            "chí",
+            "láo",
+            "dòng",
+            ""
+          ],
+          "explanation": "故事强调坚持，但做事也需要方法。",
+          "audio": "audio/reading/idiom-yugongyishan-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "有人笑他做不到，他仍然带着大家坚持劳动。"
+        },
+        {
+          "id": "idiom-yugongyishan-line-04",
+          "text": "故事中的神被诚意感动，帮助他们搬走了山。",
+          "pinyin": [
+            "gù",
+            "shì",
+            "zhōng",
+            "de",
+            "shén",
+            "bèi",
+            "chéng",
+            "yì",
+            "gǎn",
+            "dòng",
+            "",
+            "bāng",
+            "zhù",
+            "tā",
+            "men",
+            "bān",
+            "zǒu",
+            "le",
+            "shān",
+            ""
+          ],
+          "explanation": "这是带有神话色彩的故事结尾。",
+          "audio": "audio/reading/idiom-yugongyishan-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "故事中的神被诚意感动，帮助他们搬走了山。"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/列子/湯問篇",
+        "edition": "仅核对传统典故来源；正文与启发为本项目自编，盗铃故事由原典盗钟改写",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    },
+    {
+      "id": "classics-opening",
+      "categoryId": "classics",
+      "title": "三字经（开篇）",
+      "titlePinyin": [
+        "sān",
+        "zì",
+        "jīng",
+        "",
+        "kāi",
+        "piān",
+        ""
+      ],
+      "author": "传统蒙学读物，作者归属有不同说法",
+      "sourceLabel": "传统蒙学文本",
+      "intro": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "lines": [
+        {
+          "id": "classics-opening-line-01",
+          "text": "人之初",
+          "pinyin": [
+            "rén",
+            "zhī",
+            "chū"
+          ],
+          "explanation": "传统文本开始谈论人的成长。",
+          "audio": "audio/reading/classics-opening-line-01.wav",
+          "audioQuality": "demo",
+          "speechText": "人之初",
+          "learningItemId": "classic-opening-01"
+        },
+        {
+          "id": "classics-opening-line-02",
+          "text": "性本善",
+          "pinyin": [
+            "xìng",
+            "běn",
+            "shàn"
+          ],
+          "explanation": "这是古人的一种看法，可以从善意地理解别人开始。",
+          "audio": "audio/reading/classics-opening-line-02.wav",
+          "audioQuality": "demo",
+          "speechText": "性本善",
+          "learningItemId": "classic-opening-02"
+        },
+        {
+          "id": "classics-opening-line-03",
+          "text": "性相近",
+          "pinyin": [
+            "xìng",
+            "xiāng",
+            "jìn"
+          ],
+          "explanation": "古人认为，人最初有不少相近之处。",
+          "audio": "audio/reading/classics-opening-line-03.wav",
+          "audioQuality": "demo",
+          "speechText": "性相近",
+          "learningItemId": "classic-opening-03"
+        },
+        {
+          "id": "classics-opening-line-04",
+          "text": "习相远",
+          "pinyin": [
+            "xí",
+            "xiāng",
+            "yuǎn"
+          ],
+          "explanation": "不同的经历和习惯，会带来不同的变化。",
+          "audio": "audio/reading/classics-opening-line-04.wav",
+          "audioQuality": "demo",
+          "speechText": "习相远",
+          "learningItemId": "classic-opening-04"
+        },
+        {
+          "id": "classics-opening-line-05",
+          "text": "苟不教",
+          "pinyin": [
+            "gǒu",
+            "bù",
+            "jiào"
+          ],
+          "explanation": "如果缺少合适的教导和帮助，",
+          "audio": "audio/reading/classics-opening-line-05.wav",
+          "audioQuality": "demo",
+          "speechText": "苟不教",
+          "learningItemId": "classic-opening-05"
+        },
+        {
+          "id": "classics-opening-line-06",
+          "text": "性乃迁",
+          "pinyin": [
+            "xìng",
+            "nǎi",
+            "qiān"
+          ],
+          "explanation": "人的习惯和行为可能发生变化。",
+          "audio": "audio/reading/classics-opening-line-06.wav",
+          "audioQuality": "demo",
+          "speechText": "性乃迁",
+          "learningItemId": "classic-opening-06"
+        },
+        {
+          "id": "classics-opening-line-07",
+          "text": "教之道",
+          "pinyin": [
+            "jiào",
+            "zhī",
+            "dào"
+          ],
+          "explanation": "说到教导和学习的方法，",
+          "audio": "audio/reading/classics-opening-line-07.wav",
+          "audioQuality": "demo",
+          "speechText": "教之道",
+          "learningItemId": "classic-opening-07"
+        },
+        {
+          "id": "classics-opening-line-08",
+          "text": "贵以专",
+          "pinyin": [
+            "guì",
+            "yǐ",
+            "zhuān"
+          ],
+          "explanation": "古人重视专心，学习也需要休息和耐心。",
+          "audio": "audio/reading/classics-opening-line-08.wav",
+          "audioQuality": "demo",
+          "speechText": "贵以专",
+          "learningItemId": "classic-opening-08"
+        },
+        {
+          "id": "classics-opening-line-09",
+          "text": "昔孟母",
+          "pinyin": [
+            "xī",
+            "mèng",
+            "mǔ"
+          ],
+          "explanation": "从前，孟子的母亲，",
+          "audio": "audio/reading/classics-opening-line-09.wav",
+          "audioQuality": "demo",
+          "speechText": "昔孟母",
+          "learningItemId": "classic-opening-09"
+        },
+        {
+          "id": "classics-opening-line-10",
+          "text": "择邻处",
+          "pinyin": [
+            "zé",
+            "lín",
+            "chǔ"
+          ],
+          "explanation": "选择适合孩子成长的环境居住。",
+          "audio": "audio/reading/classics-opening-line-10.wav",
+          "audioQuality": "demo",
+          "speechText": "择邻处",
+          "learningItemId": "classic-opening-10"
+        },
+        {
+          "id": "classics-opening-line-11",
+          "text": "子不学",
+          "pinyin": [
+            "zǐ",
+            "bù",
+            "xué"
+          ],
+          "explanation": "故事讲到孩子一时不愿学习，",
+          "audio": "audio/reading/classics-opening-line-11.wav",
+          "audioQuality": "demo",
+          "speechText": "子不学",
+          "learningItemId": "classic-opening-11"
+        },
+        {
+          "id": "classics-opening-line-12",
+          "text": "断机杼",
+          "pinyin": [
+            "duàn",
+            "jī",
+            "zhù"
+          ],
+          "explanation": "母亲用中断织布作比喻，劝他坚持学习。",
+          "audio": "audio/reading/classics-opening-line-12.wav",
+          "audioQuality": "demo",
+          "speechText": "断机杼",
+          "learningItemId": "classic-opening-12"
+        }
+      ],
+      "provenance": {
+        "url": "https://zh.wikisource.org/wiki/三字經易解",
+        "edition": "只采用三字经古典正文前36字，不采用该站现代易解；解释为项目自编",
+        "reviewStatus": "structure-and-reading-draft-checked; professional teaching review pending",
+        "audioEligible": true
+      }
+    }
+  ],
+  "readingRevision": "7d4e816f785a23fd8ad1ffe243dd601a90376264e04df164fdc6ea5654616c8b"
+}

@@ -1,0 +1,1734 @@
+{
+  "version": 1,
+  "stories": [
+    {
+      "id": "book-share-toys",
+      "type": "pictureBook",
+      "categoryId": "books",
+      "title": "一起玩小火车",
+      "titlePinyin": [
+        "yì",
+        "qǐ",
+        "wán",
+        "xiǎo",
+        "huǒ",
+        "chē"
+      ],
+      "intro": "两位朋友商量怎样一起玩，也尊重正在使用玩具的人。",
+      "pages": [
+        {
+          "id": "book-share-toys-page-01",
+          "text": "小米看见小乐在搭轨道，也想一起玩小火车。",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "kàn",
+            "jiàn",
+            "xiǎo",
+            "lè",
+            "zài",
+            "dā",
+            "guǐ",
+            "dào",
+            "",
+            "yě",
+            "xiǎng",
+            "yì",
+            "qǐ",
+            "wán",
+            "xiǎo",
+            "huǒ",
+            "chē",
+            ""
+          ],
+          "sceneId": "share-01"
+        },
+        {
+          "id": "book-share-toys-page-02",
+          "text": "小乐正在搭一座小桥，还想把这一段搭好。",
+          "pinyin": [
+            "xiǎo",
+            "lè",
+            "zhèng",
+            "zài",
+            "dā",
+            "yī",
+            "zuò",
+            "xiǎo",
+            "qiáo",
+            "",
+            "hái",
+            "xiǎng",
+            "bǎ",
+            "zhè",
+            "yī",
+            "duàn",
+            "dā",
+            "hǎo",
+            ""
+          ],
+          "sceneId": "share-02"
+        },
+        {
+          "id": "book-share-toys-page-03",
+          "text": "小米轻轻问，我可以和你一起搭轨道吗？",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "qīng",
+            "qīng",
+            "wèn",
+            "",
+            "wǒ",
+            "kě",
+            "yǐ",
+            "hé",
+            "nǐ",
+            "yì",
+            "qǐ",
+            "dā",
+            "guǐ",
+            "dào",
+            "ma",
+            ""
+          ],
+          "sceneId": "share-03"
+        },
+        {
+          "id": "book-share-toys-page-04",
+          "text": "小乐说，等我搭好小桥，我们再轮流开车。",
+          "pinyin": [
+            "xiǎo",
+            "lè",
+            "shuō",
+            "",
+            "děng",
+            "wǒ",
+            "dā",
+            "hǎo",
+            "xiǎo",
+            "qiáo",
+            "",
+            "wǒ",
+            "men",
+            "zài",
+            "lún",
+            "liú",
+            "kāi",
+            "chē",
+            ""
+          ],
+          "sceneId": "share-04"
+        },
+        {
+          "id": "book-share-toys-page-05",
+          "text": "小米帮忙接上轨道，两个人轮流开小火车。",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "bāng",
+            "máng",
+            "jiē",
+            "shàng",
+            "guǐ",
+            "dào",
+            "",
+            "liǎng",
+            "gè",
+            "rén",
+            "lún",
+            "liú",
+            "kāi",
+            "xiǎo",
+            "huǒ",
+            "chē",
+            ""
+          ],
+          "sceneId": "share-05"
+        },
+        {
+          "id": "book-share-toys-page-06",
+          "text": "玩好以后，他们一起把小火车放回盒子里。",
+          "pinyin": [
+            "wán",
+            "hǎo",
+            "yǐ",
+            "hòu",
+            "",
+            "tā",
+            "men",
+            "yì",
+            "qǐ",
+            "bǎ",
+            "xiǎo",
+            "huǒ",
+            "chē",
+            "fàng",
+            "huí",
+            "hé",
+            "zi",
+            "lǐ",
+            ""
+          ],
+          "sceneId": "share-06"
+        }
+      ],
+      "prompt": "如果朋友还想玩一会儿，你可以怎样商量？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "book-tidy-up",
+      "type": "pictureBook",
+      "categoryId": "books",
+      "title": "玩具回家啦",
+      "titlePinyin": [
+        "wán",
+        "jù",
+        "huí",
+        "jiā",
+        "la"
+      ],
+      "intro": "整理可以分成小步骤，也可以邀请别人一起帮忙。",
+      "pages": [
+        {
+          "id": "book-tidy-up-page-01",
+          "text": "游戏结束了，小米看见地上还有积木和小球。",
+          "pinyin": [
+            "yóu",
+            "xì",
+            "jié",
+            "shù",
+            "le",
+            "",
+            "xiǎo",
+            "mǐ",
+            "kàn",
+            "jiàn",
+            "dì",
+            "shàng",
+            "hái",
+            "yǒu",
+            "jī",
+            "mù",
+            "hé",
+            "xiǎo",
+            "qiú",
+            ""
+          ],
+          "sceneId": "tidy-01"
+        },
+        {
+          "id": "book-tidy-up-page-02",
+          "text": "走路的地方有些挤，我们先腾出一条小路。",
+          "pinyin": [
+            "zǒu",
+            "lù",
+            "de",
+            "dì",
+            "fang",
+            "yǒu",
+            "xiē",
+            "jǐ",
+            "",
+            "wǒ",
+            "men",
+            "xiān",
+            "téng",
+            "chū",
+            "yī",
+            "tiáo",
+            "xiǎo",
+            "lù",
+            ""
+          ],
+          "sceneId": "tidy-02"
+        },
+        {
+          "id": "book-tidy-up-page-03",
+          "text": "小米把积木放进方盒，小球放进圆圆的篮子。",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "bǎ",
+            "jī",
+            "mù",
+            "fàng",
+            "jìn",
+            "fāng",
+            "hé",
+            "",
+            "xiǎo",
+            "qiú",
+            "fàng",
+            "jìn",
+            "yuán",
+            "yuán",
+            "de",
+            "lán",
+            "zi",
+            ""
+          ],
+          "sceneId": "tidy-03"
+        },
+        {
+          "id": "book-tidy-up-page-04",
+          "text": "还有一个大盒子，小米请小乐一起帮忙搬。",
+          "pinyin": [
+            "hái",
+            "yǒu",
+            "yí",
+            "gè",
+            "dà",
+            "hé",
+            "zi",
+            "",
+            "xiǎo",
+            "mǐ",
+            "qǐng",
+            "xiǎo",
+            "lè",
+            "yì",
+            "qǐ",
+            "bāng",
+            "máng",
+            "bān",
+            ""
+          ],
+          "sceneId": "tidy-04"
+        },
+        {
+          "id": "book-tidy-up-page-05",
+          "text": "他们一人扶住一边，慢慢把盒子放回架子。",
+          "pinyin": [
+            "tā",
+            "men",
+            "yī",
+            "rén",
+            "fú",
+            "zhù",
+            "yī",
+            "biān",
+            "",
+            "màn",
+            "màn",
+            "bǎ",
+            "hé",
+            "zi",
+            "fàng",
+            "huí",
+            "jià",
+            "zi",
+            ""
+          ],
+          "sceneId": "tidy-05"
+        },
+        {
+          "id": "book-tidy-up-page-06",
+          "text": "地上又有了空地方，明天还能继续快乐地玩。",
+          "pinyin": [
+            "dì",
+            "shàng",
+            "yòu",
+            "yǒu",
+            "le",
+            "kòng",
+            "dì",
+            "fang",
+            "",
+            "míng",
+            "tiān",
+            "hái",
+            "néng",
+            "jì",
+            "xù",
+            "kuài",
+            "lè",
+            "dì",
+            "wán",
+            ""
+          ],
+          "sceneId": "tidy-06"
+        }
+      ],
+      "prompt": "如果东西太多，你想先整理哪一小部分？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "book-feelings",
+      "type": "pictureBook",
+      "categoryId": "books",
+      "title": "我有一点生气",
+      "titlePinyin": [
+        "wǒ",
+        "yǒu",
+        "yì",
+        "diǎn",
+        "shēng",
+        "qì"
+      ],
+      "intro": "感受可以被看见，也可以用安全的方法表达需要。",
+      "pages": [
+        {
+          "id": "book-feelings-page-01",
+          "text": "小米搭的小塔倒下了，心里忽然有一点生气。",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "dā",
+            "de",
+            "xiǎo",
+            "tǎ",
+            "dǎo",
+            "xià",
+            "le",
+            "",
+            "xīn",
+            "lǐ",
+            "hū",
+            "rán",
+            "yǒu",
+            "yì",
+            "diǎn",
+            "shēng",
+            "qì",
+            ""
+          ],
+          "sceneId": "feelings-01"
+        },
+        {
+          "id": "book-feelings-page-02",
+          "text": "小米发现小手握紧了，脸上也有一点发热。",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "fā",
+            "xiàn",
+            "xiǎo",
+            "shǒu",
+            "wò",
+            "jǐn",
+            "le",
+            "",
+            "liǎn",
+            "shàng",
+            "yě",
+            "yǒu",
+            "yì",
+            "diǎn",
+            "fā",
+            "rè",
+            ""
+          ],
+          "sceneId": "feelings-02"
+        },
+        {
+          "id": "book-feelings-page-03",
+          "text": "小米告诉小乐，我现在生气，也有一点难过。",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "gào",
+            "sù",
+            "xiǎo",
+            "lè",
+            "",
+            "wǒ",
+            "xiàn",
+            "zài",
+            "shēng",
+            "qì",
+            "",
+            "yě",
+            "yǒu",
+            "yì",
+            "diǎn",
+            "nán",
+            "guò",
+            ""
+          ],
+          "sceneId": "feelings-03"
+        },
+        {
+          "id": "book-feelings-page-04",
+          "text": "他们先停下来，慢慢呼吸，再看看想做什么。",
+          "pinyin": [
+            "tā",
+            "men",
+            "xiān",
+            "tíng",
+            "xià",
+            "lái",
+            "",
+            "màn",
+            "màn",
+            "hū",
+            "xī",
+            "",
+            "zài",
+            "kàn",
+            "kàn",
+            "xiǎng",
+            "zuò",
+            "shén",
+            "me",
+            ""
+          ],
+          "sceneId": "feelings-04"
+        },
+        {
+          "id": "book-feelings-page-05",
+          "text": "小米说，我想重新搭好，你可以帮我扶住吗？",
+          "pinyin": [
+            "xiǎo",
+            "mǐ",
+            "shuō",
+            "",
+            "wǒ",
+            "xiǎng",
+            "chóng",
+            "xīn",
+            "dā",
+            "hǎo",
+            "",
+            "nǐ",
+            "kě",
+            "yǐ",
+            "bāng",
+            "wǒ",
+            "fú",
+            "zhù",
+            "ma",
+            ""
+          ],
+          "sceneId": "feelings-05"
+        },
+        {
+          "id": "book-feelings-page-06",
+          "text": "小乐愿意帮忙，他们商量先从宽宽的底座搭起。",
+          "pinyin": [
+            "xiǎo",
+            "lè",
+            "yuàn",
+            "yì",
+            "bāng",
+            "máng",
+            "",
+            "tā",
+            "men",
+            "shāng",
+            "liáng",
+            "xiān",
+            "cóng",
+            "kuān",
+            "kuān",
+            "de",
+            "dǐ",
+            "zuò",
+            "dā",
+            "qǐ",
+            ""
+          ],
+          "sceneId": "feelings-06"
+        }
+      ],
+      "prompt": "你有一点生气时，希望别人怎样陪伴你？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "dialog-greeting",
+      "type": "dialogue",
+      "categoryId": "dialog",
+      "title": "见面问好",
+      "titlePinyin": [
+        "jiàn",
+        "miàn",
+        "wèn",
+        "hǎo"
+      ],
+      "intro": "和家长分角色读一读，也可以换成自己的话。",
+      "roles": [
+        {
+          "id": "child",
+          "name": "小米",
+          "avatarId": "child"
+        },
+        {
+          "id": "partner",
+          "name": "小乐",
+          "avatarId": "friend"
+        }
+      ],
+      "turns": [
+        {
+          "id": "dialog-greeting-turn-01",
+          "text": "早上好，小乐，今天见到你真高兴。",
+          "pinyin": [
+            "zǎo",
+            "shàng",
+            "hǎo",
+            "",
+            "xiǎo",
+            "lè",
+            "",
+            "jīn",
+            "tiān",
+            "jiàn",
+            "dào",
+            "nǐ",
+            "zhēn",
+            "gāo",
+            "xìng",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-greeting-turn-02",
+          "text": "早上好，小米，我也很高兴见到你。",
+          "pinyin": [
+            "zǎo",
+            "shàng",
+            "hǎo",
+            "",
+            "xiǎo",
+            "mǐ",
+            "",
+            "wǒ",
+            "yě",
+            "hěn",
+            "gāo",
+            "xìng",
+            "jiàn",
+            "dào",
+            "nǐ",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-greeting-turn-03",
+          "text": "你现在愿意和我聊一会儿吗？",
+          "pinyin": [
+            "nǐ",
+            "xiàn",
+            "zài",
+            "yuàn",
+            "yì",
+            "hé",
+            "wǒ",
+            "liáo",
+            "yī",
+            "huì",
+            "er",
+            "ma",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-greeting-turn-04",
+          "text": "我想先放好书包，再过来找你。",
+          "pinyin": [
+            "wǒ",
+            "xiǎng",
+            "xiān",
+            "fàng",
+            "hǎo",
+            "shū",
+            "bāo",
+            "",
+            "zài",
+            "guò",
+            "lái",
+            "zhǎo",
+            "nǐ",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-greeting-turn-05",
+          "text": "好的，我会在阅读角等你一会儿。",
+          "pinyin": [
+            "hǎo",
+            "de",
+            "",
+            "wǒ",
+            "huì",
+            "zài",
+            "yuè",
+            "dú",
+            "jiǎo",
+            "děng",
+            "nǐ",
+            "yī",
+            "huì",
+            "er",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-greeting-turn-06",
+          "text": "谢谢你等我，我们待会儿再聊。",
+          "pinyin": [
+            "xiè",
+            "xiè",
+            "nǐ",
+            "děng",
+            "wǒ",
+            "",
+            "wǒ",
+            "men",
+            "dài",
+            "huì",
+            "er",
+            "zài",
+            "liáo",
+            ""
+          ],
+          "roleId": "partner"
+        }
+      ],
+      "parentTips": [
+        "先倾听孩子想表达的意思，再一起试试不同说法。",
+        "可以交换角色，允许等待、拒绝和表达不同感受。"
+      ],
+      "prompt": "别人暂时不想聊天时，你可以怎样回应？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "dialog-thanks",
+      "type": "dialogue",
+      "categoryId": "dialog",
+      "title": "表达感谢",
+      "titlePinyin": [
+        "biǎo",
+        "dá",
+        "gǎn",
+        "xiè"
+      ],
+      "intro": "和家长分角色读一读，也可以换成自己的话。",
+      "roles": [
+        {
+          "id": "child",
+          "name": "小米",
+          "avatarId": "child"
+        },
+        {
+          "id": "partner",
+          "name": "小乐",
+          "avatarId": "friend"
+        }
+      ],
+      "turns": [
+        {
+          "id": "dialog-thanks-turn-01",
+          "text": "谢谢你帮我捡起掉在地上的画笔。",
+          "pinyin": [
+            "xiè",
+            "xiè",
+            "nǐ",
+            "bāng",
+            "wǒ",
+            "jiǎn",
+            "qǐ",
+            "diào",
+            "zài",
+            "dì",
+            "shàng",
+            "de",
+            "huà",
+            "bǐ",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-thanks-turn-02",
+          "text": "不用客气，我看见你刚才拿着画纸。",
+          "pinyin": [
+            "bù",
+            "yòng",
+            "kè",
+            "qì",
+            "",
+            "wǒ",
+            "kàn",
+            "jiàn",
+            "nǐ",
+            "gāng",
+            "cái",
+            "ná",
+            "zhe",
+            "huà",
+            "zhǐ",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-thanks-turn-03",
+          "text": "有你的帮助，我就能拿稳这些东西。",
+          "pinyin": [
+            "yǒu",
+            "nǐ",
+            "de",
+            "bāng",
+            "zhù",
+            "",
+            "wǒ",
+            "jiù",
+            "néng",
+            "ná",
+            "wěn",
+            "zhè",
+            "xiē",
+            "dōng",
+            "xi",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-thanks-turn-04",
+          "text": "你还需要我帮忙拿些什么吗？",
+          "pinyin": [
+            "nǐ",
+            "hái",
+            "xū",
+            "yào",
+            "wǒ",
+            "bāng",
+            "máng",
+            "ná",
+            "xiē",
+            "shén",
+            "me",
+            "ma",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-thanks-turn-05",
+          "text": "我现在可以了，谢谢你先问问我。",
+          "pinyin": [
+            "wǒ",
+            "xiàn",
+            "zài",
+            "kě",
+            "yǐ",
+            "le",
+            "",
+            "xiè",
+            "xiè",
+            "nǐ",
+            "xiān",
+            "wèn",
+            "wèn",
+            "wǒ",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-thanks-turn-06",
+          "text": "好的，需要的时候可以再告诉我。",
+          "pinyin": [
+            "hǎo",
+            "de",
+            "",
+            "xū",
+            "yào",
+            "de",
+            "shí",
+            "hòu",
+            "kě",
+            "yǐ",
+            "zài",
+            "gào",
+            "sù",
+            "wǒ",
+            ""
+          ],
+          "roleId": "partner"
+        }
+      ],
+      "parentTips": [
+        "先倾听孩子想表达的意思，再一起试试不同说法。",
+        "可以交换角色，允许等待、拒绝和表达不同感受。"
+      ],
+      "prompt": "想想今天的一次帮助，你想感谢什么？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "dialog-borrowing",
+      "type": "dialogue",
+      "categoryId": "dialog",
+      "title": "借用玩具",
+      "titlePinyin": [
+        "jiè",
+        "yòng",
+        "wán",
+        "jù"
+      ],
+      "intro": "和家长分角色读一读，也可以换成自己的话。",
+      "roles": [
+        {
+          "id": "child",
+          "name": "小米",
+          "avatarId": "child"
+        },
+        {
+          "id": "partner",
+          "name": "小乐",
+          "avatarId": "friend"
+        }
+      ],
+      "turns": [
+        {
+          "id": "dialog-borrowing-turn-01",
+          "text": "小乐，我可以借用一下这辆小车吗？",
+          "pinyin": [
+            "xiǎo",
+            "lè",
+            "",
+            "wǒ",
+            "kě",
+            "yǐ",
+            "jiè",
+            "yòng",
+            "yī",
+            "xià",
+            "zhè",
+            "liàng",
+            "xiǎo",
+            "chē",
+            "ma",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-borrowing-turn-02",
+          "text": "我还在玩，想把这条路先开完。",
+          "pinyin": [
+            "wǒ",
+            "hái",
+            "zài",
+            "wán",
+            "",
+            "xiǎng",
+            "bǎ",
+            "zhè",
+            "tiáo",
+            "lù",
+            "xiān",
+            "kāi",
+            "wán",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-borrowing-turn-03",
+          "text": "好的，你大概还需要多长时间呢？",
+          "pinyin": [
+            "hǎo",
+            "de",
+            "",
+            "nǐ",
+            "dà",
+            "gài",
+            "hái",
+            "xū",
+            "yào",
+            "duō",
+            "cháng",
+            "shí",
+            "jiān",
+            "ne",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-borrowing-turn-04",
+          "text": "再开一圈就好，然后我来告诉你。",
+          "pinyin": [
+            "zài",
+            "kāi",
+            "yī",
+            "quān",
+            "jiù",
+            "hǎo",
+            "",
+            "rán",
+            "hòu",
+            "wǒ",
+            "lái",
+            "gào",
+            "sù",
+            "nǐ",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-borrowing-turn-05",
+          "text": "那我先去搭桥，等你玩好再来借。",
+          "pinyin": [
+            "nà",
+            "wǒ",
+            "xiān",
+            "qù",
+            "dā",
+            "qiáo",
+            "",
+            "děng",
+            "nǐ",
+            "wán",
+            "hǎo",
+            "zài",
+            "lái",
+            "jiè",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-borrowing-turn-06",
+          "text": "谢谢你等我，我玩好会把车放这里。",
+          "pinyin": [
+            "xiè",
+            "xiè",
+            "nǐ",
+            "děng",
+            "wǒ",
+            "",
+            "wǒ",
+            "wán",
+            "hǎo",
+            "huì",
+            "bǎ",
+            "chē",
+            "fàng",
+            "zhè",
+            "lǐ",
+            ""
+          ],
+          "roleId": "partner"
+        }
+      ],
+      "parentTips": [
+        "先倾听孩子想表达的意思，再一起试试不同说法。",
+        "可以交换角色，允许等待、拒绝和表达不同感受。"
+      ],
+      "prompt": "如果对方今天不想借，你还可以选择什么？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "dialog-help",
+      "type": "dialogue",
+      "categoryId": "dialog",
+      "title": "我需要帮助",
+      "titlePinyin": [
+        "wǒ",
+        "xū",
+        "yào",
+        "bāng",
+        "zhù"
+      ],
+      "intro": "和家长分角色读一读，也可以换成自己的话。",
+      "roles": [
+        {
+          "id": "child",
+          "name": "小米",
+          "avatarId": "child"
+        },
+        {
+          "id": "partner",
+          "name": "老师",
+          "avatarId": "adult"
+        }
+      ],
+      "turns": [
+        {
+          "id": "dialog-help-turn-01",
+          "text": "老师，这个盖子很紧，我打不开。",
+          "pinyin": [
+            "lǎo",
+            "shī",
+            "",
+            "zhè",
+            "ge",
+            "gài",
+            "zi",
+            "hěn",
+            "jǐn",
+            "",
+            "wǒ",
+            "dǎ",
+            "bù",
+            "kāi",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-help-turn-02",
+          "text": "我听见了，你愿意指给我看吗？",
+          "pinyin": [
+            "wǒ",
+            "tīng",
+            "jiàn",
+            "le",
+            "",
+            "nǐ",
+            "yuàn",
+            "yì",
+            "zhǐ",
+            "gěi",
+            "wǒ",
+            "kàn",
+            "ma",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-help-turn-03",
+          "text": "就是这个盒子，我试过还是打不开。",
+          "pinyin": [
+            "jiù",
+            "shì",
+            "zhè",
+            "ge",
+            "hé",
+            "zi",
+            "",
+            "wǒ",
+            "shì",
+            "guò",
+            "hái",
+            "shì",
+            "dǎ",
+            "bù",
+            "kāi",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-help-turn-04",
+          "text": "谢谢你说清楚，我们一起试试看。",
+          "pinyin": [
+            "xiè",
+            "xiè",
+            "nǐ",
+            "shuō",
+            "qīng",
+            "chǔ",
+            "",
+            "wǒ",
+            "men",
+            "yì",
+            "qǐ",
+            "shì",
+            "shì",
+            "kàn",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-help-turn-05",
+          "text": "我想扶住盒子，请您帮忙转盖子。",
+          "pinyin": [
+            "wǒ",
+            "xiǎng",
+            "fú",
+            "zhù",
+            "hé",
+            "zi",
+            "",
+            "qǐng",
+            "nín",
+            "bāng",
+            "máng",
+            "zhuǎn",
+            "gài",
+            "zi",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-help-turn-06",
+          "text": "好的，我们慢慢来，遇到困难可以求助。",
+          "pinyin": [
+            "hǎo",
+            "de",
+            "",
+            "wǒ",
+            "men",
+            "màn",
+            "màn",
+            "lái",
+            "",
+            "yù",
+            "dào",
+            "kùn",
+            "nán",
+            "kě",
+            "yǐ",
+            "qiú",
+            "zhù",
+            ""
+          ],
+          "roleId": "partner"
+        }
+      ],
+      "parentTips": [
+        "先倾听孩子想表达的意思，再一起试试不同说法。",
+        "可以交换角色，允许等待、拒绝和表达不同感受。"
+      ],
+      "prompt": "遇到困难时，你可以向哪些可信赖的大人求助？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "dialog-taking-turns",
+      "type": "dialogue",
+      "categoryId": "dialog",
+      "title": "商量轮流",
+      "titlePinyin": [
+        "shāng",
+        "liáng",
+        "lún",
+        "liú"
+      ],
+      "intro": "和家长分角色读一读，也可以换成自己的话。",
+      "roles": [
+        {
+          "id": "child",
+          "name": "小米",
+          "avatarId": "child"
+        },
+        {
+          "id": "partner",
+          "name": "小乐",
+          "avatarId": "friend"
+        }
+      ],
+      "turns": [
+        {
+          "id": "dialog-taking-turns-turn-01",
+          "text": "我也想玩秋千，我们可以轮流吗？",
+          "pinyin": [
+            "wǒ",
+            "yě",
+            "xiǎng",
+            "wán",
+            "qiū",
+            "qiān",
+            "",
+            "wǒ",
+            "men",
+            "kě",
+            "yǐ",
+            "lún",
+            "liú",
+            "ma",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-taking-turns-turn-02",
+          "text": "可以，我还想再荡一小会儿。",
+          "pinyin": [
+            "kě",
+            "yǐ",
+            "",
+            "wǒ",
+            "hái",
+            "xiǎng",
+            "zài",
+            "dàng",
+            "yī",
+            "xiǎo",
+            "huì",
+            "er",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-taking-turns-turn-03",
+          "text": "好的，我们怎样约定换人的时候呢？",
+          "pinyin": [
+            "hǎo",
+            "de",
+            "",
+            "wǒ",
+            "men",
+            "zěn",
+            "yàng",
+            "yuē",
+            "dìng",
+            "huàn",
+            "rén",
+            "de",
+            "shí",
+            "hòu",
+            "ne",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-taking-turns-turn-04",
+          "text": "我们一起数十下，然后就换你玩。",
+          "pinyin": [
+            "wǒ",
+            "men",
+            "yì",
+            "qǐ",
+            "shù",
+            "shí",
+            "xià",
+            "",
+            "rán",
+            "hòu",
+            "jiù",
+            "huàn",
+            "nǐ",
+            "wán",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-taking-turns-turn-05",
+          "text": "可以，我在旁边安全的地方等你。",
+          "pinyin": [
+            "kě",
+            "yǐ",
+            "",
+            "wǒ",
+            "zài",
+            "páng",
+            "biān",
+            "ān",
+            "quán",
+            "de",
+            "dì",
+            "fang",
+            "děng",
+            "nǐ",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-taking-turns-turn-06",
+          "text": "谢谢你，我们换人的时候再确认一下。",
+          "pinyin": [
+            "xiè",
+            "xiè",
+            "nǐ",
+            "",
+            "wǒ",
+            "men",
+            "huàn",
+            "rén",
+            "de",
+            "shí",
+            "hòu",
+            "zài",
+            "què",
+            "rèn",
+            "yī",
+            "xià",
+            ""
+          ],
+          "roleId": "partner"
+        }
+      ],
+      "parentTips": [
+        "先倾听孩子想表达的意思，再一起试试不同说法。",
+        "可以交换角色，允许等待、拒绝和表达不同感受。"
+      ],
+      "prompt": "如果等得有点着急，你可以怎样表达？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    },
+    {
+      "id": "dialog-feelings",
+      "type": "dialogue",
+      "categoryId": "dialog",
+      "title": "说说我的感受",
+      "titlePinyin": [
+        "shuō",
+        "shuō",
+        "wǒ",
+        "de",
+        "gǎn",
+        "shòu"
+      ],
+      "intro": "和家长分角色读一读，也可以换成自己的话。",
+      "roles": [
+        {
+          "id": "child",
+          "name": "小米",
+          "avatarId": "child"
+        },
+        {
+          "id": "partner",
+          "name": "小乐",
+          "avatarId": "friend"
+        }
+      ],
+      "turns": [
+        {
+          "id": "dialog-feelings-turn-01",
+          "text": "刚才你拿走画纸，我有一点着急。",
+          "pinyin": [
+            "gāng",
+            "cái",
+            "nǐ",
+            "ná",
+            "zǒu",
+            "huà",
+            "zhǐ",
+            "",
+            "wǒ",
+            "yǒu",
+            "yì",
+            "diǎn",
+            "zháo",
+            "jí",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-feelings-turn-02",
+          "text": "我听见你着急了，那是你还在画的吗？",
+          "pinyin": [
+            "wǒ",
+            "tīng",
+            "jiàn",
+            "nǐ",
+            "zháo",
+            "jí",
+            "le",
+            "",
+            "nà",
+            "shì",
+            "nǐ",
+            "hái",
+            "zài",
+            "huà",
+            "de",
+            "ma",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-feelings-turn-03",
+          "text": "是的，我还没画完，想继续用这张纸。",
+          "pinyin": [
+            "shì",
+            "de",
+            "",
+            "wǒ",
+            "hái",
+            "méi",
+            "huà",
+            "wán",
+            "",
+            "xiǎng",
+            "jì",
+            "xù",
+            "yòng",
+            "zhè",
+            "zhāng",
+            "zhǐ",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-feelings-turn-04",
+          "text": "对不起，我先还给你，下次会先问。",
+          "pinyin": [
+            "duì",
+            "bù",
+            "qǐ",
+            "",
+            "wǒ",
+            "xiān",
+            "huán",
+            "gěi",
+            "nǐ",
+            "",
+            "xià",
+            "cì",
+            "huì",
+            "xiān",
+            "wèn",
+            ""
+          ],
+          "roleId": "partner"
+        },
+        {
+          "id": "dialog-feelings-turn-05",
+          "text": "谢谢你听我说，我们可以另外找张纸。",
+          "pinyin": [
+            "xiè",
+            "xiè",
+            "nǐ",
+            "tīng",
+            "wǒ",
+            "shuō",
+            "",
+            "wǒ",
+            "men",
+            "kě",
+            "yǐ",
+            "lìng",
+            "wài",
+            "zhǎo",
+            "zhāng",
+            "zhǐ",
+            ""
+          ],
+          "roleId": "child"
+        },
+        {
+          "id": "dialog-feelings-turn-06",
+          "text": "好的，我们一起找，再慢慢画下去。",
+          "pinyin": [
+            "hǎo",
+            "de",
+            "",
+            "wǒ",
+            "men",
+            "yì",
+            "qǐ",
+            "zhǎo",
+            "",
+            "zài",
+            "màn",
+            "màn",
+            "huà",
+            "xià",
+            "qù",
+            ""
+          ],
+          "roleId": "partner"
+        }
+      ],
+      "parentTips": [
+        "先倾听孩子想表达的意思，再一起试试不同说法。",
+        "可以交换角色，允许等待、拒绝和表达不同感受。"
+      ],
+      "prompt": "如果你有不同的感受，可以换成哪些自己的话？",
+      "provenance": {
+        "source": "project-authored",
+        "reviewStatus": "text-reviewed"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "share-01",
+      "bookId": "book-share-toys",
+      "pageId": "book-share-toys-page-01",
+      "alt": "小米站在旁边，看小乐把两段轨道接起来。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "share-02",
+      "bookId": "book-share-toys",
+      "pageId": "book-share-toys-page-02",
+      "alt": "小乐举起一段桥形轨道，小米在旁边等候。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "share-03",
+      "bookId": "book-share-toys",
+      "pageId": "book-share-toys-page-03",
+      "alt": "小米张开手掌提出请求，小乐转头倾听。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "share-04",
+      "bookId": "book-share-toys",
+      "pageId": "book-share-toys-page-04",
+      "alt": "小乐指向还没接好的小桥，两人商量顺序。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "share-05",
+      "bookId": "book-share-toys",
+      "pageId": "book-share-toys-page-05",
+      "alt": "轨道连成环，小米和小乐各坐一边轮流推车。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "share-06",
+      "bookId": "book-share-toys",
+      "pageId": "book-share-toys-page-06",
+      "alt": "两位朋友把小火车和轨道放进收纳盒。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "tidy-01",
+      "bookId": "book-tidy-up",
+      "pageId": "book-tidy-up-page-01",
+      "alt": "小米看着散落在地面的三块积木和两个球。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "tidy-02",
+      "bookId": "book-tidy-up",
+      "pageId": "book-tidy-up-page-02",
+      "alt": "小米把散落的玩具移到一边，留出通道。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "tidy-03",
+      "bookId": "book-tidy-up",
+      "pageId": "book-tidy-up-page-03",
+      "alt": "积木放入方盒，小球放入带提手的篮子。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "tidy-04",
+      "bookId": "book-tidy-up",
+      "pageId": "book-tidy-up-page-04",
+      "alt": "小米指向大盒子，小乐走过来准备帮忙。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "tidy-05",
+      "bookId": "book-tidy-up",
+      "pageId": "book-tidy-up-page-05",
+      "alt": "两位朋友托住盒子两侧，放在低矮架子上。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "tidy-06",
+      "bookId": "book-tidy-up",
+      "pageId": "book-tidy-up-page-06",
+      "alt": "玩具回到低架和篮子，地面留出空地方。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "feelings-01",
+      "bookId": "book-feelings",
+      "pageId": "book-feelings-page-01",
+      "alt": "小米坐在倒下的小积木塔旁，眉毛皱起来。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "feelings-02",
+      "bookId": "book-feelings",
+      "pageId": "book-feelings-page-02",
+      "alt": "小米注意到自己握紧的手和脸上的表情。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "feelings-03",
+      "bookId": "book-feelings",
+      "pageId": "book-feelings-page-03",
+      "alt": "小米指向倒下的积木，小乐坐在一旁倾听。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "feelings-04",
+      "bookId": "book-feelings",
+      "pageId": "book-feelings-page-04",
+      "alt": "两位朋友放松双手，坐着慢慢呼吸。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "feelings-05",
+      "bookId": "book-feelings",
+      "pageId": "book-feelings-page-05",
+      "alt": "小米拿起一块积木，向小乐提出帮扶的请求。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    },
+    {
+      "id": "feelings-06",
+      "bookId": "book-feelings",
+      "pageId": "book-feelings-page-06",
+      "alt": "两人合作把宽底座摆好，再放上一块积木。",
+      "version": 1,
+      "source": "project-authored vector scene",
+      "quality": "illustration"
+    }
+  ],
+  "storyRevision": "01689d3aaaba6c2ba14f44a4cfc34c16effff38735324bbcde720ad11000cd6b"
+}

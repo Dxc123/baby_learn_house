@@ -1,0 +1,18 @@
+# 3C execution ledger
+
+Plan: docs/superpowers/plans/2026-10-20-learning-phase-3c.md
+
+- User approved design and implementation plan. Execute inline, one final independent review; no parent-home Git operations or helper worktrees.
+- Preflight: StoryDocument.units unify page/turn IDs; storyId equals whole learning item ID; scenes from18-ID registry; setCursors atomically updates category/story keys. Three-output writer preserves pair API. No interface conflicts found.
+- Task1 baseline captured252 IDs before edits. Old reading hash recorded in tool output; retain readings bytes and revision throughout.
+- Baseline/current readings SHA256:bbd1fe07b42f4e41677eae0c04215fd789a1fe49d4dc3f2b5564f6d38105dcaa; unchanged after stories generation.
+- RED/GREEN: missing model/repository then2 tests passed; missing scene/progress then2 passed; missing pages then2 UI tests passed. Triple-output rollback injection covers each replacement and previously absent stories output.
+- Visual review of3 contact sheets completed; improved train storage and shared carrying arm contacts. Illustrations are simple schematic scenes, not professional art review. Source pronunciation drafts corrected 长时间(cháng), 东西(xi), 地方(fang); no audio or teaching-listening claim.
+- Supplemental RED: story catalog empty pinyin bypassed old nonempty-list guard; included story kinds in mandatory aligned/nonblank annotation validation.
+- RED/GREEN: structurally valid body mutation with oldrevision initially passed audit; canonical sorted JSON SHA256 now detects it. Added serialized late-write failure/new selection, controller-close, retry, deep-link, queued-turn/latest-selection and actual pre-frame unmount tests.108 Flutter tests and14 Python tests passed before final build.
+- Ruling: scene metadata held as validated immutable typed maps instead of a separate data class; avoids duplicate model adapters, renderer only receives whitelist ID+alt. Pair writer delegates general transaction to preserve old API/tests. No source/audio/runtime dependency changes beyond approvedscope.
+- Unique final review reported2 important edges; both reproduced RED: non-target null story/scene broke good story; invalid scene blocked whole story instead of image fallback. Runtime repository now filters non-target malformed records and downgrades only invalid illustrations to an unsupported sentinel; full validation/audit remains strict. Target text/role/revision errors still reject. Related regression suite GREEN.
+- Final automatic:110 Flutter tests,15 Python tests (including --check byte/mtime preservation), clean analysis, combined audit, latest Android APK and iOS simulator builds/install successful. Reading SHA remains baseline.18 individual PNGs+3contact sheets regenerated and viewed after arm geometry correction.
+- Native acceptance blocked: CUA reports Mac locked and automatic unlock failed. Asked user to unlock manually. No native flow success or screenshots claimed for3C; continue independent delivery work while awaiting unlock.
+- 2026-10-21 user unlocked. Native: prior3/261 retained; book-share-toys six pages align text/scene/page, end doesn't auto-learn. Mark/undo/mark works, directory1/3 and home4/261. dialog-help six turns to last, end/parent tips visible, next disabled and unmarked. Six book screenshots + dialogue-last saved; last-page/last-turn images visually inspected. Restart verification in progress.
+- Native restart complete: home4/261; books1/3 continue restores page06 and learned marker; dialogues0/6 continue restores dialog-help turn06, remains unlearned. Screenshot home-restored saved. Lock blocker resolved.3C acceptance complete; existing Android/runtime/PDF/listening gaps remain documented.

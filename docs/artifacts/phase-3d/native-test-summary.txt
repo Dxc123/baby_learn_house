@@ -1,0 +1,11 @@
+Test Case '-[RunnerTests.RunnerTests testDrawingPresentationFailureAndAnchorBounds]' started.
+Test Case '-[RunnerTests.RunnerTests testDrawingPresentationFailureAndAnchorBounds]' passed (0.108 seconds).
+Test Case '-[RunnerTests.RunnerTests testDrawingShareErrorsNeverPresent]' started.
+Test Case '-[RunnerTests.RunnerTests testDrawingShareErrorsNeverPresent]' passed (0.001 seconds).
+Test Case '-[RunnerTests.RunnerTests testDrawingValidationAndCacheIsolation]' started.
+Test Case '-[RunnerTests.RunnerTests testDrawingValidationAndCacheIsolation]' passed (0.017 seconds).
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.126 (0.128) seconds
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.126 (0.128) seconds
+	 Executed 3 tests, with 0 failures (0 unexpected) in 0.126 (0.131) seconds
+** TEST SUCCEEDED **
+Android: build/app/test-results/testDebugUnitTest/TEST-com.baby.baby_learn_house.DrawingShareHandlerTest.xml: tests=2 failures=0 errors=0.

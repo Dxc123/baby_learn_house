@@ -1,0 +1,1556 @@
+{
+  "groups": [
+    {
+      "id": "starter",
+      "title": "基础起步",
+      "order": 0
+    },
+    {
+      "id": "numbers",
+      "title": "数量",
+      "order": 1
+    },
+    {
+      "id": "nature",
+      "title": "自然",
+      "order": 2
+    },
+    {
+      "id": "directions",
+      "title": "方位",
+      "order": 3
+    },
+    {
+      "id": "comparisons",
+      "title": "大小与比较",
+      "order": 4
+    },
+    {
+      "id": "body",
+      "title": "身体",
+      "order": 5
+    },
+    {
+      "id": "family",
+      "title": "家庭",
+      "order": 6
+    },
+    {
+      "id": "daily",
+      "title": "生活",
+      "order": 7
+    },
+    {
+      "id": "plants",
+      "title": "植物",
+      "order": 8
+    },
+    {
+      "id": "actions",
+      "title": "动作",
+      "order": 9
+    }
+  ],
+  "items": [
+    {
+      "text": "一",
+      "pinyin": [
+        "yī"
+      ],
+      "strokes": 1,
+      "words": [
+        {
+          "text": "一个",
+          "pinyin": [
+            "yí",
+            "gè"
+          ]
+        },
+        {
+          "text": "一天",
+          "pinyin": [
+            "yì",
+            "tiān"
+          ]
+        }
+      ],
+      "example": "一表示数量的起点。",
+      "groupId": "starter"
+    },
+    {
+      "text": "二",
+      "pinyin": [
+        "èr"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "二月",
+          "pinyin": [
+            "èr",
+            "yuè"
+          ]
+        },
+        {
+          "text": "十二",
+          "pinyin": [
+            "shí",
+            "èr"
+          ]
+        }
+      ],
+      "example": "二表示两个。",
+      "groupId": "starter"
+    },
+    {
+      "text": "三",
+      "pinyin": [
+        "sān"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "三个",
+          "pinyin": [
+            "sān",
+            "gè"
+          ]
+        },
+        {
+          "text": "三月",
+          "pinyin": [
+            "sān",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "三比二多一。",
+      "groupId": "starter"
+    },
+    {
+      "text": "人",
+      "pinyin": [
+        "rén"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "人们",
+          "pinyin": [
+            "rén",
+            "men"
+          ]
+        },
+        {
+          "text": "大人",
+          "pinyin": [
+            "dà",
+            "rén"
+          ]
+        }
+      ],
+      "example": "人可以学习、劳动和交流。",
+      "groupId": "starter"
+    },
+    {
+      "text": "口",
+      "pinyin": [
+        "kǒu"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "人口",
+          "pinyin": [
+            "rén",
+            "kǒu"
+          ]
+        },
+        {
+          "text": "门口",
+          "pinyin": [
+            "mén",
+            "kǒu"
+          ]
+        }
+      ],
+      "example": "口可以表示嘴，也可以表示出入口。",
+      "groupId": "starter"
+    },
+    {
+      "text": "山",
+      "pinyin": [
+        "shān"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "高山",
+          "pinyin": [
+            "gāo",
+            "shān"
+          ]
+        },
+        {
+          "text": "山水",
+          "pinyin": [
+            "shān",
+            "shuǐ"
+          ]
+        }
+      ],
+      "example": "山是地面上高高隆起的部分。",
+      "groupId": "starter"
+    },
+    {
+      "text": "四",
+      "pinyin": [
+        "sì"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "四个",
+          "pinyin": [
+            "sì",
+            "gè"
+          ]
+        },
+        {
+          "text": "四季",
+          "pinyin": [
+            "sì",
+            "jì"
+          ]
+        }
+      ],
+      "example": "一年有春夏秋冬四季。",
+      "groupId": "numbers"
+    },
+    {
+      "text": "五",
+      "pinyin": [
+        "wǔ"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "五个",
+          "pinyin": [
+            "wǔ",
+            "gè"
+          ]
+        },
+        {
+          "text": "五月",
+          "pinyin": [
+            "wǔ",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "伸出一只手，可以数五根手指。",
+      "groupId": "numbers"
+    },
+    {
+      "text": "六",
+      "pinyin": [
+        "liù"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "六个",
+          "pinyin": [
+            "liù",
+            "gè"
+          ]
+        },
+        {
+          "text": "六月",
+          "pinyin": [
+            "liù",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "六比五多一。",
+      "groupId": "numbers"
+    },
+    {
+      "text": "七",
+      "pinyin": [
+        "qī"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "七个",
+          "pinyin": [
+            "qī",
+            "gè"
+          ]
+        },
+        {
+          "text": "七天",
+          "pinyin": [
+            "qī",
+            "tiān"
+          ]
+        }
+      ],
+      "example": "一周有七天。",
+      "groupId": "numbers"
+    },
+    {
+      "text": "八",
+      "pinyin": [
+        "bā"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "八个",
+          "pinyin": [
+            "bā",
+            "gè"
+          ]
+        },
+        {
+          "text": "八月",
+          "pinyin": [
+            "bā",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "八比七多一。",
+      "groupId": "numbers"
+    },
+    {
+      "text": "九",
+      "pinyin": [
+        "jiǔ"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "九个",
+          "pinyin": [
+            "jiǔ",
+            "gè"
+          ]
+        },
+        {
+          "text": "九月",
+          "pinyin": [
+            "jiǔ",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "九比八多一。",
+      "groupId": "numbers"
+    },
+    {
+      "text": "日",
+      "pinyin": [
+        "rì"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "日子",
+          "pinyin": [
+            "rì",
+            "zi"
+          ]
+        },
+        {
+          "text": "日出",
+          "pinyin": [
+            "rì",
+            "chū"
+          ]
+        }
+      ],
+      "example": "日可以表示太阳，也可以表示一天。",
+      "groupId": "nature"
+    },
+    {
+      "text": "月",
+      "pinyin": [
+        "yuè"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "月亮",
+          "pinyin": [
+            "yuè",
+            "liang"
+          ]
+        },
+        {
+          "text": "月光",
+          "pinyin": [
+            "yuè",
+            "guāng"
+          ]
+        }
+      ],
+      "example": "夜晚常能看到月亮。",
+      "groupId": "nature"
+    },
+    {
+      "text": "水",
+      "pinyin": [
+        "shuǐ"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "水果",
+          "pinyin": [
+            "shuǐ",
+            "guǒ"
+          ]
+        },
+        {
+          "text": "河水",
+          "pinyin": [
+            "hé",
+            "shuǐ"
+          ]
+        }
+      ],
+      "example": "生活中处处需要水。",
+      "groupId": "nature"
+    },
+    {
+      "text": "火",
+      "pinyin": [
+        "huǒ"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "火车",
+          "pinyin": [
+            "huǒ",
+            "chē"
+          ]
+        },
+        {
+          "text": "火光",
+          "pinyin": [
+            "huǒ",
+            "guāng"
+          ]
+        }
+      ],
+      "example": "火能带来热量，儿童不要玩火。",
+      "groupId": "nature"
+    },
+    {
+      "text": "土",
+      "pinyin": [
+        "tǔ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "土地",
+          "pinyin": [
+            "tǔ",
+            "dì"
+          ]
+        },
+        {
+          "text": "泥土",
+          "pinyin": [
+            "ní",
+            "tǔ"
+          ]
+        }
+      ],
+      "example": "许多植物扎根在泥土中。",
+      "groupId": "nature"
+    },
+    {
+      "text": "木",
+      "pinyin": [
+        "mù"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "木头",
+          "pinyin": [
+            "mù",
+            "tou"
+          ]
+        },
+        {
+          "text": "树木",
+          "pinyin": [
+            "shù",
+            "mù"
+          ]
+        }
+      ],
+      "example": "木可以表示树或木材。",
+      "groupId": "nature"
+    },
+    {
+      "text": "上",
+      "pinyin": [
+        "shàng"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "上面",
+          "pinyin": [
+            "shàng",
+            "miàn"
+          ]
+        },
+        {
+          "text": "上下",
+          "pinyin": [
+            "shàng",
+            "xià"
+          ]
+        }
+      ],
+      "example": "上和下表示相对的方向。",
+      "groupId": "directions"
+    },
+    {
+      "text": "下",
+      "pinyin": [
+        "xià"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "下面",
+          "pinyin": [
+            "xià",
+            "miàn"
+          ]
+        },
+        {
+          "text": "下雨",
+          "pinyin": [
+            "xià",
+            "yǔ"
+          ]
+        }
+      ],
+      "example": "下可以表示位置较低。",
+      "groupId": "directions"
+    },
+    {
+      "text": "左",
+      "pinyin": [
+        "zuǒ"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "左边",
+          "pinyin": [
+            "zuǒ",
+            "bian"
+          ]
+        },
+        {
+          "text": "左右",
+          "pinyin": [
+            "zuǒ",
+            "yòu"
+          ]
+        }
+      ],
+      "example": "左与右是一对相对的方向。",
+      "groupId": "directions"
+    },
+    {
+      "text": "右",
+      "pinyin": [
+        "yòu"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "右边",
+          "pinyin": [
+            "yòu",
+            "bian"
+          ]
+        },
+        {
+          "text": "右手",
+          "pinyin": [
+            "yòu",
+            "shǒu"
+          ]
+        }
+      ],
+      "example": "看看自己的右手在哪里。",
+      "groupId": "directions"
+    },
+    {
+      "text": "中",
+      "pinyin": [
+        "zhōng"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "中间",
+          "pinyin": [
+            "zhōng",
+            "jiān"
+          ]
+        },
+        {
+          "text": "中心",
+          "pinyin": [
+            "zhōng",
+            "xīn"
+          ]
+        }
+      ],
+      "example": "中可以表示两边之间的位置。",
+      "groupId": "directions"
+    },
+    {
+      "text": "大",
+      "pinyin": [
+        "dà"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "大小",
+          "pinyin": [
+            "dà",
+            "xiǎo"
+          ]
+        },
+        {
+          "text": "大人",
+          "pinyin": [
+            "dà",
+            "rén"
+          ]
+        }
+      ],
+      "example": "比较物体时，可以说大或小。",
+      "groupId": "directions"
+    },
+    {
+      "text": "小",
+      "pinyin": [
+        "xiǎo"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "小手",
+          "pinyin": [
+            "xiǎo",
+            "shǒu"
+          ]
+        },
+        {
+          "text": "小鸟",
+          "pinyin": [
+            "xiǎo",
+            "niǎo"
+          ]
+        }
+      ],
+      "example": "小可以表示体积或年龄较小。",
+      "groupId": "comparisons"
+    },
+    {
+      "text": "多",
+      "pinyin": [
+        "duō"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "多少",
+          "pinyin": [
+            "duō",
+            "shǎo"
+          ]
+        },
+        {
+          "text": "许多",
+          "pinyin": [
+            "xǔ",
+            "duō"
+          ]
+        }
+      ],
+      "example": "比较数量时，可以说多或少。",
+      "groupId": "comparisons"
+    },
+    {
+      "text": "少",
+      "pinyin": [
+        "shǎo"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "多少",
+          "pinyin": [
+            "duō",
+            "shǎo"
+          ]
+        },
+        {
+          "text": "少许",
+          "pinyin": [
+            "shǎo",
+            "xǔ"
+          ]
+        }
+      ],
+      "example": "少表示数量不多。",
+      "groupId": "comparisons"
+    },
+    {
+      "text": "长",
+      "pinyin": [
+        "cháng"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "长短",
+          "pinyin": [
+            "cháng",
+            "duǎn"
+          ]
+        },
+        {
+          "text": "长大",
+          "pinyin": [
+            "zhǎng",
+            "dà"
+          ]
+        }
+      ],
+      "example": "长短的长读 cháng，长大的长读 zhǎng。",
+      "groupId": "comparisons"
+    },
+    {
+      "text": "短",
+      "pinyin": [
+        "duǎn"
+      ],
+      "strokes": 12,
+      "words": [
+        {
+          "text": "长短",
+          "pinyin": [
+            "cháng",
+            "duǎn"
+          ]
+        },
+        {
+          "text": "短小",
+          "pinyin": [
+            "duǎn",
+            "xiǎo"
+          ]
+        }
+      ],
+      "example": "短与长表示长度的比较。",
+      "groupId": "comparisons"
+    },
+    {
+      "text": "高",
+      "pinyin": [
+        "gāo"
+      ],
+      "strokes": 10,
+      "words": [
+        {
+          "text": "高山",
+          "pinyin": [
+            "gāo",
+            "shān"
+          ]
+        },
+        {
+          "text": "高低",
+          "pinyin": [
+            "gāo",
+            "dī"
+          ]
+        }
+      ],
+      "example": "高可以表示离地面较远。",
+      "groupId": "comparisons"
+    },
+    {
+      "text": "目",
+      "pinyin": [
+        "mù"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "目光",
+          "pinyin": [
+            "mù",
+            "guāng"
+          ]
+        },
+        {
+          "text": "耳目",
+          "pinyin": [
+            "ěr",
+            "mù"
+          ]
+        }
+      ],
+      "example": "目可以表示眼睛。",
+      "groupId": "body"
+    },
+    {
+      "text": "耳",
+      "pinyin": [
+        "ěr"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "耳朵",
+          "pinyin": [
+            "ěr",
+            "duo"
+          ]
+        },
+        {
+          "text": "木耳",
+          "pinyin": [
+            "mù",
+            "ěr"
+          ]
+        }
+      ],
+      "example": "耳朵帮助我们听声音。",
+      "groupId": "body"
+    },
+    {
+      "text": "手",
+      "pinyin": [
+        "shǒu"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "双手",
+          "pinyin": [
+            "shuāng",
+            "shǒu"
+          ]
+        },
+        {
+          "text": "手心",
+          "pinyin": [
+            "shǒu",
+            "xīn"
+          ]
+        }
+      ],
+      "example": "手可以抓握，也可以写字。",
+      "groupId": "body"
+    },
+    {
+      "text": "足",
+      "pinyin": [
+        "zú"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "手足",
+          "pinyin": [
+            "shǒu",
+            "zú"
+          ]
+        },
+        {
+          "text": "足球",
+          "pinyin": [
+            "zú",
+            "qiú"
+          ]
+        }
+      ],
+      "example": "足可以表示脚。",
+      "groupId": "body"
+    },
+    {
+      "text": "心",
+      "pinyin": [
+        "xīn"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "开心",
+          "pinyin": [
+            "kāi",
+            "xīn"
+          ]
+        },
+        {
+          "text": "心中",
+          "pinyin": [
+            "xīn",
+            "zhōng"
+          ]
+        }
+      ],
+      "example": "心可以表示心脏，也可以表示心情。",
+      "groupId": "body"
+    },
+    {
+      "text": "头",
+      "pinyin": [
+        "tóu"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "头发",
+          "pinyin": [
+            "tóu",
+            "fa"
+          ]
+        },
+        {
+          "text": "木头",
+          "pinyin": [
+            "mù",
+            "tou"
+          ]
+        }
+      ],
+      "example": "头可以表示身体最上面的部分。",
+      "groupId": "body"
+    },
+    {
+      "text": "父",
+      "pinyin": [
+        "fù"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "父亲",
+          "pinyin": [
+            "fù",
+            "qīn"
+          ]
+        },
+        {
+          "text": "父母",
+          "pinyin": [
+            "fù",
+            "mǔ"
+          ]
+        }
+      ],
+      "example": "父亲是爸爸的另一种称呼。",
+      "groupId": "family"
+    },
+    {
+      "text": "母",
+      "pinyin": [
+        "mǔ"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "母亲",
+          "pinyin": [
+            "mǔ",
+            "qīn"
+          ]
+        },
+        {
+          "text": "母子",
+          "pinyin": [
+            "mǔ",
+            "zǐ"
+          ]
+        }
+      ],
+      "example": "母亲是妈妈的另一种称呼。",
+      "groupId": "family"
+    },
+    {
+      "text": "子",
+      "pinyin": [
+        "zǐ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "子女",
+          "pinyin": [
+            "zǐ",
+            "nǚ"
+          ]
+        },
+        {
+          "text": "儿子",
+          "pinyin": [
+            "ér",
+            "zi"
+          ]
+        }
+      ],
+      "example": "子在不同词中可以读不同的音。",
+      "groupId": "family"
+    },
+    {
+      "text": "女",
+      "pinyin": [
+        "nǚ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "女孩",
+          "pinyin": [
+            "nǚ",
+            "hái"
+          ]
+        },
+        {
+          "text": "女儿",
+          "pinyin": [
+            "nǚ",
+            "ér"
+          ]
+        }
+      ],
+      "example": "女可以表示女性。",
+      "groupId": "family"
+    },
+    {
+      "text": "兄",
+      "pinyin": [
+        "xiōng"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "兄弟",
+          "pinyin": [
+            "xiōng",
+            "dì"
+          ]
+        },
+        {
+          "text": "兄长",
+          "pinyin": [
+            "xiōng",
+            "zhǎng"
+          ]
+        }
+      ],
+      "example": "兄是哥哥的另一种称呼。",
+      "groupId": "family"
+    },
+    {
+      "text": "弟",
+      "pinyin": [
+        "dì"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "弟弟",
+          "pinyin": [
+            "dì",
+            "di"
+          ]
+        },
+        {
+          "text": "兄弟",
+          "pinyin": [
+            "xiōng",
+            "dì"
+          ]
+        }
+      ],
+      "example": "弟弟比自己年幼。",
+      "groupId": "family"
+    },
+    {
+      "text": "门",
+      "pinyin": [
+        "mén"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "大门",
+          "pinyin": [
+            "dà",
+            "mén"
+          ]
+        },
+        {
+          "text": "门口",
+          "pinyin": [
+            "mén",
+            "kǒu"
+          ]
+        }
+      ],
+      "example": "门是进出房屋的通道。",
+      "groupId": "daily"
+    },
+    {
+      "text": "车",
+      "pinyin": [
+        "chē"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "汽车",
+          "pinyin": [
+            "qì",
+            "chē"
+          ]
+        },
+        {
+          "text": "火车",
+          "pinyin": [
+            "huǒ",
+            "chē"
+          ]
+        }
+      ],
+      "example": "车帮助人们运送人和物品。",
+      "groupId": "daily"
+    },
+    {
+      "text": "马",
+      "pinyin": [
+        "mǎ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "白马",
+          "pinyin": [
+            "bái",
+            "mǎ"
+          ]
+        },
+        {
+          "text": "马车",
+          "pinyin": [
+            "mǎ",
+            "chē"
+          ]
+        }
+      ],
+      "example": "马是一种善于奔跑的动物。",
+      "groupId": "daily"
+    },
+    {
+      "text": "牛",
+      "pinyin": [
+        "niú"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "水牛",
+          "pinyin": [
+            "shuǐ",
+            "niú"
+          ]
+        },
+        {
+          "text": "牛奶",
+          "pinyin": [
+            "niú",
+            "nǎi"
+          ]
+        }
+      ],
+      "example": "牛是常见的家畜。",
+      "groupId": "daily"
+    },
+    {
+      "text": "羊",
+      "pinyin": [
+        "yáng"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "山羊",
+          "pinyin": [
+            "shān",
+            "yáng"
+          ]
+        },
+        {
+          "text": "羊毛",
+          "pinyin": [
+            "yáng",
+            "máo"
+          ]
+        }
+      ],
+      "example": "羊主要吃草等植物。",
+      "groupId": "daily"
+    },
+    {
+      "text": "鸟",
+      "pinyin": [
+        "niǎo"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "小鸟",
+          "pinyin": [
+            "xiǎo",
+            "niǎo"
+          ]
+        },
+        {
+          "text": "鸟儿",
+          "pinyin": [
+            "niǎo",
+            "ér"
+          ]
+        }
+      ],
+      "example": "鸟的身上有羽毛。",
+      "groupId": "daily"
+    },
+    {
+      "text": "花",
+      "pinyin": [
+        "huā"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "花朵",
+          "pinyin": [
+            "huā",
+            "duǒ"
+          ]
+        },
+        {
+          "text": "开花",
+          "pinyin": [
+            "kāi",
+            "huā"
+          ]
+        }
+      ],
+      "example": "许多植物会开花。",
+      "groupId": "plants"
+    },
+    {
+      "text": "草",
+      "pinyin": [
+        "cǎo"
+      ],
+      "strokes": 9,
+      "words": [
+        {
+          "text": "小草",
+          "pinyin": [
+            "xiǎo",
+            "cǎo"
+          ]
+        },
+        {
+          "text": "草地",
+          "pinyin": [
+            "cǎo",
+            "dì"
+          ]
+        }
+      ],
+      "example": "草通常比较矮小。",
+      "groupId": "plants"
+    },
+    {
+      "text": "竹",
+      "pinyin": [
+        "zhú"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "竹子",
+          "pinyin": [
+            "zhú",
+            "zi"
+          ]
+        },
+        {
+          "text": "竹林",
+          "pinyin": [
+            "zhú",
+            "lín"
+          ]
+        }
+      ],
+      "example": "竹子的茎一节一节。",
+      "groupId": "plants"
+    },
+    {
+      "text": "禾",
+      "pinyin": [
+        "hé"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "禾苗",
+          "pinyin": [
+            "hé",
+            "miáo"
+          ]
+        },
+        {
+          "text": "禾田",
+          "pinyin": [
+            "hé",
+            "tián"
+          ]
+        }
+      ],
+      "example": "禾常用来表示谷类作物。",
+      "groupId": "plants"
+    },
+    {
+      "text": "米",
+      "pinyin": [
+        "mǐ"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "大米",
+          "pinyin": [
+            "dà",
+            "mǐ"
+          ]
+        },
+        {
+          "text": "米饭",
+          "pinyin": [
+            "mǐ",
+            "fàn"
+          ]
+        }
+      ],
+      "example": "大米煮熟可以做成米饭。",
+      "groupId": "plants"
+    },
+    {
+      "text": "果",
+      "pinyin": [
+        "guǒ"
+      ],
+      "strokes": 8,
+      "words": [
+        {
+          "text": "水果",
+          "pinyin": [
+            "shuǐ",
+            "guǒ"
+          ]
+        },
+        {
+          "text": "果子",
+          "pinyin": [
+            "guǒ",
+            "zi"
+          ]
+        }
+      ],
+      "example": "许多植物会结出果实。",
+      "groupId": "plants"
+    },
+    {
+      "text": "来",
+      "pinyin": [
+        "lái"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "回来",
+          "pinyin": [
+            "huí",
+            "lái"
+          ]
+        },
+        {
+          "text": "来去",
+          "pinyin": [
+            "lái",
+            "qù"
+          ]
+        }
+      ],
+      "example": "来表示向说话人所在的方向移动。",
+      "groupId": "actions"
+    },
+    {
+      "text": "去",
+      "pinyin": [
+        "qù"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "回去",
+          "pinyin": [
+            "huí",
+            "qù"
+          ]
+        },
+        {
+          "text": "出去",
+          "pinyin": [
+            "chū",
+            "qù"
+          ]
+        }
+      ],
+      "example": "去表示离开所在的位置。",
+      "groupId": "actions"
+    },
+    {
+      "text": "走",
+      "pinyin": [
+        "zǒu"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "走路",
+          "pinyin": [
+            "zǒu",
+            "lù"
+          ]
+        },
+        {
+          "text": "行走",
+          "pinyin": [
+            "xíng",
+            "zǒu"
+          ]
+        }
+      ],
+      "example": "走路时双脚交替迈步。",
+      "groupId": "actions"
+    },
+    {
+      "text": "出",
+      "pinyin": [
+        "chū"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "出去",
+          "pinyin": [
+            "chū",
+            "qù"
+          ]
+        },
+        {
+          "text": "日出",
+          "pinyin": [
+            "rì",
+            "chū"
+          ]
+        }
+      ],
+      "example": "出表示从里面到外面。",
+      "groupId": "actions"
+    },
+    {
+      "text": "入",
+      "pinyin": [
+        "rù"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "入口",
+          "pinyin": [
+            "rù",
+            "kǒu"
+          ]
+        },
+        {
+          "text": "进入",
+          "pinyin": [
+            "jìn",
+            "rù"
+          ]
+        }
+      ],
+      "example": "入表示从外面到里面。",
+      "groupId": "actions"
+    },
+    {
+      "text": "开",
+      "pinyin": [
+        "kāi"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "开心",
+          "pinyin": [
+            "kāi",
+            "xīn"
+          ]
+        },
+        {
+          "text": "开门",
+          "pinyin": [
+            "kāi",
+            "mén"
+          ]
+        }
+      ],
+      "example": "开可以表示打开或开始。",
+      "groupId": "actions"
+    }
+  ]
+}

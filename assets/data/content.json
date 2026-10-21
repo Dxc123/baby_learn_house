@@ -1,0 +1,5412 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "pinyin",
+      "tab": 0,
+      "name": "学拼音",
+      "pinyin": [
+        "xué",
+        "pīn",
+        "yīn"
+      ],
+      "symbol": "ɑ o e",
+      "description": "63 个声母、韵母与整体认读音节",
+      "available": true,
+      "kind": "pinyin",
+      "groups": [
+        {
+          "id": "initials",
+          "title": "声母",
+          "order": 0
+        },
+        {
+          "id": "finals",
+          "title": "韵母",
+          "order": 1
+        },
+        {
+          "id": "syllables",
+          "title": "整体认读音节",
+          "order": 2
+        }
+      ]
+    },
+    {
+      "id": "chinese",
+      "tab": 0,
+      "name": "学中文",
+      "pinyin": [
+        "xué",
+        "zhōng",
+        "wén"
+      ],
+      "symbol": "山",
+      "description": "60 个基础汉字，认识、笔顺与描红",
+      "available": true,
+      "kind": "hanzi",
+      "groups": [
+        {
+          "id": "starter",
+          "title": "基础起步",
+          "order": 0
+        },
+        {
+          "id": "numbers",
+          "title": "数量",
+          "order": 1
+        },
+        {
+          "id": "nature",
+          "title": "自然",
+          "order": 2
+        },
+        {
+          "id": "directions",
+          "title": "方位",
+          "order": 3
+        },
+        {
+          "id": "comparisons",
+          "title": "大小与比较",
+          "order": 4
+        },
+        {
+          "id": "body",
+          "title": "身体",
+          "order": 5
+        },
+        {
+          "id": "family",
+          "title": "家庭",
+          "order": 6
+        },
+        {
+          "id": "daily",
+          "title": "生活",
+          "order": 7
+        },
+        {
+          "id": "plants",
+          "title": "植物",
+          "order": 8
+        },
+        {
+          "id": "actions",
+          "title": "动作",
+          "order": 9
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "tab": 0,
+      "name": "成语故事",
+      "pinyin": [
+        "chéng",
+        "yǔ",
+        "gù",
+        "shi"
+      ],
+      "symbol": "📜",
+      "description": "10 则自编成语故事",
+      "kind": "reading",
+      "available": true
+    },
+    {
+      "id": "poetry",
+      "tab": 0,
+      "name": "学习古诗词",
+      "pinyin": [
+        "xué",
+        "xí",
+        "gǔ",
+        "shī",
+        "cí"
+      ],
+      "symbol": "🌙",
+      "description": "10 首古诗，逐句阅读",
+      "kind": "reading",
+      "available": true
+    },
+    {
+      "id": "alphabet",
+      "tab": 0,
+      "name": "英文字母",
+      "pinyin": [
+        "yīng",
+        "wén",
+        "zì",
+        "mǔ"
+      ],
+      "symbol": "ABC",
+      "description": "26 个字母，认识大小写与名称",
+      "kind": "alphabet",
+      "available": true
+    },
+    {
+      "id": "classics",
+      "tab": 0,
+      "name": "三字经",
+      "pinyin": [
+        "sān",
+        "zì",
+        "jīng"
+      ],
+      "symbol": "📖",
+      "description": "开篇 12 句，慢慢读",
+      "kind": "reading",
+      "available": true
+    },
+    {
+      "id": "family",
+      "tab": 1,
+      "name": "家庭关系",
+      "pinyin": [
+        "jiā",
+        "tíng",
+        "guān",
+        "xi"
+      ],
+      "symbol": "🏡",
+      "description": "认识最亲爱的家人",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "body",
+      "tab": 1,
+      "name": "身体部位",
+      "pinyin": [
+        "shēn",
+        "tǐ",
+        "bù",
+        "wèi"
+      ],
+      "symbol": "🖐",
+      "description": "发现身体的小秘密",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "sports",
+      "tab": 1,
+      "name": "运动项目",
+      "pinyin": [
+        "yùn",
+        "dòng",
+        "xiàng",
+        "mù"
+      ],
+      "symbol": "⚽",
+      "description": "一起动起来",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "jobs",
+      "tab": 1,
+      "name": "认识职业",
+      "pinyin": [
+        "rèn",
+        "shi",
+        "zhí",
+        "yè"
+      ],
+      "symbol": "👩‍🚀",
+      "description": "长大以后做什么",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "colors",
+      "tab": 1,
+      "name": "认识颜色",
+      "pinyin": [
+        "rèn",
+        "shi",
+        "yán",
+        "sè"
+      ],
+      "symbol": "🌈",
+      "description": "收集彩虹的颜色",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "shapes",
+      "tab": 1,
+      "name": "认识形状",
+      "pinyin": [
+        "rèn",
+        "shi",
+        "xíng",
+        "zhuàng"
+      ],
+      "symbol": "△ ○",
+      "description": "圆圆方方，都是好朋友",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "animals",
+      "tab": 1,
+      "name": "认识动物",
+      "pinyin": [
+        "rèn",
+        "shi",
+        "dòng",
+        "wù"
+      ],
+      "symbol": "🐰",
+      "description": "拜访六位可爱的动物朋友",
+      "available": true,
+      "kind": "cognition"
+    },
+    {
+      "id": "plants",
+      "tab": 1,
+      "name": "认识植物",
+      "pinyin": [
+        "rèn",
+        "shi",
+        "zhí",
+        "wù"
+      ],
+      "symbol": "🌱",
+      "description": "看一颗种子慢慢长大",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "foods",
+      "tab": 1,
+      "name": "认识食物",
+      "pinyin": [
+        "rèn",
+        "shi",
+        "shí",
+        "wù"
+      ],
+      "symbol": "🍎",
+      "description": "发现餐桌上的好朋友",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "vehicles",
+      "tab": 1,
+      "name": "交通工具",
+      "pinyin": [
+        "jiāo",
+        "tōng",
+        "gōng",
+        "jù"
+      ],
+      "symbol": "🚂",
+      "description": "下一站，去看世界",
+      "kind": "cognition",
+      "available": true
+    },
+    {
+      "id": "numbers",
+      "tab": 2,
+      "name": "学数字",
+      "pinyin": [
+        "xué",
+        "shù",
+        "zì"
+      ],
+      "symbol": "123",
+      "description": "认识 0～10，数字与数量对应",
+      "kind": "number",
+      "available": true
+    },
+    {
+      "id": "count",
+      "tab": 2,
+      "name": "数个数",
+      "pinyin": [
+        "shǔ",
+        "gè",
+        "shù"
+      ],
+      "symbol": "🍓",
+      "description": "点一点，数清每一个物体",
+      "activityKind": "count",
+      "available": true
+    },
+    {
+      "id": "plus-block",
+      "tab": 2,
+      "name": "可视化加法",
+      "pinyin": [
+        "kě",
+        "shì",
+        "huà",
+        "jiā",
+        "fǎ"
+      ],
+      "symbol": "＋",
+      "description": "放在一起，多了多少",
+      "activityKind": "addition",
+      "available": true
+    },
+    {
+      "id": "minus-block",
+      "tab": 2,
+      "name": "可视化减法",
+      "pinyin": [
+        "kě",
+        "shì",
+        "huà",
+        "jiǎn",
+        "fǎ"
+      ],
+      "symbol": "−",
+      "description": "拿走几个，还剩多少",
+      "activityKind": "subtraction",
+      "available": true
+    },
+    {
+      "id": "hundred",
+      "tab": 2,
+      "name": "百数表",
+      "pinyin": [
+        "bǎi",
+        "shù",
+        "biǎo"
+      ],
+      "symbol": "100",
+      "description": "1～100 十列排列，0 单独认识",
+      "activityKind": "hundred",
+      "available": true
+    },
+    {
+      "id": "plus",
+      "tab": 2,
+      "name": "九九加法",
+      "pinyin": [
+        "jiǔ",
+        "jiǔ",
+        "jiā",
+        "fǎ"
+      ],
+      "symbol": "1+1",
+      "description": "两个加数各 1～9，观察加法规律",
+      "activityKind": "additionTable",
+      "available": true
+    },
+    {
+      "id": "minus",
+      "tab": 2,
+      "name": "九九减法",
+      "pinyin": [
+        "jiǔ",
+        "jiǔ",
+        "jiǎn",
+        "fǎ"
+      ],
+      "symbol": "3−1",
+      "description": "被减数 1～9，结果不小于零",
+      "activityKind": "subtractionTable",
+      "available": true
+    },
+    {
+      "id": "times",
+      "tab": 2,
+      "name": "九九乘法",
+      "pinyin": [
+        "jiǔ",
+        "jiǔ",
+        "chéng",
+        "fǎ"
+      ],
+      "symbol": "×",
+      "description": "1～9 的组数与每组数量",
+      "activityKind": "multiplicationTable",
+      "available": true
+    },
+    {
+      "id": "divide",
+      "tab": 2,
+      "name": "九九除法",
+      "pinyin": [
+        "jiǔ",
+        "jiǔ",
+        "chú",
+        "fǎ"
+      ],
+      "symbol": "÷",
+      "description": "行是分组数，列是每组数量，格中是总数",
+      "activityKind": "divisionTable",
+      "available": true
+    },
+    {
+      "id": "books",
+      "tab": 3,
+      "name": "绘本",
+      "pinyin": [
+        "huì",
+        "běn"
+      ],
+      "symbol": "📚",
+      "description": "3 本自编六页绘本",
+      "kind": "pictureBook",
+      "available": true
+    },
+    {
+      "id": "dialog",
+      "tab": 3,
+      "name": "情景对话",
+      "pinyin": [
+        "qíng",
+        "jǐng",
+        "duì",
+        "huà"
+      ],
+      "symbol": "💬",
+      "description": "6 场日常表达，分角色陪练",
+      "kind": "dialogue",
+      "available": true
+    },
+    {
+      "id": "drawing",
+      "tab": 3,
+      "name": "画板",
+      "pinyin": [
+        "huà",
+        "bǎn"
+      ],
+      "symbol": "🎨",
+      "description": "自由绘画、保存草稿与导出 PNG",
+      "activityKind": "drawing",
+      "available": true
+    }
+  ],
+  "items": [
+    {
+      "id": "pinyin-b",
+      "categoryId": "pinyin",
+      "text": "b",
+      "pinyin": [],
+      "symbol": "b",
+      "groupId": "initials",
+      "sortKey": "00",
+      "note": "声母",
+      "example": "这是声母 b。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-p",
+      "categoryId": "pinyin",
+      "text": "p",
+      "pinyin": [],
+      "symbol": "p",
+      "groupId": "initials",
+      "sortKey": "01",
+      "note": "声母",
+      "example": "这是声母 p。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-m",
+      "categoryId": "pinyin",
+      "text": "m",
+      "pinyin": [],
+      "symbol": "m",
+      "groupId": "initials",
+      "sortKey": "02",
+      "note": "声母",
+      "example": "这是声母 m。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-f",
+      "categoryId": "pinyin",
+      "text": "f",
+      "pinyin": [],
+      "symbol": "f",
+      "groupId": "initials",
+      "sortKey": "03",
+      "note": "声母",
+      "example": "这是声母 f。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-d",
+      "categoryId": "pinyin",
+      "text": "d",
+      "pinyin": [],
+      "symbol": "d",
+      "groupId": "initials",
+      "sortKey": "04",
+      "note": "声母",
+      "example": "这是声母 d。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-t",
+      "categoryId": "pinyin",
+      "text": "t",
+      "pinyin": [],
+      "symbol": "t",
+      "groupId": "initials",
+      "sortKey": "05",
+      "note": "声母",
+      "example": "这是声母 t。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-n",
+      "categoryId": "pinyin",
+      "text": "n",
+      "pinyin": [],
+      "symbol": "n",
+      "groupId": "initials",
+      "sortKey": "06",
+      "note": "声母",
+      "example": "这是声母 n。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-l",
+      "categoryId": "pinyin",
+      "text": "l",
+      "pinyin": [],
+      "symbol": "l",
+      "groupId": "initials",
+      "sortKey": "07",
+      "note": "声母",
+      "example": "这是声母 l。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-g",
+      "categoryId": "pinyin",
+      "text": "g",
+      "pinyin": [],
+      "symbol": "g",
+      "groupId": "initials",
+      "sortKey": "08",
+      "note": "声母",
+      "example": "这是声母 g。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-k",
+      "categoryId": "pinyin",
+      "text": "k",
+      "pinyin": [],
+      "symbol": "k",
+      "groupId": "initials",
+      "sortKey": "09",
+      "note": "声母",
+      "example": "这是声母 k。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-h",
+      "categoryId": "pinyin",
+      "text": "h",
+      "pinyin": [],
+      "symbol": "h",
+      "groupId": "initials",
+      "sortKey": "10",
+      "note": "声母",
+      "example": "这是声母 h。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-j",
+      "categoryId": "pinyin",
+      "text": "j",
+      "pinyin": [],
+      "symbol": "j",
+      "groupId": "initials",
+      "sortKey": "11",
+      "note": "声母",
+      "example": "这是声母 j。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-q",
+      "categoryId": "pinyin",
+      "text": "q",
+      "pinyin": [],
+      "symbol": "q",
+      "groupId": "initials",
+      "sortKey": "12",
+      "note": "声母",
+      "example": "这是声母 q。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-x",
+      "categoryId": "pinyin",
+      "text": "x",
+      "pinyin": [],
+      "symbol": "x",
+      "groupId": "initials",
+      "sortKey": "13",
+      "note": "声母",
+      "example": "这是声母 x。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-zh",
+      "categoryId": "pinyin",
+      "text": "zh",
+      "pinyin": [],
+      "symbol": "zh",
+      "groupId": "initials",
+      "sortKey": "14",
+      "note": "声母",
+      "example": "这是声母 zh。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ch",
+      "categoryId": "pinyin",
+      "text": "ch",
+      "pinyin": [],
+      "symbol": "ch",
+      "groupId": "initials",
+      "sortKey": "15",
+      "note": "声母",
+      "example": "这是声母 ch。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-sh",
+      "categoryId": "pinyin",
+      "text": "sh",
+      "pinyin": [],
+      "symbol": "sh",
+      "groupId": "initials",
+      "sortKey": "16",
+      "note": "声母",
+      "example": "这是声母 sh。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-r",
+      "categoryId": "pinyin",
+      "text": "r",
+      "pinyin": [],
+      "symbol": "r",
+      "groupId": "initials",
+      "sortKey": "17",
+      "note": "声母",
+      "example": "这是声母 r。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-z",
+      "categoryId": "pinyin",
+      "text": "z",
+      "pinyin": [],
+      "symbol": "z",
+      "groupId": "initials",
+      "sortKey": "18",
+      "note": "声母",
+      "example": "这是声母 z。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-c",
+      "categoryId": "pinyin",
+      "text": "c",
+      "pinyin": [],
+      "symbol": "c",
+      "groupId": "initials",
+      "sortKey": "19",
+      "note": "声母",
+      "example": "这是声母 c。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-s",
+      "categoryId": "pinyin",
+      "text": "s",
+      "pinyin": [],
+      "symbol": "s",
+      "groupId": "initials",
+      "sortKey": "20",
+      "note": "声母",
+      "example": "这是声母 s。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-y",
+      "categoryId": "pinyin",
+      "text": "y",
+      "pinyin": [],
+      "symbol": "y",
+      "groupId": "initials",
+      "sortKey": "21",
+      "note": "声母",
+      "example": "这是声母 y。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-w",
+      "categoryId": "pinyin",
+      "text": "w",
+      "pinyin": [],
+      "symbol": "w",
+      "groupId": "initials",
+      "sortKey": "22",
+      "note": "声母",
+      "example": "这是声母 w。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-a",
+      "categoryId": "pinyin",
+      "text": "ɑ",
+      "pinyin": [],
+      "symbol": "ɑ",
+      "audio": "audio/pinyin-a.wav",
+      "note": "韵母",
+      "example": "发音时，嘴巴自然张大。",
+      "groupId": "finals",
+      "sortKey": "00",
+      "audioQuality": "demo"
+    },
+    {
+      "id": "pinyin-o",
+      "categoryId": "pinyin",
+      "text": "o",
+      "pinyin": [],
+      "symbol": "o",
+      "audio": "audio/pinyin-o.wav",
+      "note": "韵母",
+      "example": "嘴唇拢圆，听一听示范。",
+      "groupId": "finals",
+      "sortKey": "01",
+      "audioQuality": "demo"
+    },
+    {
+      "id": "pinyin-e",
+      "categoryId": "pinyin",
+      "text": "e",
+      "pinyin": [],
+      "symbol": "e",
+      "audio": "audio/pinyin-e.wav",
+      "note": "韵母",
+      "example": "嘴巴微微张开，嘴角向两边展开。",
+      "groupId": "finals",
+      "sortKey": "02",
+      "audioQuality": "demo"
+    },
+    {
+      "id": "pinyin-i",
+      "categoryId": "pinyin",
+      "text": "i",
+      "pinyin": [],
+      "symbol": "i",
+      "audio": "audio/pinyin-i.wav",
+      "note": "韵母",
+      "example": "嘴角展开，露出牙齿。",
+      "groupId": "finals",
+      "sortKey": "03",
+      "audioQuality": "demo"
+    },
+    {
+      "id": "pinyin-u",
+      "categoryId": "pinyin",
+      "text": "u",
+      "pinyin": [],
+      "symbol": "u",
+      "audio": "audio/pinyin-u.wav",
+      "note": "韵母",
+      "example": "嘴唇向前突出，拢成小圆口。",
+      "groupId": "finals",
+      "sortKey": "04",
+      "audioQuality": "demo"
+    },
+    {
+      "id": "pinyin-v",
+      "categoryId": "pinyin",
+      "text": "ü",
+      "pinyin": [],
+      "symbol": "ü",
+      "audio": "audio/pinyin-v.wav",
+      "note": "韵母",
+      "example": "先摆好 i 的口形，再把嘴唇拢圆。",
+      "groupId": "finals",
+      "sortKey": "05",
+      "audioQuality": "demo"
+    },
+    {
+      "id": "pinyin-ai",
+      "categoryId": "pinyin",
+      "text": "ɑi",
+      "pinyin": [],
+      "symbol": "ɑi",
+      "groupId": "finals",
+      "sortKey": "06",
+      "note": "韵母",
+      "example": "这是韵母 ɑi。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ei",
+      "categoryId": "pinyin",
+      "text": "ei",
+      "pinyin": [],
+      "symbol": "ei",
+      "groupId": "finals",
+      "sortKey": "07",
+      "note": "韵母",
+      "example": "这是韵母 ei。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ui",
+      "categoryId": "pinyin",
+      "text": "ui",
+      "pinyin": [],
+      "symbol": "ui",
+      "groupId": "finals",
+      "sortKey": "08",
+      "note": "韵母",
+      "example": "这是韵母 ui。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ao",
+      "categoryId": "pinyin",
+      "text": "ɑo",
+      "pinyin": [],
+      "symbol": "ɑo",
+      "groupId": "finals",
+      "sortKey": "09",
+      "note": "韵母",
+      "example": "这是韵母 ɑo。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ou",
+      "categoryId": "pinyin",
+      "text": "ou",
+      "pinyin": [],
+      "symbol": "ou",
+      "groupId": "finals",
+      "sortKey": "10",
+      "note": "韵母",
+      "example": "这是韵母 ou。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-iu",
+      "categoryId": "pinyin",
+      "text": "iu",
+      "pinyin": [],
+      "symbol": "iu",
+      "groupId": "finals",
+      "sortKey": "11",
+      "note": "韵母",
+      "example": "这是韵母 iu。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ie",
+      "categoryId": "pinyin",
+      "text": "ie",
+      "pinyin": [],
+      "symbol": "ie",
+      "groupId": "finals",
+      "sortKey": "12",
+      "note": "韵母",
+      "example": "这是韵母 ie。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ve",
+      "categoryId": "pinyin",
+      "text": "üe",
+      "pinyin": [],
+      "symbol": "üe",
+      "groupId": "finals",
+      "sortKey": "13",
+      "note": "韵母",
+      "example": "这是韵母 üe。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-er",
+      "categoryId": "pinyin",
+      "text": "er",
+      "pinyin": [],
+      "symbol": "er",
+      "groupId": "finals",
+      "sortKey": "14",
+      "note": "韵母",
+      "example": "这是韵母 er。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-an",
+      "categoryId": "pinyin",
+      "text": "ɑn",
+      "pinyin": [],
+      "symbol": "ɑn",
+      "groupId": "finals",
+      "sortKey": "15",
+      "note": "韵母",
+      "example": "这是韵母 ɑn。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-en",
+      "categoryId": "pinyin",
+      "text": "en",
+      "pinyin": [],
+      "symbol": "en",
+      "groupId": "finals",
+      "sortKey": "16",
+      "note": "韵母",
+      "example": "这是韵母 en。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-in",
+      "categoryId": "pinyin",
+      "text": "in",
+      "pinyin": [],
+      "symbol": "in",
+      "groupId": "finals",
+      "sortKey": "17",
+      "note": "韵母",
+      "example": "这是韵母 in。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-un",
+      "categoryId": "pinyin",
+      "text": "un",
+      "pinyin": [],
+      "symbol": "un",
+      "groupId": "finals",
+      "sortKey": "18",
+      "note": "韵母",
+      "example": "这是韵母 un。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-vn",
+      "categoryId": "pinyin",
+      "text": "ün",
+      "pinyin": [],
+      "symbol": "ün",
+      "groupId": "finals",
+      "sortKey": "19",
+      "note": "韵母",
+      "example": "这是韵母 ün。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ang",
+      "categoryId": "pinyin",
+      "text": "ɑng",
+      "pinyin": [],
+      "symbol": "ɑng",
+      "groupId": "finals",
+      "sortKey": "20",
+      "note": "韵母",
+      "example": "这是韵母 ɑng。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-eng",
+      "categoryId": "pinyin",
+      "text": "eng",
+      "pinyin": [],
+      "symbol": "eng",
+      "groupId": "finals",
+      "sortKey": "21",
+      "note": "韵母",
+      "example": "这是韵母 eng。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ing",
+      "categoryId": "pinyin",
+      "text": "ing",
+      "pinyin": [],
+      "symbol": "ing",
+      "groupId": "finals",
+      "sortKey": "22",
+      "note": "韵母",
+      "example": "这是韵母 ing。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ong",
+      "categoryId": "pinyin",
+      "text": "ong",
+      "pinyin": [],
+      "symbol": "ong",
+      "groupId": "finals",
+      "sortKey": "23",
+      "note": "韵母",
+      "example": "这是韵母 ong。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-zhi",
+      "categoryId": "pinyin",
+      "text": "zhi",
+      "pinyin": [],
+      "symbol": "zhi",
+      "groupId": "syllables",
+      "sortKey": "00",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 zhi。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-chi",
+      "categoryId": "pinyin",
+      "text": "chi",
+      "pinyin": [],
+      "symbol": "chi",
+      "groupId": "syllables",
+      "sortKey": "01",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 chi。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-shi",
+      "categoryId": "pinyin",
+      "text": "shi",
+      "pinyin": [],
+      "symbol": "shi",
+      "groupId": "syllables",
+      "sortKey": "02",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 shi。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ri",
+      "categoryId": "pinyin",
+      "text": "ri",
+      "pinyin": [],
+      "symbol": "ri",
+      "groupId": "syllables",
+      "sortKey": "03",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 ri。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-zi",
+      "categoryId": "pinyin",
+      "text": "zi",
+      "pinyin": [],
+      "symbol": "zi",
+      "groupId": "syllables",
+      "sortKey": "04",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 zi。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ci",
+      "categoryId": "pinyin",
+      "text": "ci",
+      "pinyin": [],
+      "symbol": "ci",
+      "groupId": "syllables",
+      "sortKey": "05",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 ci。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-si",
+      "categoryId": "pinyin",
+      "text": "si",
+      "pinyin": [],
+      "symbol": "si",
+      "groupId": "syllables",
+      "sortKey": "06",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 si。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-yi",
+      "categoryId": "pinyin",
+      "text": "yi",
+      "pinyin": [],
+      "symbol": "yi",
+      "groupId": "syllables",
+      "sortKey": "07",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 yi。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-wu",
+      "categoryId": "pinyin",
+      "text": "wu",
+      "pinyin": [],
+      "symbol": "wu",
+      "groupId": "syllables",
+      "sortKey": "08",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 wu。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-yu",
+      "categoryId": "pinyin",
+      "text": "yu",
+      "pinyin": [],
+      "symbol": "yu",
+      "groupId": "syllables",
+      "sortKey": "09",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 yu。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ye",
+      "categoryId": "pinyin",
+      "text": "ye",
+      "pinyin": [],
+      "symbol": "ye",
+      "groupId": "syllables",
+      "sortKey": "10",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 ye。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-yue",
+      "categoryId": "pinyin",
+      "text": "yue",
+      "pinyin": [],
+      "symbol": "yue",
+      "groupId": "syllables",
+      "sortKey": "11",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 yue。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-yuan",
+      "categoryId": "pinyin",
+      "text": "yuɑn",
+      "pinyin": [],
+      "symbol": "yuɑn",
+      "groupId": "syllables",
+      "sortKey": "12",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 yuɑn。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-yin",
+      "categoryId": "pinyin",
+      "text": "yin",
+      "pinyin": [],
+      "symbol": "yin",
+      "groupId": "syllables",
+      "sortKey": "13",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 yin。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-yun",
+      "categoryId": "pinyin",
+      "text": "yun",
+      "pinyin": [],
+      "symbol": "yun",
+      "groupId": "syllables",
+      "sortKey": "14",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 yun。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "pinyin-ying",
+      "categoryId": "pinyin",
+      "text": "ying",
+      "pinyin": [],
+      "symbol": "ying",
+      "groupId": "syllables",
+      "sortKey": "15",
+      "note": "整体认读音节",
+      "example": "这是整体认读音节 ying。跟随老师或标准录音练习，注意它是一个完整的发音单位。",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "hanzi-yi",
+      "categoryId": "chinese",
+      "text": "一",
+      "pinyin": [
+        "yī"
+      ],
+      "symbol": "一",
+      "audio": "audio/hanzi-yi.wav",
+      "note": "基础汉字 · 自编课程",
+      "example": "一表示数量的起点。",
+      "strokes": 1,
+      "audioQuality": "demo",
+      "words": [
+        {
+          "text": "一个",
+          "pinyin": [
+            "yí",
+            "gè"
+          ]
+        },
+        {
+          "text": "一天",
+          "pinyin": [
+            "yì",
+            "tiān"
+          ]
+        }
+      ],
+      "groupId": "starter",
+      "sortKey": "000",
+      "strokeAsset": "assets/strokes/4e00.json"
+    },
+    {
+      "id": "hanzi-er",
+      "categoryId": "chinese",
+      "text": "二",
+      "pinyin": [
+        "èr"
+      ],
+      "symbol": "二",
+      "audio": "audio/hanzi-er.wav",
+      "note": "基础汉字 · 自编课程",
+      "example": "二表示两个。",
+      "strokes": 2,
+      "audioQuality": "demo",
+      "words": [
+        {
+          "text": "二月",
+          "pinyin": [
+            "èr",
+            "yuè"
+          ]
+        },
+        {
+          "text": "十二",
+          "pinyin": [
+            "shí",
+            "èr"
+          ]
+        }
+      ],
+      "groupId": "starter",
+      "sortKey": "001",
+      "strokeAsset": "assets/strokes/4e8c.json"
+    },
+    {
+      "id": "hanzi-san",
+      "categoryId": "chinese",
+      "text": "三",
+      "pinyin": [
+        "sān"
+      ],
+      "symbol": "三",
+      "audio": "audio/hanzi-san.wav",
+      "note": "基础汉字 · 自编课程",
+      "example": "三比二多一。",
+      "strokes": 3,
+      "audioQuality": "demo",
+      "words": [
+        {
+          "text": "三个",
+          "pinyin": [
+            "sān",
+            "gè"
+          ]
+        },
+        {
+          "text": "三月",
+          "pinyin": [
+            "sān",
+            "yuè"
+          ]
+        }
+      ],
+      "groupId": "starter",
+      "sortKey": "002",
+      "strokeAsset": "assets/strokes/4e09.json"
+    },
+    {
+      "id": "hanzi-ren",
+      "categoryId": "chinese",
+      "text": "人",
+      "pinyin": [
+        "rén"
+      ],
+      "symbol": "人",
+      "audio": "audio/hanzi-ren.wav",
+      "note": "基础汉字 · 自编课程",
+      "example": "人可以学习、劳动和交流。",
+      "strokes": 2,
+      "audioQuality": "demo",
+      "words": [
+        {
+          "text": "人们",
+          "pinyin": [
+            "rén",
+            "men"
+          ]
+        },
+        {
+          "text": "大人",
+          "pinyin": [
+            "dà",
+            "rén"
+          ]
+        }
+      ],
+      "groupId": "starter",
+      "sortKey": "003",
+      "strokeAsset": "assets/strokes/4eba.json"
+    },
+    {
+      "id": "hanzi-kou",
+      "categoryId": "chinese",
+      "text": "口",
+      "pinyin": [
+        "kǒu"
+      ],
+      "symbol": "口",
+      "audio": "audio/hanzi-kou.wav",
+      "note": "基础汉字 · 自编课程",
+      "example": "口可以表示嘴，也可以表示出入口。",
+      "strokes": 3,
+      "audioQuality": "demo",
+      "words": [
+        {
+          "text": "人口",
+          "pinyin": [
+            "rén",
+            "kǒu"
+          ]
+        },
+        {
+          "text": "门口",
+          "pinyin": [
+            "mén",
+            "kǒu"
+          ]
+        }
+      ],
+      "groupId": "starter",
+      "sortKey": "004",
+      "strokeAsset": "assets/strokes/53e3.json"
+    },
+    {
+      "id": "hanzi-shan",
+      "categoryId": "chinese",
+      "text": "山",
+      "pinyin": [
+        "shān"
+      ],
+      "symbol": "山",
+      "audio": "audio/hanzi-shan.wav",
+      "note": "基础汉字 · 自编课程",
+      "example": "山是地面上高高隆起的部分。",
+      "strokes": 3,
+      "audioQuality": "demo",
+      "words": [
+        {
+          "text": "高山",
+          "pinyin": [
+            "gāo",
+            "shān"
+          ]
+        },
+        {
+          "text": "山水",
+          "pinyin": [
+            "shān",
+            "shuǐ"
+          ]
+        }
+      ],
+      "groupId": "starter",
+      "sortKey": "005",
+      "strokeAsset": "assets/strokes/5c71.json"
+    },
+    {
+      "text": "四",
+      "pinyin": [
+        "sì"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "四个",
+          "pinyin": [
+            "sì",
+            "gè"
+          ]
+        },
+        {
+          "text": "四季",
+          "pinyin": [
+            "sì",
+            "jì"
+          ]
+        }
+      ],
+      "example": "一年有春夏秋冬四季。",
+      "groupId": "numbers",
+      "id": "hanzi-u56db",
+      "categoryId": "chinese",
+      "symbol": "四",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "006",
+      "strokeAsset": "assets/strokes/56db.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "五",
+      "pinyin": [
+        "wǔ"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "五个",
+          "pinyin": [
+            "wǔ",
+            "gè"
+          ]
+        },
+        {
+          "text": "五月",
+          "pinyin": [
+            "wǔ",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "伸出一只手，可以数五根手指。",
+      "groupId": "numbers",
+      "id": "hanzi-u4e94",
+      "categoryId": "chinese",
+      "symbol": "五",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "007",
+      "strokeAsset": "assets/strokes/4e94.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "六",
+      "pinyin": [
+        "liù"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "六个",
+          "pinyin": [
+            "liù",
+            "gè"
+          ]
+        },
+        {
+          "text": "六月",
+          "pinyin": [
+            "liù",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "六比五多一。",
+      "groupId": "numbers",
+      "id": "hanzi-u516d",
+      "categoryId": "chinese",
+      "symbol": "六",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "008",
+      "strokeAsset": "assets/strokes/516d.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "七",
+      "pinyin": [
+        "qī"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "七个",
+          "pinyin": [
+            "qī",
+            "gè"
+          ]
+        },
+        {
+          "text": "七天",
+          "pinyin": [
+            "qī",
+            "tiān"
+          ]
+        }
+      ],
+      "example": "一周有七天。",
+      "groupId": "numbers",
+      "id": "hanzi-u4e03",
+      "categoryId": "chinese",
+      "symbol": "七",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "009",
+      "strokeAsset": "assets/strokes/4e03.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "八",
+      "pinyin": [
+        "bā"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "八个",
+          "pinyin": [
+            "bā",
+            "gè"
+          ]
+        },
+        {
+          "text": "八月",
+          "pinyin": [
+            "bā",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "八比七多一。",
+      "groupId": "numbers",
+      "id": "hanzi-u516b",
+      "categoryId": "chinese",
+      "symbol": "八",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "010",
+      "strokeAsset": "assets/strokes/516b.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "九",
+      "pinyin": [
+        "jiǔ"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "九个",
+          "pinyin": [
+            "jiǔ",
+            "gè"
+          ]
+        },
+        {
+          "text": "九月",
+          "pinyin": [
+            "jiǔ",
+            "yuè"
+          ]
+        }
+      ],
+      "example": "九比八多一。",
+      "groupId": "numbers",
+      "id": "hanzi-u4e5d",
+      "categoryId": "chinese",
+      "symbol": "九",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "011",
+      "strokeAsset": "assets/strokes/4e5d.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "日",
+      "pinyin": [
+        "rì"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "日子",
+          "pinyin": [
+            "rì",
+            "zi"
+          ]
+        },
+        {
+          "text": "日出",
+          "pinyin": [
+            "rì",
+            "chū"
+          ]
+        }
+      ],
+      "example": "日可以表示太阳，也可以表示一天。",
+      "groupId": "nature",
+      "id": "hanzi-u65e5",
+      "categoryId": "chinese",
+      "symbol": "日",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "012",
+      "strokeAsset": "assets/strokes/65e5.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "月",
+      "pinyin": [
+        "yuè"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "月亮",
+          "pinyin": [
+            "yuè",
+            "liang"
+          ]
+        },
+        {
+          "text": "月光",
+          "pinyin": [
+            "yuè",
+            "guāng"
+          ]
+        }
+      ],
+      "example": "夜晚常能看到月亮。",
+      "groupId": "nature",
+      "id": "hanzi-u6708",
+      "categoryId": "chinese",
+      "symbol": "月",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "013",
+      "strokeAsset": "assets/strokes/6708.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "水",
+      "pinyin": [
+        "shuǐ"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "水果",
+          "pinyin": [
+            "shuǐ",
+            "guǒ"
+          ]
+        },
+        {
+          "text": "河水",
+          "pinyin": [
+            "hé",
+            "shuǐ"
+          ]
+        }
+      ],
+      "example": "生活中处处需要水。",
+      "groupId": "nature",
+      "id": "hanzi-u6c34",
+      "categoryId": "chinese",
+      "symbol": "水",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "014",
+      "strokeAsset": "assets/strokes/6c34.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "火",
+      "pinyin": [
+        "huǒ"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "火车",
+          "pinyin": [
+            "huǒ",
+            "chē"
+          ]
+        },
+        {
+          "text": "火光",
+          "pinyin": [
+            "huǒ",
+            "guāng"
+          ]
+        }
+      ],
+      "example": "火能带来热量，儿童不要玩火。",
+      "groupId": "nature",
+      "id": "hanzi-u706b",
+      "categoryId": "chinese",
+      "symbol": "火",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "015",
+      "strokeAsset": "assets/strokes/706b.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "土",
+      "pinyin": [
+        "tǔ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "土地",
+          "pinyin": [
+            "tǔ",
+            "dì"
+          ]
+        },
+        {
+          "text": "泥土",
+          "pinyin": [
+            "ní",
+            "tǔ"
+          ]
+        }
+      ],
+      "example": "许多植物扎根在泥土中。",
+      "groupId": "nature",
+      "id": "hanzi-u571f",
+      "categoryId": "chinese",
+      "symbol": "土",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "016",
+      "strokeAsset": "assets/strokes/571f.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "木",
+      "pinyin": [
+        "mù"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "木头",
+          "pinyin": [
+            "mù",
+            "tou"
+          ]
+        },
+        {
+          "text": "树木",
+          "pinyin": [
+            "shù",
+            "mù"
+          ]
+        }
+      ],
+      "example": "木可以表示树或木材。",
+      "groupId": "nature",
+      "id": "hanzi-u6728",
+      "categoryId": "chinese",
+      "symbol": "木",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "017",
+      "strokeAsset": "assets/strokes/6728.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "上",
+      "pinyin": [
+        "shàng"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "上面",
+          "pinyin": [
+            "shàng",
+            "miàn"
+          ]
+        },
+        {
+          "text": "上下",
+          "pinyin": [
+            "shàng",
+            "xià"
+          ]
+        }
+      ],
+      "example": "上和下表示相对的方向。",
+      "groupId": "directions",
+      "id": "hanzi-u4e0a",
+      "categoryId": "chinese",
+      "symbol": "上",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "018",
+      "strokeAsset": "assets/strokes/4e0a.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "下",
+      "pinyin": [
+        "xià"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "下面",
+          "pinyin": [
+            "xià",
+            "miàn"
+          ]
+        },
+        {
+          "text": "下雨",
+          "pinyin": [
+            "xià",
+            "yǔ"
+          ]
+        }
+      ],
+      "example": "下可以表示位置较低。",
+      "groupId": "directions",
+      "id": "hanzi-u4e0b",
+      "categoryId": "chinese",
+      "symbol": "下",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "019",
+      "strokeAsset": "assets/strokes/4e0b.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "左",
+      "pinyin": [
+        "zuǒ"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "左边",
+          "pinyin": [
+            "zuǒ",
+            "bian"
+          ]
+        },
+        {
+          "text": "左右",
+          "pinyin": [
+            "zuǒ",
+            "yòu"
+          ]
+        }
+      ],
+      "example": "左与右是一对相对的方向。",
+      "groupId": "directions",
+      "id": "hanzi-u5de6",
+      "categoryId": "chinese",
+      "symbol": "左",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "020",
+      "strokeAsset": "assets/strokes/5de6.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "右",
+      "pinyin": [
+        "yòu"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "右边",
+          "pinyin": [
+            "yòu",
+            "bian"
+          ]
+        },
+        {
+          "text": "右手",
+          "pinyin": [
+            "yòu",
+            "shǒu"
+          ]
+        }
+      ],
+      "example": "看看自己的右手在哪里。",
+      "groupId": "directions",
+      "id": "hanzi-u53f3",
+      "categoryId": "chinese",
+      "symbol": "右",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "021",
+      "strokeAsset": "assets/strokes/53f3.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "中",
+      "pinyin": [
+        "zhōng"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "中间",
+          "pinyin": [
+            "zhōng",
+            "jiān"
+          ]
+        },
+        {
+          "text": "中心",
+          "pinyin": [
+            "zhōng",
+            "xīn"
+          ]
+        }
+      ],
+      "example": "中可以表示两边之间的位置。",
+      "groupId": "directions",
+      "id": "hanzi-u4e2d",
+      "categoryId": "chinese",
+      "symbol": "中",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "022",
+      "strokeAsset": "assets/strokes/4e2d.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "大",
+      "pinyin": [
+        "dà"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "大小",
+          "pinyin": [
+            "dà",
+            "xiǎo"
+          ]
+        },
+        {
+          "text": "大人",
+          "pinyin": [
+            "dà",
+            "rén"
+          ]
+        }
+      ],
+      "example": "比较物体时，可以说大或小。",
+      "groupId": "directions",
+      "id": "hanzi-u5927",
+      "categoryId": "chinese",
+      "symbol": "大",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "023",
+      "strokeAsset": "assets/strokes/5927.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "小",
+      "pinyin": [
+        "xiǎo"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "小手",
+          "pinyin": [
+            "xiǎo",
+            "shǒu"
+          ]
+        },
+        {
+          "text": "小鸟",
+          "pinyin": [
+            "xiǎo",
+            "niǎo"
+          ]
+        }
+      ],
+      "example": "小可以表示体积或年龄较小。",
+      "groupId": "comparisons",
+      "id": "hanzi-u5c0f",
+      "categoryId": "chinese",
+      "symbol": "小",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "024",
+      "strokeAsset": "assets/strokes/5c0f.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "多",
+      "pinyin": [
+        "duō"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "多少",
+          "pinyin": [
+            "duō",
+            "shǎo"
+          ]
+        },
+        {
+          "text": "许多",
+          "pinyin": [
+            "xǔ",
+            "duō"
+          ]
+        }
+      ],
+      "example": "比较数量时，可以说多或少。",
+      "groupId": "comparisons",
+      "id": "hanzi-u591a",
+      "categoryId": "chinese",
+      "symbol": "多",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "025",
+      "strokeAsset": "assets/strokes/591a.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "少",
+      "pinyin": [
+        "shǎo"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "多少",
+          "pinyin": [
+            "duō",
+            "shǎo"
+          ]
+        },
+        {
+          "text": "少许",
+          "pinyin": [
+            "shǎo",
+            "xǔ"
+          ]
+        }
+      ],
+      "example": "少表示数量不多。",
+      "groupId": "comparisons",
+      "id": "hanzi-u5c11",
+      "categoryId": "chinese",
+      "symbol": "少",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "026",
+      "strokeAsset": "assets/strokes/5c11.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "长",
+      "pinyin": [
+        "cháng"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "长短",
+          "pinyin": [
+            "cháng",
+            "duǎn"
+          ]
+        },
+        {
+          "text": "长大",
+          "pinyin": [
+            "zhǎng",
+            "dà"
+          ]
+        }
+      ],
+      "example": "长短的长读 cháng，长大的长读 zhǎng。",
+      "groupId": "comparisons",
+      "id": "hanzi-u957f",
+      "categoryId": "chinese",
+      "symbol": "长",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "027",
+      "strokeAsset": "assets/strokes/957f.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "短",
+      "pinyin": [
+        "duǎn"
+      ],
+      "strokes": 12,
+      "words": [
+        {
+          "text": "长短",
+          "pinyin": [
+            "cháng",
+            "duǎn"
+          ]
+        },
+        {
+          "text": "短小",
+          "pinyin": [
+            "duǎn",
+            "xiǎo"
+          ]
+        }
+      ],
+      "example": "短与长表示长度的比较。",
+      "groupId": "comparisons",
+      "id": "hanzi-u77ed",
+      "categoryId": "chinese",
+      "symbol": "短",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "028",
+      "strokeAsset": "assets/strokes/77ed.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "高",
+      "pinyin": [
+        "gāo"
+      ],
+      "strokes": 10,
+      "words": [
+        {
+          "text": "高山",
+          "pinyin": [
+            "gāo",
+            "shān"
+          ]
+        },
+        {
+          "text": "高低",
+          "pinyin": [
+            "gāo",
+            "dī"
+          ]
+        }
+      ],
+      "example": "高可以表示离地面较远。",
+      "groupId": "comparisons",
+      "id": "hanzi-u9ad8",
+      "categoryId": "chinese",
+      "symbol": "高",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "029",
+      "strokeAsset": "assets/strokes/9ad8.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "目",
+      "pinyin": [
+        "mù"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "目光",
+          "pinyin": [
+            "mù",
+            "guāng"
+          ]
+        },
+        {
+          "text": "耳目",
+          "pinyin": [
+            "ěr",
+            "mù"
+          ]
+        }
+      ],
+      "example": "目可以表示眼睛。",
+      "groupId": "body",
+      "id": "hanzi-u76ee",
+      "categoryId": "chinese",
+      "symbol": "目",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "030",
+      "strokeAsset": "assets/strokes/76ee.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "耳",
+      "pinyin": [
+        "ěr"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "耳朵",
+          "pinyin": [
+            "ěr",
+            "duo"
+          ]
+        },
+        {
+          "text": "木耳",
+          "pinyin": [
+            "mù",
+            "ěr"
+          ]
+        }
+      ],
+      "example": "耳朵帮助我们听声音。",
+      "groupId": "body",
+      "id": "hanzi-u8033",
+      "categoryId": "chinese",
+      "symbol": "耳",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "031",
+      "strokeAsset": "assets/strokes/8033.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "手",
+      "pinyin": [
+        "shǒu"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "双手",
+          "pinyin": [
+            "shuāng",
+            "shǒu"
+          ]
+        },
+        {
+          "text": "手心",
+          "pinyin": [
+            "shǒu",
+            "xīn"
+          ]
+        }
+      ],
+      "example": "手可以抓握，也可以写字。",
+      "groupId": "body",
+      "id": "hanzi-u624b",
+      "categoryId": "chinese",
+      "symbol": "手",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "032",
+      "strokeAsset": "assets/strokes/624b.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "足",
+      "pinyin": [
+        "zú"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "手足",
+          "pinyin": [
+            "shǒu",
+            "zú"
+          ]
+        },
+        {
+          "text": "足球",
+          "pinyin": [
+            "zú",
+            "qiú"
+          ]
+        }
+      ],
+      "example": "足可以表示脚。",
+      "groupId": "body",
+      "id": "hanzi-u8db3",
+      "categoryId": "chinese",
+      "symbol": "足",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "033",
+      "strokeAsset": "assets/strokes/8db3.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "心",
+      "pinyin": [
+        "xīn"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "开心",
+          "pinyin": [
+            "kāi",
+            "xīn"
+          ]
+        },
+        {
+          "text": "心中",
+          "pinyin": [
+            "xīn",
+            "zhōng"
+          ]
+        }
+      ],
+      "example": "心可以表示心脏，也可以表示心情。",
+      "groupId": "body",
+      "id": "hanzi-u5fc3",
+      "categoryId": "chinese",
+      "symbol": "心",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "034",
+      "strokeAsset": "assets/strokes/5fc3.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "头",
+      "pinyin": [
+        "tóu"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "头发",
+          "pinyin": [
+            "tóu",
+            "fa"
+          ]
+        },
+        {
+          "text": "木头",
+          "pinyin": [
+            "mù",
+            "tou"
+          ]
+        }
+      ],
+      "example": "头可以表示身体最上面的部分。",
+      "groupId": "body",
+      "id": "hanzi-u5934",
+      "categoryId": "chinese",
+      "symbol": "头",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "035",
+      "strokeAsset": "assets/strokes/5934.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "父",
+      "pinyin": [
+        "fù"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "父亲",
+          "pinyin": [
+            "fù",
+            "qīn"
+          ]
+        },
+        {
+          "text": "父母",
+          "pinyin": [
+            "fù",
+            "mǔ"
+          ]
+        }
+      ],
+      "example": "父亲是爸爸的另一种称呼。",
+      "groupId": "family",
+      "id": "hanzi-u7236",
+      "categoryId": "chinese",
+      "symbol": "父",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "036",
+      "strokeAsset": "assets/strokes/7236.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "母",
+      "pinyin": [
+        "mǔ"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "母亲",
+          "pinyin": [
+            "mǔ",
+            "qīn"
+          ]
+        },
+        {
+          "text": "母子",
+          "pinyin": [
+            "mǔ",
+            "zǐ"
+          ]
+        }
+      ],
+      "example": "母亲是妈妈的另一种称呼。",
+      "groupId": "family",
+      "id": "hanzi-u6bcd",
+      "categoryId": "chinese",
+      "symbol": "母",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "037",
+      "strokeAsset": "assets/strokes/6bcd.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "子",
+      "pinyin": [
+        "zǐ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "子女",
+          "pinyin": [
+            "zǐ",
+            "nǚ"
+          ]
+        },
+        {
+          "text": "儿子",
+          "pinyin": [
+            "ér",
+            "zi"
+          ]
+        }
+      ],
+      "example": "子在不同词中可以读不同的音。",
+      "groupId": "family",
+      "id": "hanzi-u5b50",
+      "categoryId": "chinese",
+      "symbol": "子",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "038",
+      "strokeAsset": "assets/strokes/5b50.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "女",
+      "pinyin": [
+        "nǚ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "女孩",
+          "pinyin": [
+            "nǚ",
+            "hái"
+          ]
+        },
+        {
+          "text": "女儿",
+          "pinyin": [
+            "nǚ",
+            "ér"
+          ]
+        }
+      ],
+      "example": "女可以表示女性。",
+      "groupId": "family",
+      "id": "hanzi-u5973",
+      "categoryId": "chinese",
+      "symbol": "女",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "039",
+      "strokeAsset": "assets/strokes/5973.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "兄",
+      "pinyin": [
+        "xiōng"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "兄弟",
+          "pinyin": [
+            "xiōng",
+            "dì"
+          ]
+        },
+        {
+          "text": "兄长",
+          "pinyin": [
+            "xiōng",
+            "zhǎng"
+          ]
+        }
+      ],
+      "example": "兄是哥哥的另一种称呼。",
+      "groupId": "family",
+      "id": "hanzi-u5144",
+      "categoryId": "chinese",
+      "symbol": "兄",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "040",
+      "strokeAsset": "assets/strokes/5144.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "弟",
+      "pinyin": [
+        "dì"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "弟弟",
+          "pinyin": [
+            "dì",
+            "di"
+          ]
+        },
+        {
+          "text": "兄弟",
+          "pinyin": [
+            "xiōng",
+            "dì"
+          ]
+        }
+      ],
+      "example": "弟弟比自己年幼。",
+      "groupId": "family",
+      "id": "hanzi-u5f1f",
+      "categoryId": "chinese",
+      "symbol": "弟",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "041",
+      "strokeAsset": "assets/strokes/5f1f.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "门",
+      "pinyin": [
+        "mén"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "大门",
+          "pinyin": [
+            "dà",
+            "mén"
+          ]
+        },
+        {
+          "text": "门口",
+          "pinyin": [
+            "mén",
+            "kǒu"
+          ]
+        }
+      ],
+      "example": "门是进出房屋的通道。",
+      "groupId": "daily",
+      "id": "hanzi-u95e8",
+      "categoryId": "chinese",
+      "symbol": "门",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "042",
+      "strokeAsset": "assets/strokes/95e8.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "车",
+      "pinyin": [
+        "chē"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "汽车",
+          "pinyin": [
+            "qì",
+            "chē"
+          ]
+        },
+        {
+          "text": "火车",
+          "pinyin": [
+            "huǒ",
+            "chē"
+          ]
+        }
+      ],
+      "example": "车帮助人们运送人和物品。",
+      "groupId": "daily",
+      "id": "hanzi-u8f66",
+      "categoryId": "chinese",
+      "symbol": "车",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "043",
+      "strokeAsset": "assets/strokes/8f66.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "马",
+      "pinyin": [
+        "mǎ"
+      ],
+      "strokes": 3,
+      "words": [
+        {
+          "text": "白马",
+          "pinyin": [
+            "bái",
+            "mǎ"
+          ]
+        },
+        {
+          "text": "马车",
+          "pinyin": [
+            "mǎ",
+            "chē"
+          ]
+        }
+      ],
+      "example": "马是一种善于奔跑的动物。",
+      "groupId": "daily",
+      "id": "hanzi-u9a6c",
+      "categoryId": "chinese",
+      "symbol": "马",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "044",
+      "strokeAsset": "assets/strokes/9a6c.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "牛",
+      "pinyin": [
+        "niú"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "水牛",
+          "pinyin": [
+            "shuǐ",
+            "niú"
+          ]
+        },
+        {
+          "text": "牛奶",
+          "pinyin": [
+            "niú",
+            "nǎi"
+          ]
+        }
+      ],
+      "example": "牛是常见的家畜。",
+      "groupId": "daily",
+      "id": "hanzi-u725b",
+      "categoryId": "chinese",
+      "symbol": "牛",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "045",
+      "strokeAsset": "assets/strokes/725b.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "羊",
+      "pinyin": [
+        "yáng"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "山羊",
+          "pinyin": [
+            "shān",
+            "yáng"
+          ]
+        },
+        {
+          "text": "羊毛",
+          "pinyin": [
+            "yáng",
+            "máo"
+          ]
+        }
+      ],
+      "example": "羊主要吃草等植物。",
+      "groupId": "daily",
+      "id": "hanzi-u7f8a",
+      "categoryId": "chinese",
+      "symbol": "羊",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "046",
+      "strokeAsset": "assets/strokes/7f8a.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "鸟",
+      "pinyin": [
+        "niǎo"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "小鸟",
+          "pinyin": [
+            "xiǎo",
+            "niǎo"
+          ]
+        },
+        {
+          "text": "鸟儿",
+          "pinyin": [
+            "niǎo",
+            "ér"
+          ]
+        }
+      ],
+      "example": "鸟的身上有羽毛。",
+      "groupId": "daily",
+      "id": "hanzi-u9e1f",
+      "categoryId": "chinese",
+      "symbol": "鸟",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "047",
+      "strokeAsset": "assets/strokes/9e1f.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "花",
+      "pinyin": [
+        "huā"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "花朵",
+          "pinyin": [
+            "huā",
+            "duǒ"
+          ]
+        },
+        {
+          "text": "开花",
+          "pinyin": [
+            "kāi",
+            "huā"
+          ]
+        }
+      ],
+      "example": "许多植物会开花。",
+      "groupId": "plants",
+      "id": "hanzi-u82b1",
+      "categoryId": "chinese",
+      "symbol": "花",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "048",
+      "strokeAsset": "assets/strokes/82b1.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "草",
+      "pinyin": [
+        "cǎo"
+      ],
+      "strokes": 9,
+      "words": [
+        {
+          "text": "小草",
+          "pinyin": [
+            "xiǎo",
+            "cǎo"
+          ]
+        },
+        {
+          "text": "草地",
+          "pinyin": [
+            "cǎo",
+            "dì"
+          ]
+        }
+      ],
+      "example": "草通常比较矮小。",
+      "groupId": "plants",
+      "id": "hanzi-u8349",
+      "categoryId": "chinese",
+      "symbol": "草",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "049",
+      "strokeAsset": "assets/strokes/8349.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "竹",
+      "pinyin": [
+        "zhú"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "竹子",
+          "pinyin": [
+            "zhú",
+            "zi"
+          ]
+        },
+        {
+          "text": "竹林",
+          "pinyin": [
+            "zhú",
+            "lín"
+          ]
+        }
+      ],
+      "example": "竹子的茎一节一节。",
+      "groupId": "plants",
+      "id": "hanzi-u7af9",
+      "categoryId": "chinese",
+      "symbol": "竹",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "050",
+      "strokeAsset": "assets/strokes/7af9.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "禾",
+      "pinyin": [
+        "hé"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "禾苗",
+          "pinyin": [
+            "hé",
+            "miáo"
+          ]
+        },
+        {
+          "text": "禾田",
+          "pinyin": [
+            "hé",
+            "tián"
+          ]
+        }
+      ],
+      "example": "禾常用来表示谷类作物。",
+      "groupId": "plants",
+      "id": "hanzi-u79be",
+      "categoryId": "chinese",
+      "symbol": "禾",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "051",
+      "strokeAsset": "assets/strokes/79be.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "米",
+      "pinyin": [
+        "mǐ"
+      ],
+      "strokes": 6,
+      "words": [
+        {
+          "text": "大米",
+          "pinyin": [
+            "dà",
+            "mǐ"
+          ]
+        },
+        {
+          "text": "米饭",
+          "pinyin": [
+            "mǐ",
+            "fàn"
+          ]
+        }
+      ],
+      "example": "大米煮熟可以做成米饭。",
+      "groupId": "plants",
+      "id": "hanzi-u7c73",
+      "categoryId": "chinese",
+      "symbol": "米",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "052",
+      "strokeAsset": "assets/strokes/7c73.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "果",
+      "pinyin": [
+        "guǒ"
+      ],
+      "strokes": 8,
+      "words": [
+        {
+          "text": "水果",
+          "pinyin": [
+            "shuǐ",
+            "guǒ"
+          ]
+        },
+        {
+          "text": "果子",
+          "pinyin": [
+            "guǒ",
+            "zi"
+          ]
+        }
+      ],
+      "example": "许多植物会结出果实。",
+      "groupId": "plants",
+      "id": "hanzi-u679c",
+      "categoryId": "chinese",
+      "symbol": "果",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "053",
+      "strokeAsset": "assets/strokes/679c.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "来",
+      "pinyin": [
+        "lái"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "回来",
+          "pinyin": [
+            "huí",
+            "lái"
+          ]
+        },
+        {
+          "text": "来去",
+          "pinyin": [
+            "lái",
+            "qù"
+          ]
+        }
+      ],
+      "example": "来表示向说话人所在的方向移动。",
+      "groupId": "actions",
+      "id": "hanzi-u6765",
+      "categoryId": "chinese",
+      "symbol": "来",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "054",
+      "strokeAsset": "assets/strokes/6765.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "去",
+      "pinyin": [
+        "qù"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "回去",
+          "pinyin": [
+            "huí",
+            "qù"
+          ]
+        },
+        {
+          "text": "出去",
+          "pinyin": [
+            "chū",
+            "qù"
+          ]
+        }
+      ],
+      "example": "去表示离开所在的位置。",
+      "groupId": "actions",
+      "id": "hanzi-u53bb",
+      "categoryId": "chinese",
+      "symbol": "去",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "055",
+      "strokeAsset": "assets/strokes/53bb.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "走",
+      "pinyin": [
+        "zǒu"
+      ],
+      "strokes": 7,
+      "words": [
+        {
+          "text": "走路",
+          "pinyin": [
+            "zǒu",
+            "lù"
+          ]
+        },
+        {
+          "text": "行走",
+          "pinyin": [
+            "xíng",
+            "zǒu"
+          ]
+        }
+      ],
+      "example": "走路时双脚交替迈步。",
+      "groupId": "actions",
+      "id": "hanzi-u8d70",
+      "categoryId": "chinese",
+      "symbol": "走",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "056",
+      "strokeAsset": "assets/strokes/8d70.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "出",
+      "pinyin": [
+        "chū"
+      ],
+      "strokes": 5,
+      "words": [
+        {
+          "text": "出去",
+          "pinyin": [
+            "chū",
+            "qù"
+          ]
+        },
+        {
+          "text": "日出",
+          "pinyin": [
+            "rì",
+            "chū"
+          ]
+        }
+      ],
+      "example": "出表示从里面到外面。",
+      "groupId": "actions",
+      "id": "hanzi-u51fa",
+      "categoryId": "chinese",
+      "symbol": "出",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "057",
+      "strokeAsset": "assets/strokes/51fa.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "入",
+      "pinyin": [
+        "rù"
+      ],
+      "strokes": 2,
+      "words": [
+        {
+          "text": "入口",
+          "pinyin": [
+            "rù",
+            "kǒu"
+          ]
+        },
+        {
+          "text": "进入",
+          "pinyin": [
+            "jìn",
+            "rù"
+          ]
+        }
+      ],
+      "example": "入表示从外面到里面。",
+      "groupId": "actions",
+      "id": "hanzi-u5165",
+      "categoryId": "chinese",
+      "symbol": "入",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "058",
+      "strokeAsset": "assets/strokes/5165.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "text": "开",
+      "pinyin": [
+        "kāi"
+      ],
+      "strokes": 4,
+      "words": [
+        {
+          "text": "开心",
+          "pinyin": [
+            "kāi",
+            "xīn"
+          ]
+        },
+        {
+          "text": "开门",
+          "pinyin": [
+            "kāi",
+            "mén"
+          ]
+        }
+      ],
+      "example": "开可以表示打开或开始。",
+      "groupId": "actions",
+      "id": "hanzi-u5f00",
+      "categoryId": "chinese",
+      "symbol": "开",
+      "note": "基础汉字 · 自编课程",
+      "sortKey": "059",
+      "strokeAsset": "assets/strokes/5f00.json",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "en-a",
+      "categoryId": "alphabet",
+      "text": "Aa",
+      "pinyin": [],
+      "symbol": "Aa",
+      "audio": "audio/en-a.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Apple · 苹果。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "00"
+    },
+    {
+      "id": "en-b",
+      "categoryId": "alphabet",
+      "text": "Bb",
+      "pinyin": [],
+      "symbol": "Bb",
+      "audio": "audio/en-b.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Ball · 球。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "01"
+    },
+    {
+      "id": "en-c",
+      "categoryId": "alphabet",
+      "text": "Cc",
+      "pinyin": [],
+      "symbol": "Cc",
+      "audio": "audio/en-c.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Cat · 猫。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "02"
+    },
+    {
+      "id": "en-d",
+      "categoryId": "alphabet",
+      "text": "Dd",
+      "pinyin": [],
+      "symbol": "Dd",
+      "audio": "audio/en-d.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Dog · 狗。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "03"
+    },
+    {
+      "id": "en-e",
+      "categoryId": "alphabet",
+      "text": "Ee",
+      "pinyin": [],
+      "symbol": "Ee",
+      "audio": "audio/en-e.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Egg · 鸡蛋。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "04"
+    },
+    {
+      "id": "en-f",
+      "categoryId": "alphabet",
+      "text": "Ff",
+      "pinyin": [],
+      "symbol": "Ff",
+      "audio": "audio/en-f.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Fish · 鱼。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "05"
+    },
+    {
+      "id": "en-g",
+      "categoryId": "alphabet",
+      "text": "Gg",
+      "pinyin": [],
+      "symbol": "Gg",
+      "audio": "audio/en-g.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Goat · 山羊。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "06"
+    },
+    {
+      "id": "en-h",
+      "categoryId": "alphabet",
+      "text": "Hh",
+      "pinyin": [],
+      "symbol": "Hh",
+      "audio": "audio/en-h.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Hat · 帽子。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "07"
+    },
+    {
+      "id": "en-i",
+      "categoryId": "alphabet",
+      "text": "Ii",
+      "pinyin": [],
+      "symbol": "Ii",
+      "audio": "audio/en-i.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Ice · 冰。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "08"
+    },
+    {
+      "id": "en-j",
+      "categoryId": "alphabet",
+      "text": "Jj",
+      "pinyin": [],
+      "symbol": "Jj",
+      "audio": "audio/en-j.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Juice · 果汁。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "09"
+    },
+    {
+      "id": "en-k",
+      "categoryId": "alphabet",
+      "text": "Kk",
+      "pinyin": [],
+      "symbol": "Kk",
+      "audio": "audio/en-k.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Kite · 风筝。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "10"
+    },
+    {
+      "id": "en-l",
+      "categoryId": "alphabet",
+      "text": "Ll",
+      "pinyin": [],
+      "symbol": "Ll",
+      "audio": "audio/en-l.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Lion · 狮子。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "11"
+    },
+    {
+      "id": "en-m",
+      "categoryId": "alphabet",
+      "text": "Mm",
+      "pinyin": [],
+      "symbol": "Mm",
+      "audio": "audio/en-m.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Moon · 月亮。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "12"
+    },
+    {
+      "id": "en-n",
+      "categoryId": "alphabet",
+      "text": "Nn",
+      "pinyin": [],
+      "symbol": "Nn",
+      "audio": "audio/en-n.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Nest · 鸟巢。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "13"
+    },
+    {
+      "id": "en-o",
+      "categoryId": "alphabet",
+      "text": "Oo",
+      "pinyin": [],
+      "symbol": "Oo",
+      "audio": "audio/en-o.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Orange · 橙子。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "14"
+    },
+    {
+      "id": "en-p",
+      "categoryId": "alphabet",
+      "text": "Pp",
+      "pinyin": [],
+      "symbol": "Pp",
+      "audio": "audio/en-p.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Pig · 猪。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "15"
+    },
+    {
+      "id": "en-q",
+      "categoryId": "alphabet",
+      "text": "Qq",
+      "pinyin": [],
+      "symbol": "Qq",
+      "audio": "audio/en-q.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Queen · 女王。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "16"
+    },
+    {
+      "id": "en-r",
+      "categoryId": "alphabet",
+      "text": "Rr",
+      "pinyin": [],
+      "symbol": "Rr",
+      "audio": "audio/en-r.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Rabbit · 兔子。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "17"
+    },
+    {
+      "id": "en-s",
+      "categoryId": "alphabet",
+      "text": "Ss",
+      "pinyin": [],
+      "symbol": "Ss",
+      "audio": "audio/en-s.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Sun · 太阳。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "18"
+    },
+    {
+      "id": "en-t",
+      "categoryId": "alphabet",
+      "text": "Tt",
+      "pinyin": [],
+      "symbol": "Tt",
+      "audio": "audio/en-t.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Tree · 树。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "19"
+    },
+    {
+      "id": "en-u",
+      "categoryId": "alphabet",
+      "text": "Uu",
+      "pinyin": [],
+      "symbol": "Uu",
+      "audio": "audio/en-u.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Umbrella · 雨伞。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "20"
+    },
+    {
+      "id": "en-v",
+      "categoryId": "alphabet",
+      "text": "Vv",
+      "pinyin": [],
+      "symbol": "Vv",
+      "audio": "audio/en-v.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Van · 厢式货车。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "21"
+    },
+    {
+      "id": "en-w",
+      "categoryId": "alphabet",
+      "text": "Ww",
+      "pinyin": [],
+      "symbol": "Ww",
+      "audio": "audio/en-w.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Water · 水。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "22"
+    },
+    {
+      "id": "en-x",
+      "categoryId": "alphabet",
+      "text": "Xx",
+      "pinyin": [],
+      "symbol": "Xx",
+      "audio": "audio/en-x.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "X-ray · X 光。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "23"
+    },
+    {
+      "id": "en-y",
+      "categoryId": "alphabet",
+      "text": "Yy",
+      "pinyin": [],
+      "symbol": "Yy",
+      "audio": "audio/en-y.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Yo-yo · 悠悠球。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "24"
+    },
+    {
+      "id": "en-z",
+      "categoryId": "alphabet",
+      "text": "Zz",
+      "pinyin": [],
+      "symbol": "Zz",
+      "audio": "audio/en-z.wav",
+      "audioQuality": "demo",
+      "note": "英文字母 · 名称发音（美式合成示范）",
+      "example": "Zebra · 斑马。当前按钮只读字母名称，不朗读例词。",
+      "sortKey": "25"
+    },
+    {
+      "id": "family-dad",
+      "categoryId": "family",
+      "text": "爸爸",
+      "pinyin": [
+        "bà",
+        "ba"
+      ],
+      "symbol": "👨",
+      "audio": "audio/family-dad.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "爸爸是家中的一位长辈。可以和爸爸一起读书、做游戏。",
+      "sortKey": "00"
+    },
+    {
+      "id": "family-mom",
+      "categoryId": "family",
+      "text": "妈妈",
+      "pinyin": [
+        "mā",
+        "ma"
+      ],
+      "symbol": "👩",
+      "audio": "audio/family-mom.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "妈妈是家中的一位长辈。可以对妈妈说说今天的发现。",
+      "sortKey": "01"
+    },
+    {
+      "id": "family-grandpa",
+      "categoryId": "family",
+      "text": "爷爷",
+      "pinyin": [
+        "yé",
+        "ye"
+      ],
+      "symbol": "👴",
+      "audio": "audio/family-grandpa.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "爸爸的爸爸，通常称作爷爷。",
+      "sortKey": "02"
+    },
+    {
+      "id": "family-grandma",
+      "categoryId": "family",
+      "text": "奶奶",
+      "pinyin": [
+        "nǎi",
+        "nai"
+      ],
+      "symbol": "👵",
+      "audio": "audio/family-grandma.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "爸爸的妈妈，通常称作奶奶。",
+      "sortKey": "03"
+    },
+    {
+      "id": "family-brother",
+      "categoryId": "family",
+      "text": "哥哥",
+      "pinyin": [
+        "gē",
+        "ge"
+      ],
+      "symbol": "🧑",
+      "audio": "audio/family-brother.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "哥哥是比自己年长的男性同辈家人。",
+      "sortKey": "04"
+    },
+    {
+      "id": "family-sister",
+      "categoryId": "family",
+      "text": "姐姐",
+      "pinyin": [
+        "jiě",
+        "jie"
+      ],
+      "symbol": "👧",
+      "audio": "audio/family-sister.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "姐姐是比自己年长的女性同辈家人。",
+      "sortKey": "05"
+    },
+    {
+      "id": "body-eyes",
+      "categoryId": "body",
+      "text": "眼睛",
+      "pinyin": [
+        "yǎn",
+        "jing"
+      ],
+      "symbol": "👀",
+      "audio": "audio/body-eyes.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "眼睛帮助我们看见颜色和形状。",
+      "sortKey": "00"
+    },
+    {
+      "id": "body-ears",
+      "categoryId": "body",
+      "text": "耳朵",
+      "pinyin": [
+        "ěr",
+        "duo"
+      ],
+      "symbol": "👂",
+      "audio": "audio/body-ears.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "耳朵帮助我们听到声音。",
+      "sortKey": "01"
+    },
+    {
+      "id": "body-nose",
+      "categoryId": "body",
+      "text": "鼻子",
+      "pinyin": [
+        "bí",
+        "zi"
+      ],
+      "symbol": "👃",
+      "audio": "audio/body-nose.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "鼻子能闻到气味，也帮助我们呼吸。",
+      "sortKey": "02"
+    },
+    {
+      "id": "body-mouth",
+      "categoryId": "body",
+      "text": "嘴巴",
+      "pinyin": [
+        "zuǐ",
+        "ba"
+      ],
+      "symbol": "👄",
+      "audio": "audio/body-mouth.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "嘴巴可以说话，也可以吃东西。",
+      "sortKey": "03"
+    },
+    {
+      "id": "body-hand",
+      "categoryId": "body",
+      "text": "手",
+      "pinyin": [
+        "shǒu"
+      ],
+      "symbol": "✋",
+      "audio": "audio/body-hand.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "手可以抓握东西，也可以帮助我们画画。",
+      "sortKey": "04"
+    },
+    {
+      "id": "body-foot",
+      "categoryId": "body",
+      "text": "脚",
+      "pinyin": [
+        "jiǎo"
+      ],
+      "symbol": "🦶",
+      "audio": "audio/body-foot.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "脚帮助我们站立和行走。",
+      "sortKey": "05"
+    },
+    {
+      "id": "sports-run",
+      "categoryId": "sports",
+      "text": "跑步",
+      "pinyin": [
+        "pǎo",
+        "bù"
+      ],
+      "symbol": "🏃",
+      "audio": "audio/sports-run.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "跑步时，双脚轮流向前迈。",
+      "sortKey": "00"
+    },
+    {
+      "id": "sports-swim",
+      "categoryId": "sports",
+      "text": "游泳",
+      "pinyin": [
+        "yóu",
+        "yǒng"
+      ],
+      "symbol": "🏊",
+      "audio": "audio/sports-swim.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "游泳是在水中的运动，儿童要由合适的成人看护。",
+      "sortKey": "01"
+    },
+    {
+      "id": "sports-rope",
+      "categoryId": "sports",
+      "text": "跳绳",
+      "pinyin": [
+        "tiào",
+        "shéng"
+      ],
+      "symbol": "rope",
+      "audio": "audio/sports-rope.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "绳子从脚下经过时，双脚轻轻跳起。",
+      "sortKey": "02"
+    },
+    {
+      "id": "sports-soccer",
+      "categoryId": "sports",
+      "text": "足球",
+      "pinyin": [
+        "zú",
+        "qiú"
+      ],
+      "symbol": "⚽",
+      "audio": "audio/sports-soccer.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "足球运动主要用脚控制球。",
+      "sortKey": "03"
+    },
+    {
+      "id": "sports-basketball",
+      "categoryId": "sports",
+      "text": "篮球",
+      "pinyin": [
+        "lán",
+        "qiú"
+      ],
+      "symbol": "🏀",
+      "audio": "audio/sports-basketball.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "篮球可以拍着走，也可以投向篮筐。",
+      "sortKey": "04"
+    },
+    {
+      "id": "sports-pingpong",
+      "categoryId": "sports",
+      "text": "乒乓球",
+      "pinyin": [
+        "pīng",
+        "pāng",
+        "qiú"
+      ],
+      "symbol": "🏓",
+      "audio": "audio/sports-pingpong.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "乒乓球使用球拍，在球台两边对打。",
+      "sortKey": "05"
+    },
+    {
+      "id": "jobs-doctor",
+      "categoryId": "jobs",
+      "text": "医生",
+      "pinyin": [
+        "yī",
+        "shēng"
+      ],
+      "symbol": "🧑‍⚕️",
+      "audio": "audio/jobs-doctor.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "医生帮助人们诊断和治疗疾病。",
+      "sortKey": "00"
+    },
+    {
+      "id": "jobs-teacher",
+      "categoryId": "jobs",
+      "text": "老师",
+      "pinyin": [
+        "lǎo",
+        "shī"
+      ],
+      "symbol": "🧑‍🏫",
+      "audio": "audio/jobs-teacher.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "老师帮助我们学习知识与本领。",
+      "sortKey": "01"
+    },
+    {
+      "id": "jobs-police",
+      "categoryId": "jobs",
+      "text": "警察",
+      "pinyin": [
+        "jǐng",
+        "chá"
+      ],
+      "symbol": "👮",
+      "audio": "audio/jobs-police.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "警察维护公共秩序，帮助有需要的人。",
+      "sortKey": "02"
+    },
+    {
+      "id": "jobs-firefighter",
+      "categoryId": "jobs",
+      "text": "消防员",
+      "pinyin": [
+        "xiāo",
+        "fáng",
+        "yuán"
+      ],
+      "symbol": "🧑‍🚒",
+      "audio": "audio/jobs-firefighter.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "消防员灭火，也参与各种救援。",
+      "sortKey": "03"
+    },
+    {
+      "id": "jobs-cook",
+      "categoryId": "jobs",
+      "text": "厨师",
+      "pinyin": [
+        "chú",
+        "shī"
+      ],
+      "symbol": "🧑‍🍳",
+      "audio": "audio/jobs-cook.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "厨师把食材做成可口的饭菜。",
+      "sortKey": "04"
+    },
+    {
+      "id": "jobs-farmer",
+      "categoryId": "jobs",
+      "text": "农民",
+      "pinyin": [
+        "nóng",
+        "mín"
+      ],
+      "symbol": "🧑‍🌾",
+      "audio": "audio/jobs-farmer.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "农民种植作物或从事其他农业劳动。",
+      "sortKey": "05"
+    },
+    {
+      "id": "colors-red",
+      "categoryId": "colors",
+      "text": "红色",
+      "pinyin": [
+        "hóng",
+        "sè"
+      ],
+      "symbol": "red",
+      "audio": "audio/colors-red.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "熟透的番茄常常是红色的。",
+      "sortKey": "00"
+    },
+    {
+      "id": "colors-yellow",
+      "categoryId": "colors",
+      "text": "黄色",
+      "pinyin": [
+        "huáng",
+        "sè"
+      ],
+      "symbol": "yellow",
+      "audio": "audio/colors-yellow.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "成熟的香蕉常常是黄色的。",
+      "sortKey": "01"
+    },
+    {
+      "id": "colors-blue",
+      "categoryId": "colors",
+      "text": "蓝色",
+      "pinyin": [
+        "lán",
+        "sè"
+      ],
+      "symbol": "blue",
+      "audio": "audio/colors-blue.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "晴朗的天空常常是蓝色的。",
+      "sortKey": "02"
+    },
+    {
+      "id": "colors-green",
+      "categoryId": "colors",
+      "text": "绿色",
+      "pinyin": [
+        "lǜ",
+        "sè"
+      ],
+      "symbol": "green",
+      "audio": "audio/colors-green.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "许多植物的叶子是绿色的。",
+      "sortKey": "03"
+    },
+    {
+      "id": "colors-black",
+      "categoryId": "colors",
+      "text": "黑色",
+      "pinyin": [
+        "hēi",
+        "sè"
+      ],
+      "symbol": "black",
+      "audio": "audio/colors-black.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "黑色是很深的颜色。",
+      "sortKey": "04"
+    },
+    {
+      "id": "colors-white",
+      "categoryId": "colors",
+      "text": "白色",
+      "pinyin": [
+        "bái",
+        "sè"
+      ],
+      "symbol": "white",
+      "audio": "audio/colors-white.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "白色图块的边框帮助我们看清它的形状。",
+      "sortKey": "05"
+    },
+    {
+      "id": "shapes-circle",
+      "categoryId": "shapes",
+      "text": "圆形",
+      "pinyin": [
+        "yuán",
+        "xíng"
+      ],
+      "symbol": "circle",
+      "audio": "audio/shapes-circle.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "圆形的边是弯曲的，没有角。",
+      "sortKey": "00"
+    },
+    {
+      "id": "shapes-square",
+      "categoryId": "shapes",
+      "text": "正方形",
+      "pinyin": [
+        "zhèng",
+        "fāng",
+        "xíng"
+      ],
+      "symbol": "square",
+      "audio": "audio/shapes-square.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "正方形有四条相等的边和四个直角。",
+      "sortKey": "01"
+    },
+    {
+      "id": "shapes-triangle",
+      "categoryId": "shapes",
+      "text": "三角形",
+      "pinyin": [
+        "sān",
+        "jiǎo",
+        "xíng"
+      ],
+      "symbol": "triangle",
+      "audio": "audio/shapes-triangle.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "三角形有三条边、三个角。",
+      "sortKey": "02"
+    },
+    {
+      "id": "shapes-rectangle",
+      "categoryId": "shapes",
+      "text": "长方形",
+      "pinyin": [
+        "cháng",
+        "fāng",
+        "xíng"
+      ],
+      "symbol": "rectangle",
+      "audio": "audio/shapes-rectangle.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "长方形的对边相等，有四个直角。",
+      "sortKey": "03"
+    },
+    {
+      "id": "shapes-oval",
+      "categoryId": "shapes",
+      "text": "椭圆形",
+      "pinyin": [
+        "tuǒ",
+        "yuán",
+        "xíng"
+      ],
+      "symbol": "oval",
+      "audio": "audio/shapes-oval.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "椭圆形像拉长的圆。",
+      "sortKey": "04"
+    },
+    {
+      "id": "shapes-star",
+      "categoryId": "shapes",
+      "text": "五角星",
+      "pinyin": [
+        "wǔ",
+        "jiǎo",
+        "xīng"
+      ],
+      "symbol": "star",
+      "audio": "audio/shapes-star.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "五角星有五个向外伸出的尖角。",
+      "sortKey": "05"
+    },
+    {
+      "id": "animal-cat",
+      "categoryId": "animals",
+      "text": "猫",
+      "pinyin": [
+        "māo"
+      ],
+      "symbol": "🐱",
+      "audio": "audio/animal-cat.wav",
+      "note": "认知学习 · 图形示意",
+      "example": "猫有灵敏的耳朵和长长的胡须。",
+      "audioQuality": "demo",
+      "sortKey": "00"
+    },
+    {
+      "id": "animal-dog",
+      "categoryId": "animals",
+      "text": "狗",
+      "pinyin": [
+        "gǒu"
+      ],
+      "symbol": "🐶",
+      "audio": "audio/animal-dog.wav",
+      "note": "认知学习 · 图形示意",
+      "example": "狗的鼻子很灵敏，能闻到许多气味。",
+      "audioQuality": "demo",
+      "sortKey": "01"
+    },
+    {
+      "id": "animal-rabbit",
+      "categoryId": "animals",
+      "text": "兔",
+      "pinyin": [
+        "tù"
+      ],
+      "symbol": "🐰",
+      "audio": "audio/animal-rabbit.wav",
+      "note": "认知学习 · 图形示意",
+      "example": "兔子有长长的耳朵，喜欢吃草。",
+      "audioQuality": "demo",
+      "sortKey": "02"
+    },
+    {
+      "id": "animal-bird",
+      "categoryId": "animals",
+      "text": "鸟",
+      "pinyin": [
+        "niǎo"
+      ],
+      "symbol": "🐦",
+      "audio": "audio/animal-bird.wav",
+      "note": "认知学习 · 图形示意",
+      "example": "鸟的身上有羽毛，许多鸟会飞。",
+      "audioQuality": "demo",
+      "sortKey": "03"
+    },
+    {
+      "id": "animal-fish",
+      "categoryId": "animals",
+      "text": "鱼",
+      "pinyin": [
+        "yú"
+      ],
+      "symbol": "🐟",
+      "audio": "audio/animal-fish.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "许多鱼生活在水中，用鳃呼吸。",
+      "sortKey": "04"
+    },
+    {
+      "id": "animal-cow",
+      "categoryId": "animals",
+      "text": "牛",
+      "pinyin": [
+        "niú"
+      ],
+      "symbol": "🐄",
+      "audio": "audio/animal-cow.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "牛是常见的家畜，主要吃草等植物。",
+      "sortKey": "05"
+    },
+    {
+      "id": "plants-tree",
+      "categoryId": "plants",
+      "text": "树",
+      "pinyin": [
+        "shù"
+      ],
+      "symbol": "🌳",
+      "audio": "audio/plants-tree.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "树有树干和树枝，许多树会长出茂密的叶子。",
+      "sortKey": "00"
+    },
+    {
+      "id": "plants-grass",
+      "categoryId": "plants",
+      "text": "草",
+      "pinyin": [
+        "cǎo"
+      ],
+      "symbol": "grass",
+      "audio": "audio/plants-grass.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "草通常比较矮小，叶子细长。",
+      "sortKey": "01"
+    },
+    {
+      "id": "plants-lotus",
+      "categoryId": "plants",
+      "text": "荷花",
+      "pinyin": [
+        "hé",
+        "huā"
+      ],
+      "symbol": "🪷",
+      "audio": "audio/plants-lotus.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "荷花生长在水中，常在夏天开放。",
+      "sortKey": "02"
+    },
+    {
+      "id": "plants-sunflower",
+      "categoryId": "plants",
+      "text": "向日葵",
+      "pinyin": [
+        "xiàng",
+        "rì",
+        "kuí"
+      ],
+      "symbol": "🌻",
+      "audio": "audio/plants-sunflower.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "向日葵有大大的花盘。",
+      "sortKey": "03"
+    },
+    {
+      "id": "plants-pine",
+      "categoryId": "plants",
+      "text": "松树",
+      "pinyin": [
+        "sōng",
+        "shù"
+      ],
+      "symbol": "🌲",
+      "audio": "audio/plants-pine.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "松树的叶子常呈针形，许多种类四季常青。",
+      "sortKey": "04"
+    },
+    {
+      "id": "plants-bamboo",
+      "categoryId": "plants",
+      "text": "竹子",
+      "pinyin": [
+        "zhú",
+        "zi"
+      ],
+      "symbol": "bamboo",
+      "audio": "audio/plants-bamboo.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "竹子的茎一节一节，叫作竹节。",
+      "sortKey": "05"
+    },
+    {
+      "id": "foods-apple",
+      "categoryId": "foods",
+      "text": "苹果",
+      "pinyin": [
+        "píng",
+        "guǒ"
+      ],
+      "symbol": "🍎",
+      "audio": "audio/foods-apple.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "苹果是一种常见的水果。",
+      "sortKey": "00"
+    },
+    {
+      "id": "foods-banana",
+      "categoryId": "foods",
+      "text": "香蕉",
+      "pinyin": [
+        "xiāng",
+        "jiāo"
+      ],
+      "symbol": "🍌",
+      "audio": "audio/foods-banana.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "香蕉有弯弯的外形，吃之前先剥皮。",
+      "sortKey": "01"
+    },
+    {
+      "id": "foods-rice",
+      "categoryId": "foods",
+      "text": "米饭",
+      "pinyin": [
+        "mǐ",
+        "fàn"
+      ],
+      "symbol": "🍚",
+      "audio": "audio/foods-rice.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "大米加水煮熟，可以做成米饭。",
+      "sortKey": "02"
+    },
+    {
+      "id": "foods-bread",
+      "categoryId": "foods",
+      "text": "面包",
+      "pinyin": [
+        "miàn",
+        "bāo"
+      ],
+      "symbol": "🍞",
+      "audio": "audio/foods-bread.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "面包一般由面粉等原料烘烤而成。",
+      "sortKey": "03"
+    },
+    {
+      "id": "foods-egg",
+      "categoryId": "foods",
+      "text": "鸡蛋",
+      "pinyin": [
+        "jī",
+        "dàn"
+      ],
+      "symbol": "🥚",
+      "audio": "audio/foods-egg.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "鸡蛋有蛋壳、蛋白和蛋黄。",
+      "sortKey": "04"
+    },
+    {
+      "id": "foods-milk",
+      "categoryId": "foods",
+      "text": "牛奶",
+      "pinyin": [
+        "niú",
+        "nǎi"
+      ],
+      "symbol": "🥛",
+      "audio": "audio/foods-milk.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "牛奶是常见的饮品，饮用前注意保质期。",
+      "sortKey": "05"
+    },
+    {
+      "id": "vehicles-bike",
+      "categoryId": "vehicles",
+      "text": "自行车",
+      "pinyin": [
+        "zì",
+        "xíng",
+        "chē"
+      ],
+      "symbol": "🚲",
+      "audio": "audio/vehicles-bike.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "自行车通常依靠踩踏脚踏板前进。",
+      "sortKey": "00"
+    },
+    {
+      "id": "vehicles-car",
+      "categoryId": "vehicles",
+      "text": "汽车",
+      "pinyin": [
+        "qì",
+        "chē"
+      ],
+      "symbol": "🚗",
+      "audio": "audio/vehicles-car.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "汽车在道路上行驶，乘坐时要系安全带。",
+      "sortKey": "01"
+    },
+    {
+      "id": "vehicles-bus",
+      "categoryId": "vehicles",
+      "text": "公交车",
+      "pinyin": [
+        "gōng",
+        "jiāo",
+        "chē"
+      ],
+      "symbol": "🚌",
+      "audio": "audio/vehicles-bus.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "公交车按照一定的路线和站点运送乘客。",
+      "sortKey": "02"
+    },
+    {
+      "id": "vehicles-train",
+      "categoryId": "vehicles",
+      "text": "火车",
+      "pinyin": [
+        "huǒ",
+        "chē"
+      ],
+      "symbol": "🚆",
+      "audio": "audio/vehicles-train.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "火车沿着铁轨行驶。",
+      "sortKey": "03"
+    },
+    {
+      "id": "vehicles-ship",
+      "categoryId": "vehicles",
+      "text": "轮船",
+      "pinyin": [
+        "lún",
+        "chuán"
+      ],
+      "symbol": "🚢",
+      "audio": "audio/vehicles-ship.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "轮船在水面上航行。",
+      "sortKey": "04"
+    },
+    {
+      "id": "vehicles-plane",
+      "categoryId": "vehicles",
+      "text": "飞机",
+      "pinyin": [
+        "fēi",
+        "jī"
+      ],
+      "symbol": "✈️",
+      "audio": "audio/vehicles-plane.wav",
+      "audioQuality": "demo",
+      "note": "认知学习 · 图形示意",
+      "example": "飞机可以在空中飞行。",
+      "sortKey": "05"
+    },
+    {
+      "id": "poetry-yong-e",
+      "categoryId": "poetry",
+      "text": "咏鹅",
+      "pinyin": [
+        "yǒng",
+        "é"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "00-00",
+      "readingId": "poetry-yong-e",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-jingyesi",
+      "categoryId": "poetry",
+      "text": "静夜思",
+      "pinyin": [
+        "jìng",
+        "yè",
+        "sī"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "01-00",
+      "readingId": "poetry-jingyesi",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-chunxiao",
+      "categoryId": "poetry",
+      "text": "春晓",
+      "pinyin": [
+        "chūn",
+        "xiǎo"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "02-00",
+      "readingId": "poetry-chunxiao",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-minnong-2",
+      "categoryId": "poetry",
+      "text": "悯农（其二）",
+      "pinyin": [
+        "mǐn",
+        "nóng",
+        "",
+        "qí",
+        "èr",
+        ""
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "03-00",
+      "readingId": "poetry-minnong-2",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-dengguanquelou",
+      "categoryId": "poetry",
+      "text": "登鹳雀楼",
+      "pinyin": [
+        "dēng",
+        "guàn",
+        "què",
+        "lóu"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "04-00",
+      "readingId": "poetry-dengguanquelou",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-xunyinzhebuyu",
+      "categoryId": "poetry",
+      "text": "寻隐者不遇",
+      "pinyin": [
+        "xún",
+        "yǐn",
+        "zhě",
+        "bù",
+        "yù"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "05-00",
+      "readingId": "poetry-xunyinzhebuyu",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-jiangxue",
+      "categoryId": "poetry",
+      "text": "江雪",
+      "pinyin": [
+        "jiāng",
+        "xuě"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "06-00",
+      "readingId": "poetry-jiangxue",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-gulangyuexing-excerpt",
+      "categoryId": "poetry",
+      "text": "古朗月行（节选）",
+      "pinyin": [
+        "gǔ",
+        "lǎng",
+        "yuè",
+        "xíng",
+        "",
+        "jié",
+        "xuǎn",
+        ""
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "07-00",
+      "readingId": "poetry-gulangyuexing-excerpt",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-xiaochi",
+      "categoryId": "poetry",
+      "text": "小池",
+      "pinyin": [
+        "xiǎo",
+        "chí"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "08-00",
+      "readingId": "poetry-xiaochi",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "poetry-shanxing",
+      "categoryId": "poetry",
+      "text": "山行",
+      "pinyin": [
+        "shān",
+        "xíng"
+      ],
+      "symbol": "读",
+      "note": "古诗 · 自编解释",
+      "example": "读一读诗句，想一想诗人看到的景象。",
+      "sortKey": "09-00",
+      "readingId": "poetry-shanxing",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-shouzhudaitu",
+      "categoryId": "idioms",
+      "text": "守株待兔",
+      "pinyin": [
+        "shǒu",
+        "zhū",
+        "dài",
+        "tù"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "不能把偶然的好运当作每天都会发生的事情。",
+      "sortKey": "10-00",
+      "readingId": "idiom-shouzhudaitu",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-wangyangbulao",
+      "categoryId": "idioms",
+      "text": "亡羊补牢",
+      "pinyin": [
+        "wáng",
+        "yáng",
+        "bǔ",
+        "láo"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "发现问题后及时改进，仍然可以减少损失。",
+      "sortKey": "11-00",
+      "readingId": "idiom-wangyangbulao",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-huashetianzu",
+      "categoryId": "idioms",
+      "text": "画蛇添足",
+      "pinyin": [
+        "huà",
+        "shé",
+        "tiān",
+        "zú"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "做事要想清需要什么，并非添加得越多越好。",
+      "sortKey": "12-00",
+      "readingId": "idiom-huashetianzu",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-yanerdaoling",
+      "categoryId": "idioms",
+      "text": "掩耳盗铃",
+      "pinyin": [
+        "yǎn",
+        "ěr",
+        "dào",
+        "líng"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "不去听问题，并不表示问题就不存在。",
+      "sortKey": "13-00",
+      "readingId": "idiom-yanerdaoling",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-jingdizhiwa",
+      "categoryId": "idioms",
+      "text": "井底之蛙",
+      "pinyin": [
+        "jǐng",
+        "dǐ",
+        "zhī",
+        "wā"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "多听不同的见闻，可以帮助我们开阔眼界。",
+      "sortKey": "14-00",
+      "readingId": "idiom-jingdizhiwa",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-kezhouqiujian",
+      "categoryId": "idioms",
+      "text": "刻舟求剑",
+      "pinyin": [
+        "kè",
+        "zhōu",
+        "qiú",
+        "jiàn"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "情况改变后，解决问题的方法也需要调整。",
+      "sortKey": "15-00",
+      "readingId": "idiom-kezhouqiujian",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-bamiaozhuzhang",
+      "categoryId": "idioms",
+      "text": "拔苗助长",
+      "pinyin": [
+        "bá",
+        "miáo",
+        "zhù",
+        "zhǎng"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "成长需要时间，合适的帮助要尊重生长规律。",
+      "sortKey": "16-00",
+      "readingId": "idiom-bamiaozhuzhang",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-hujiahuawei",
+      "categoryId": "idioms",
+      "text": "狐假虎威",
+      "pinyin": [
+        "hú",
+        "jiǎ",
+        "hǔ",
+        "wēi"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "判断事情时，要分清看到的现象和真正的原因。",
+      "sortKey": "17-00",
+      "readingId": "idiom-hujiahuawei",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-zixiangmaodun",
+      "categoryId": "idioms",
+      "text": "自相矛盾",
+      "pinyin": [
+        "zì",
+        "xiāng",
+        "máo",
+        "dùn"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "说话要前后一致，夸大事实容易出现矛盾。",
+      "sortKey": "18-00",
+      "readingId": "idiom-zixiangmaodun",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "idiom-yugongyishan",
+      "categoryId": "idioms",
+      "text": "愚公移山",
+      "pinyin": [
+        "yú",
+        "gōng",
+        "yí",
+        "shān"
+      ],
+      "symbol": "读",
+      "note": "根据传统故事改写",
+      "example": "故事赞扬坚持和合作，实际做事也要考虑可行办法。",
+      "sortKey": "19-00",
+      "readingId": "idiom-yugongyishan",
+      "audio": null,
+      "audioQuality": "unavailable"
+    },
+    {
+      "id": "classic-opening-01",
+      "categoryId": "classics",
+      "text": "人之初",
+      "pinyin": [
+        "rén",
+        "zhī",
+        "chū"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-00",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-01"
+    },
+    {
+      "id": "classic-opening-02",
+      "categoryId": "classics",
+      "text": "性本善",
+      "pinyin": [
+        "xìng",
+        "běn",
+        "shàn"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-01",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-02"
+    },
+    {
+      "id": "classic-opening-03",
+      "categoryId": "classics",
+      "text": "性相近",
+      "pinyin": [
+        "xìng",
+        "xiāng",
+        "jìn"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-02",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-03"
+    },
+    {
+      "id": "classic-opening-04",
+      "categoryId": "classics",
+      "text": "习相远",
+      "pinyin": [
+        "xí",
+        "xiāng",
+        "yuǎn"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-03",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-04"
+    },
+    {
+      "id": "classic-opening-05",
+      "categoryId": "classics",
+      "text": "苟不教",
+      "pinyin": [
+        "gǒu",
+        "bù",
+        "jiào"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-04",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-05"
+    },
+    {
+      "id": "classic-opening-06",
+      "categoryId": "classics",
+      "text": "性乃迁",
+      "pinyin": [
+        "xìng",
+        "nǎi",
+        "qiān"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-05",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-06"
+    },
+    {
+      "id": "classic-opening-07",
+      "categoryId": "classics",
+      "text": "教之道",
+      "pinyin": [
+        "jiào",
+        "zhī",
+        "dào"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-06",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-07"
+    },
+    {
+      "id": "classic-opening-08",
+      "categoryId": "classics",
+      "text": "贵以专",
+      "pinyin": [
+        "guì",
+        "yǐ",
+        "zhuān"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-07",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-08"
+    },
+    {
+      "id": "classic-opening-09",
+      "categoryId": "classics",
+      "text": "昔孟母",
+      "pinyin": [
+        "xī",
+        "mèng",
+        "mǔ"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-08",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-09"
+    },
+    {
+      "id": "classic-opening-10",
+      "categoryId": "classics",
+      "text": "择邻处",
+      "pinyin": [
+        "zé",
+        "lín",
+        "chǔ"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-09",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-10"
+    },
+    {
+      "id": "classic-opening-11",
+      "categoryId": "classics",
+      "text": "子不学",
+      "pinyin": [
+        "zǐ",
+        "bù",
+        "xué"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-10",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-11"
+    },
+    {
+      "id": "classic-opening-12",
+      "categoryId": "classics",
+      "text": "断机杼",
+      "pinyin": [
+        "duàn",
+        "jī",
+        "zhù"
+      ],
+      "symbol": "读",
+      "note": "传统蒙学文本",
+      "example": "用今天的眼光阅读传统蒙学文本。每个孩子都有自己的成长节奏，不用这些话给孩子贴标签。",
+      "sortKey": "20-11",
+      "readingId": "classics-opening",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "readingLineId": "classics-opening-line-12"
+    },
+    {
+      "id": "number-0",
+      "categoryId": "numbers",
+      "text": "零",
+      "pinyin": [
+        "líng"
+      ],
+      "numberValue": 0,
+      "symbol": "0",
+      "sortKey": "00",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "一个也没有，就是零。"
+    },
+    {
+      "id": "number-1",
+      "categoryId": "numbers",
+      "text": "一",
+      "pinyin": [
+        "yī"
+      ],
+      "numberValue": 1,
+      "symbol": "1",
+      "sortKey": "01",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 1 个。"
+    },
+    {
+      "id": "number-2",
+      "categoryId": "numbers",
+      "text": "二",
+      "pinyin": [
+        "èr"
+      ],
+      "numberValue": 2,
+      "symbol": "2",
+      "sortKey": "02",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 2 个。"
+    },
+    {
+      "id": "number-3",
+      "categoryId": "numbers",
+      "text": "三",
+      "pinyin": [
+        "sān"
+      ],
+      "numberValue": 3,
+      "symbol": "3",
+      "sortKey": "03",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 3 个。"
+    },
+    {
+      "id": "number-4",
+      "categoryId": "numbers",
+      "text": "四",
+      "pinyin": [
+        "sì"
+      ],
+      "numberValue": 4,
+      "symbol": "4",
+      "sortKey": "04",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 4 个。"
+    },
+    {
+      "id": "number-5",
+      "categoryId": "numbers",
+      "text": "五",
+      "pinyin": [
+        "wǔ"
+      ],
+      "numberValue": 5,
+      "symbol": "5",
+      "sortKey": "05",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 5 个。"
+    },
+    {
+      "id": "number-6",
+      "categoryId": "numbers",
+      "text": "六",
+      "pinyin": [
+        "liù"
+      ],
+      "numberValue": 6,
+      "symbol": "6",
+      "sortKey": "06",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 6 个。"
+    },
+    {
+      "id": "number-7",
+      "categoryId": "numbers",
+      "text": "七",
+      "pinyin": [
+        "qī"
+      ],
+      "numberValue": 7,
+      "symbol": "7",
+      "sortKey": "07",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 7 个。"
+    },
+    {
+      "id": "number-8",
+      "categoryId": "numbers",
+      "text": "八",
+      "pinyin": [
+        "bā"
+      ],
+      "numberValue": 8,
+      "symbol": "8",
+      "sortKey": "08",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 8 个。"
+    },
+    {
+      "id": "number-9",
+      "categoryId": "numbers",
+      "text": "九",
+      "pinyin": [
+        "jiǔ"
+      ],
+      "numberValue": 9,
+      "symbol": "9",
+      "sortKey": "09",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 9 个。"
+    },
+    {
+      "id": "number-10",
+      "categoryId": "numbers",
+      "text": "十",
+      "pinyin": [
+        "shí"
+      ],
+      "numberValue": 10,
+      "symbol": "10",
+      "sortKey": "10",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "数字与数量 · 自编课程",
+      "example": "数一数，这里有 10 个。"
+    },
+    {
+      "id": "book-share-toys",
+      "storyId": "book-share-toys",
+      "categoryId": "books",
+      "text": "一起玩小火车",
+      "pinyin": [
+        "yì",
+        "qǐ",
+        "wán",
+        "xiǎo",
+        "huǒ",
+        "chē"
+      ],
+      "symbol": "绘",
+      "sortKey": "00",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "两位朋友商量怎样一起玩，也尊重正在使用玩具的人。",
+      "coverSceneId": "share-01"
+    },
+    {
+      "id": "book-tidy-up",
+      "storyId": "book-tidy-up",
+      "categoryId": "books",
+      "text": "玩具回家啦",
+      "pinyin": [
+        "wán",
+        "jù",
+        "huí",
+        "jiā",
+        "la"
+      ],
+      "symbol": "绘",
+      "sortKey": "01",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "整理可以分成小步骤，也可以邀请别人一起帮忙。",
+      "coverSceneId": "tidy-01"
+    },
+    {
+      "id": "book-feelings",
+      "storyId": "book-feelings",
+      "categoryId": "books",
+      "text": "我有一点生气",
+      "pinyin": [
+        "wǒ",
+        "yǒu",
+        "yì",
+        "diǎn",
+        "shēng",
+        "qì"
+      ],
+      "symbol": "绘",
+      "sortKey": "02",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "感受可以被看见，也可以用安全的方法表达需要。",
+      "coverSceneId": "feelings-01"
+    },
+    {
+      "id": "dialog-greeting",
+      "storyId": "dialog-greeting",
+      "categoryId": "dialog",
+      "text": "见面问好",
+      "pinyin": [
+        "jiàn",
+        "miàn",
+        "wèn",
+        "hǎo"
+      ],
+      "symbol": "聊",
+      "sortKey": "03",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "和家长分角色读一读，也可以换成自己的话。"
+    },
+    {
+      "id": "dialog-thanks",
+      "storyId": "dialog-thanks",
+      "categoryId": "dialog",
+      "text": "表达感谢",
+      "pinyin": [
+        "biǎo",
+        "dá",
+        "gǎn",
+        "xiè"
+      ],
+      "symbol": "聊",
+      "sortKey": "04",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "和家长分角色读一读，也可以换成自己的话。"
+    },
+    {
+      "id": "dialog-borrowing",
+      "storyId": "dialog-borrowing",
+      "categoryId": "dialog",
+      "text": "借用玩具",
+      "pinyin": [
+        "jiè",
+        "yòng",
+        "wán",
+        "jù"
+      ],
+      "symbol": "聊",
+      "sortKey": "05",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "和家长分角色读一读，也可以换成自己的话。"
+    },
+    {
+      "id": "dialog-help",
+      "storyId": "dialog-help",
+      "categoryId": "dialog",
+      "text": "我需要帮助",
+      "pinyin": [
+        "wǒ",
+        "xū",
+        "yào",
+        "bāng",
+        "zhù"
+      ],
+      "symbol": "聊",
+      "sortKey": "06",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "和家长分角色读一读，也可以换成自己的话。"
+    },
+    {
+      "id": "dialog-taking-turns",
+      "storyId": "dialog-taking-turns",
+      "categoryId": "dialog",
+      "text": "商量轮流",
+      "pinyin": [
+        "shāng",
+        "liáng",
+        "lún",
+        "liú"
+      ],
+      "symbol": "聊",
+      "sortKey": "07",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "和家长分角色读一读，也可以换成自己的话。"
+    },
+    {
+      "id": "dialog-feelings",
+      "storyId": "dialog-feelings",
+      "categoryId": "dialog",
+      "text": "说说我的感受",
+      "pinyin": [
+        "shuō",
+        "shuō",
+        "wǒ",
+        "de",
+        "gǎn",
+        "shòu"
+      ],
+      "symbol": "聊",
+      "sortKey": "08",
+      "audio": null,
+      "audioQuality": "unavailable",
+      "note": "自编图文 · 离线阅读",
+      "example": "和家长分角色读一读，也可以换成自己的话。"
+    }
+  ],
+  "readingRevision": "7d4e816f785a23fd8ad1ffe243dd601a90376264e04df164fdc6ea5654616c8b",
+  "storyRevision": "01689d3aaaba6c2ba14f44a4cfc34c16effff38735324bbcde720ad11000cd6b"
+}
